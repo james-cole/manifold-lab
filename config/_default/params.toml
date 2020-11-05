@@ -71,7 +71,7 @@ diagram = false
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
@@ -97,7 +97,7 @@ address = {street = "90 High Holborn", city = "London", region = "", postcode = 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.51831514616896", longitude = "-0.11806791517122309"}
+coordinates = {latitude = "51.518", longitude = "-0.118"}
 
 # Directions for visitors to locate you.
 directions = "1st floor UCL Engineering"
@@ -262,7 +262,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
+  engine = 2
   api_key = ""
   zoom = 15
 
