@@ -1,6 +1,3 @@
-authors:
-- melis_anaturk
-  
 ---
 # Display name
 title: Melis Anaturk
