@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- Researchers
 ---
 
 James Cole is an Associate Professor of Neuroimage Analysis at the Centre for Medical Imaging Computer (CMIC) and Dementia Research Centre (DRC) at University College London (UCL). His research interests include brains and statistics. He leads the MANIFOLD Lab. Test 
