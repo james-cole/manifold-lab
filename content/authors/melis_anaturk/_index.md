@@ -17,17 +17,13 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include brains
+bio: My research interests include brains.
 
 interests:
-- Neuroscience
 - Neuroimaging
 - Ageing
 - Dementia
-- Neurodegenerative diseases
-- Artificial Intelligence
-- Machine Learning
-- Information Processing
+
 
 #education:
 #  courses:
@@ -76,5 +72,5 @@ user_groups:
 - Researchers
 ---
 
-James Cole is an Associate Professor of Neuroimage Analysis at the Centre for Medical Imaging Computer (CMIC) and Dementia Research Centre (DRC) at University College London (UCL). His research interests include brains and statistics. He leads the MANIFOLD Lab.
+Insert brief bio here.
 
