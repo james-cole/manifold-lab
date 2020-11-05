@@ -45,7 +45,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:james.cole@ucl.ac.uk".
+  link: "mailto:james.cole@ucl.ac.uk"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JamesCole_Neuro
@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Principal Investigator
 ---
 
 James Cole is an Associate Professor of Neuroimage Analysis at the Centre for Medical Imaging Computer (CMIC) and Dementia Research Centre (DRC) at University College London (UCL). His research interests include brains and statistics. He leads the MANIFOLD Lab.
