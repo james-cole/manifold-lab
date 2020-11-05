@@ -71,8 +71,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
-James Cole is an Associate Professor of Neuroimage Analysis at the Centre for Medical Imaging Computer (CMIC) and Dementia Research Centre (DRC) at University College London (UCL). His research interests include brains..., . He leads the MANIFOLD Lab.
+James Cole is an Associate Professor of Neuroimage Analysis at the Centre for Medical Imaging Computer (CMIC) and Dementia Research Centre (DRC) at University College London (UCL). His research interests include brains and statistics. He leads the MANIFOLD Lab.
 
