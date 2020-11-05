@@ -1,6 +1,6 @@
 ---
 authors:
-serena_verdi
+- serena_verdi
 
 # Display name
 title: Serena Verdi
