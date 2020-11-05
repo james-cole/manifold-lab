@@ -1,4 +1,7 @@
 ---
+authors:
+melis_anaturk
+
 # Display name
 title: Melis Anaturk
 
@@ -20,7 +23,6 @@ interests:
 - Neuroimaging
 - Ageing
 - Dementia
-
 
 #education:
 #  courses:
