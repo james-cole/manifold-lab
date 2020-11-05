@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/36d200a6-e622-4700-af8b-7d3624f57090/deploy-status)](https://app.netlify.com/sites/manifold-lab/deploys)
+
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
 The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
