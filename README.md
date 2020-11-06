@@ -1,5 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/36d200a6-e622-4700-af8b-7d3624f57090/deploy-status)](https://app.netlify.com/sites/manifold-lab/deploys)
 
+# Website for the UCL MANIFOLD Lab
+
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
 The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
@@ -14,12 +16,6 @@ The Hugo **Academic Resumé Template** empowers you to create your job-winning o
 - 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
 - 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
 - ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
-
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
 
 ## Ecosystem
 
