@@ -29,10 +29,10 @@ interests:
 education:
   #courses:
   - course: PhD in Neuroimaging Genetics
-    institution: Stanford University
+    institution: King's College London
     year: 2010
   - course: MSc Social, Genetic & Developmental Psychiatry
-    institution: Massachusetts Institute of Technology
+    institution: King's College London
     year: 2007
  -  course: BSc in Experimental Psychology
     institution: University of Bristol
