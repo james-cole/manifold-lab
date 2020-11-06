@@ -41,10 +41,10 @@ interests:
 education:
   courses:
   - course: PhD in Neuroimaging Genetics
-    institution: KCL
+    institution: King's College London
     year: 2010
   - course: MSc in Social, Genetic & Developmental Psychiatry
-    institution: KCL
+    institution: King's College London
     year: 2007
   - course: BSc in Experimental Psychology
     institution: University of Bristol
