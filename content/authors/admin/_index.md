@@ -26,17 +26,29 @@ interests:
 - Machine Learning
 - Information Processing
 
+# education:
+ # courses:
+#  - course: PhD in Neuroimaging Genetics
+ #   institution: King's College London
+  #  year: 2010
+ # - course: MSc Social, Genetic & Developmental Psychiatry
+ #   institution: King's College London
+ #   year: 2007
+# -  course: BSc in Experimental Psychology
+#    institution: University of Bristol
+#    year: 2005
+
 education:
-  #courses:
-  - course: PhD in Neuroimaging Genetics
-    institution: King's College London
-    year: 2010
-  - course: MSc Social, Genetic & Developmental Psychiatry
-    institution: King's College London
-    year: 2007
- -  course: BSc in Experimental Psychology
-    institution: University of Bristol
-    year: 2005
+  courses:
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
