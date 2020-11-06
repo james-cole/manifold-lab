@@ -26,17 +26,17 @@ interests:
 - Machine Learning
 - Information Processing
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
- #   institution: Stanford University
- #  year: 2012
- #  - course: MEng in Artificial Intelligence
- #  institution: Massachusetts Institute of Technology
- #   year: 2009
- # - course: BSc in Experimental 
- #  institution: Massachusetts Institute of Technology
- #  year: 2008
+education:
+  courses:
+  - course: PhD in Neuroimaging Genetics
+   institution: Stanford University
+  year: 2010
+  - course: MSc Social, Genetic & Developmental Psychiatry
+  institution: Massachusetts Institute of Technology
+   year: 2007
+ - course: BSc in Experimental Psychology
+  institution: University of Bristol
+  year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -76,5 +76,5 @@ user_groups:
 - Researchers
 ---
 
-James Cole is an Associate Professor of Neuroimage Analysis at the Centre for Medical Imaging Computer (CMIC) and Dementia Research Centre (DRC) at University College London (UCL). His research interests include brains and statistics. He leads the MANIFOLD Lab. Test 
+James Cole is an Associate Professor of Neuroimage Analysis at the Centre for Medical Imaging Computer (CMIC) and Dementia Research Centre (DRC) at University College London (UCL). His research interests include brains and statistics. He is Principle Investigator of the MANIFOLD Lab.
 
