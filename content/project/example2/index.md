@@ -1,8 +1,8 @@
 ---
-title: External Project2
-summary: Another example of linking directly to an external project website using `external_link`.
+title: External Project 2
+summary: Another example of deep learning linking to an external project website using `external_link`.
 tags:
-- Deep learning
+- Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
