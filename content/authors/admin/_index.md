@@ -43,7 +43,7 @@ education:
   - course: PhD in Neuroimaging Genetics
     institution: KCL
     year: 2010
-  - course: MSc in Artificial Intelligence
+  - course: MSc in Social, Genetic & Developmental Psychiatry
     institution: KCL
     year: 2007
   - course: BSc in Experimental Psychology
