@@ -27,16 +27,16 @@ interests:
 - Information Processing
 
 education:
-  courses:
+  #courses:
   - course: PhD in Neuroimaging Genetics
-   institution: Stanford University
-  year: 2010
+    institution: Stanford University
+    year: 2010
   - course: MSc Social, Genetic & Developmental Psychiatry
-  institution: Massachusetts Institute of Technology
-   year: 2007
- - course: BSc in Experimental Psychology
-  institution: University of Bristol
-  year: 2005
+    institution: Massachusetts Institute of Technology
+    year: 2007
+ -  course: BSc in Experimental Psychology
+    institution: University of Bristol
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
