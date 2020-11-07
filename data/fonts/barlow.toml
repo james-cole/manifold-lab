@@ -2,10 +2,10 @@
 name = "Barlow Condensed"
 
 # Optional Google font URL
-google_fonts = "family=Barlow+Condensed:wght@500"
+google_fonts = "family=Barlow+Condensed:wght@100;700"
 
 # Font families
 heading_font = "Barlow Condensed"
 body_font = "Barlow Condensed"
 nav_font = "Barlow Condensed"
-mono_font = "Barlow Condensed"
+mono_font = ""
