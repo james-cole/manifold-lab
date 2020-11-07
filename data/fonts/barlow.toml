@@ -5,7 +5,7 @@ name = "Barlow Condensed"
 google_fonts = "family=Barlow+Condensed:wght@500"
 
 # Font families
-heading_font = "Montserrat"
-body_font = "Roboto"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+heading_font = "Barlow Condensed"
+body_font = "Barlow Condensed"
+nav_font = "Barlow Condensed"
+mono_font = "Barlow Condensed"
