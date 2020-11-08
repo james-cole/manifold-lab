@@ -39,8 +39,8 @@ authors = "admin"
   album = "gallery"
   image = "UCL_logo.png"
   # caption = A caption
-  album = "gallery"
-  image = "CMIC_logo.png"
+  # album = "gallery"
+  # image = "CMIC_logo.png"
   # caption = Another caption
 
 [design.spacing]
