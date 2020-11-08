@@ -58,7 +58,7 @@ authors = "admin"
 
 # Welcome to the MANIFOLD Lab
 
-{{< figure library="true" src="MANIFOLD_logo.jpg" title="" alt="MANIFOLD logo" height=265 width=250 >}}
+{{< figure library="true" src="MANIFOLD_logo.jpg" title="" alt="MANIFOLD logo" height=265 width=250 align=left >}}
 
 ## About the lab
 Welcome to the website of the Machine-learning Artificial Intelligence Neuro Imaging Focusing on Longevity & Dementia (MANIFOLD) Laboratory. We are based at University College London, between the Centre for Medical Image Computing (CMIC) and the Dementia Research Centre at the Institute of Neurology.
@@ -68,8 +68,6 @@ Welcome to the website of the Machine-learning Artificial Intelligence Neuro Ima
 ## Mission Statement
 
 Our goal is to further our understanding of how the brain ages and how this affects risk of cognitive decline, neurodegenerative diseases and dementia. We do this using advanced statistics, machine learning and AI methods to analyse neuroimaging data, alongside genetic, cognitive, clinical, biological and behavioural information – taking a big-data science approach to help translate computational methods into the clinic for people with age-associated cognitive decline, dementia and related conditions. 
-
-{{< gallery >}}
 
 ## This lab believes... 
 
