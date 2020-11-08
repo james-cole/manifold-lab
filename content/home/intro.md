@@ -35,6 +35,14 @@ authors = "admin"
   # Text color (true=light or false=dark).
   # text_color_light = true
 
+ gallery_item:
+ - album: gallery
+   image: UCL_logo.png
+   caption: A caption
+ - album: gallery
+   image: CMIC_logo.png
+   caption: Another caption
+
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
@@ -59,6 +67,8 @@ Welcome to the website of the Machine-learning Artificial Intelligence Neuro Ima
 ## Mission Statement
 
 Our goal is to further our understanding of how the brain ages and how this affects risk of cognitive decline, neurodegenerative diseases and dementia. We do this using advanced statistics, machine learning and AI methods to analyse neuroimaging data, alongside genetic, cognitive, clinical, biological and behavioural information – taking a big-data science approach to help translate computational methods into the clinic for people with age-associated cognitive decline, dementia and related conditions. 
+
+{{< gallery >}}
 
 ## This lab believes... 
 
