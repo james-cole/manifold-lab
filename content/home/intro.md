@@ -38,10 +38,11 @@ authors = "admin"
 [[gallery_item]]
   album = "gallery"
   image = "UCL_logo.png"
-  # caption = A caption
-  # album = "gallery"
-  # image = "CMIC_logo.png"
-  # caption = Another caption
+  caption = ""
+ [[gallery_item]]
+  album = "gallery"
+  image = "CMIC_logo.png"
+  caption = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
