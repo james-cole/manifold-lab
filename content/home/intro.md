@@ -36,12 +36,12 @@ authors = "admin"
   # text_color_light = true
 
 [[gallery_item]]
- - album: "gallery"
-   image: "UCL_logo.png"
-   #caption: A caption
- - album: "gallery"
-   image: "CMIC_logo.png"
-  # caption: Another caption
+    album: "gallery"
+    image: "UCL_logo.png"
+    #caption: A caption
+    album: "gallery"
+    image: "CMIC_logo.png"
+    # caption: Another caption
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
