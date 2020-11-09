@@ -29,12 +29,8 @@ The Hugo **Academic Resumé Template** empowers you to create your job-winning o
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
 -->
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](/UCL_logo.png)  |  ![](/UCL_logo.png.png)
 
-
-![alt-text-1](static/media/UCL_logo.png "title-1") ![alt-text-2](static/media/cmic_logo.png "title-2" width="200")
+![](static/media/UCL_logo.png "title-1") ![alt-text-2](static/media/cmic_logo.png style="width:800px")
 
 
 ![](static/media/drc_logo.png "")
