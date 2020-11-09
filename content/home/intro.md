@@ -10,7 +10,7 @@ authors = "admin"
 
 [design]
   ## Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   ## Apply a background color, gradient, or image.
@@ -57,10 +57,8 @@ authors = "admin"
 +++
 
 # Welcome to the MANIFOLD Lab
+{{< figure library="true" src="MANIFOLD_logo.jpg" title="" alt="MANIFOLD logo" height=265 width=250 >}}
 
-{{< figure library="true" src="MANIFOLD_logo.jpg" title="" alt="MANIFOLD logo" height=265 width=250 align=right >}}
-
-{{< icon name="fa-question" pack="far" >}}
 ## About the lab
 Welcome to the website of the Machine-learning Artificial Intelligence Neuro Imaging Focusing on Longevity & Dementia (MANIFOLD) Laboratory. We are based at University College London, part of the Centre for Medical Image Computing (CMIC) and the Dementia Research Centre at the Institute of Neurology.
 
