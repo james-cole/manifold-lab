@@ -76,3 +76,9 @@ Our goal is to further our understanding of how the brain ages and how this affe
 6. Researchers are human
 7. Feminism is for everyone
 8. Immigrants are welcome
+
+<p float="left">
+  <img src="/static/media/UCL_logo.png" width="250" />
+  <img src="/static/media/cmic_logo.png" width="250" /> 
+  <img src="/static/media/drc_logo.png" width="125" />
+</p>
