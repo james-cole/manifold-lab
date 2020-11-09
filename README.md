@@ -34,4 +34,4 @@ Solarized dark             |  Solarized Ocean
 ![](/UCL_logo.png)  |  ![](/UCL_logo.png.png)
 
 
-![alt-text-1](static/media/UCL_logo.png "title-1") ![alt-text-2](UCL_logo.png "title-2")
+![alt-text-1](static/media/UCL_logo.png "title-1") ![alt-text-2](static/media/CMIC_logo.png "title-2")
