@@ -58,8 +58,7 @@ authors = "admin"
 
 # Welcome to the MANIFOLD Lab
 
-{{< figure library="true" src="MANIFOLD_logo.jpg" title="" alt="MANIFOLD logo" height=265 width=250 align=left >}}
-
+{{< figure library="true" src="MANIFOLD_logo.jpg" title="" alt="MANIFOLD logo" height=265 width=250 align=right >}}
 
 {{< icon name="fa-question" pack="far" >}}
 ## About the lab
