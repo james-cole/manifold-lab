@@ -16,19 +16,37 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "cogs"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Machine Learning"
+  description = ""
+
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Artificial Intelligence"
+  description = ""
+ 
+ [[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Dementia"
+  description = ""
+
+ [[feature]]
+  icon = "stopwatch"
+  icon_pack = "fas"
+  name = "Ageing"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
