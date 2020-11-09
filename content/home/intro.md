@@ -56,7 +56,7 @@ authors = "admin"
  css_class = ""
 +++
 <p float="left">
-  <img src="MANIFOLD_logo.jpg />
+  <img src="/static/media/MANIFOLD_logo.jpg />
  </p>
             
 {{< figure library="true" src="MANIFOLD_logo.jpg" title="" alt="MANIFOLD logo" height=265 width=250 >}}
@@ -66,8 +66,8 @@ Welcome to the website of the Machine-learning Artificial Intelligence Neuro Ima
 
 <p float="left">
   <img src="/static/media/UCL_logo.png" height="180" />
-  <img src="static/media/cmic_logo.png" height="180" /> 
-  <img src="static/media/drc_logo.png" height="180" />
+  <img src="/static/media/cmic_logo.png" height="180" /> 
+  <img src="/static/media/drc_logo.png" height="180" />
 </p>
 
 # {{< icon name="rocket" pack="fas" >}} Mission Statement
