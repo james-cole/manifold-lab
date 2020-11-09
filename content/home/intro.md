@@ -55,13 +55,20 @@ authors = "admin"
  # CSS class.
  css_class = ""
 +++
-
+<p float="left">
+  <img src="static/media/MANIFOLD_logo.jpg />
+            </p>
+            
 {{< figure library="true" src="MANIFOLD_logo.jpg" title="" alt="MANIFOLD logo" height=265 width=250 >}}
 
 # {{< icon name="question-circle" pack="far" >}} About the lab
 Welcome to the website of the Machine-learning Artificial Intelligence Neuro Imaging Focusing on Longevity & Dementia (MANIFOLD) Laboratory. We are based at University College London, part of the [Centre for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) and the [Dementia Research Centre](https://www.ucl.ac.uk/drc/) at the Institute of Neurology.
 
-{{< figure library="true" src="UCL_logo.png" title="" alt="UCL logo" width=200 >}}{{< figure library="true" src="CMIC_logo.png" title="" alt="CMIC logo" width=200 >}}{{< figure library="true" src="DRC_logo.png" title="" alt="DRC logo" width=200 >}}
+<p float="left">
+  <img src="static/media/UCL_logo.png" height="180" />
+  <img src="static/media/cmic_logo.png" height="180" /> 
+  <img src="static/media/drc_logo.png" height="180" />
+</p>
 
 # {{< icon name="rocket" pack="fas" >}} Mission Statement
 Our goal is to further our understanding of how the brain ages and how this affects risk of cognitive decline, neurodegenerative diseases and dementia. We do this using advanced statistics, machine learning and AI methods to analyse neuroimaging data, alongside genetic, cognitive, clinical, biological and behavioural information – taking a big-data science approach to help translate computational methods into the clinic for people with age-associated cognitive decline, dementia and related conditions. 
