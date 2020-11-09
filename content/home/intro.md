@@ -55,10 +55,11 @@ authors = "admin"
  # CSS class.
  css_class = ""
 +++
+
 <p float="left">
-  <img src="/static/media/MANIFOLD_logo.jpg />
- </p>
-            
+  <img src="/static/media/MANIFOLD_logo.jpg" height="180" />
+</p>
+
 {{< figure library="true" src="MANIFOLD_logo.jpg" title="" alt="MANIFOLD logo" height=265 width=250 >}}
 
 # {{< icon name="question-circle" pack="far" >}} About the lab
