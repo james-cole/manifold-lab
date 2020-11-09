@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = "Welcome to the MANIFOLD Lab"
-subtitle = "Lab intro"
+subtitle = ""
 authors = "admin"
 
 [design]
@@ -66,13 +66,13 @@ Welcome to the website of the Machine-learning Artificial Intelligence Neuro Ima
 # {{< icon name="rocket" pack="fas" >}} Mission Statement
 Our goal is to further our understanding of how the brain ages and how this affects risk of cognitive decline, neurodegenerative diseases and dementia. We do this using advanced statistics, machine learning and AI methods to analyse neuroimaging data, alongside genetic, cognitive, clinical, biological and behavioural information – taking a big-data science approach to help translate computational methods into the clinic for people with age-associated cognitive decline, dementia and related conditions. 
 
-# This lab believes... 
+# {{< icon name="comment-alt" pack="fas" >}} This lab believes... 
 
 1. Science is open and international
-2. Success is a team pursuit 
-3. Love is love 
-4. Black lives matter 
-5. Work and life need balance 
-6. Researchers are human 
-7. Feminism is for everyone 
-8. Immigrants are welcome 
+2. Success is a team pursuit
+3. Love is love
+4. Black lives matter
+5. Work and life need balance
+6. Researchers are human
+7. Feminism is for everyone
+8. Immigrants are welcome
