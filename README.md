@@ -30,7 +30,7 @@ The Hugo **Academic Resumé Template** empowers you to create your job-winning o
 -->
 
 <p float="left">
-  <img src="/static/media/UCL_logo.png" height="180" />
-  <img src="/static/media/cmic_logo.png" height="180" /> 
-  <img src="/static/media/drc_logo.png" height="180" />
+  <img src="/static/media/UCL_logo.png" width="180" />
+  <img src="/static/media/cmic_logo.png" width="180" /> 
+  <img src="/static/media/drc_logo.png" width="180" />
 </p>
