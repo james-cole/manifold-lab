@@ -29,3 +29,8 @@ The Hugo **Academic Resumé Template** empowers you to create your job-winning o
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
 -->
 
+<p float="left">
+  <img src="/static/media/UCL_logo.png" height="180" />
+  <img src="/static/media/cmic_logo.png" height="180" /> 
+  <img src="/static/media/drc_logo.png" height="180" />
+</p>
