@@ -9,14 +9,14 @@ subtitle = ""
 authors = "admin"
 
 [design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
+  ## Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
 [design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
+  ## Apply a background color, gradient, or image.
+  ##   Uncomment (by removing `#`) an option to apply it.
+  ##   Choose a light or dark text color by setting `text_color_light`.
+  ##   Any HTML color name or Hex value is valid.
 
   # Background color.
   # color = "navy"
@@ -60,10 +60,12 @@ authors = "admin"
 
 {{< figure library="true" src="MANIFOLD_logo.jpg" title="" alt="MANIFOLD logo" height=265 width=250 align=left >}}
 
+<i class="fas fa-heart"></i>
+
 ## About the lab
 Welcome to the website of the Machine-learning Artificial Intelligence Neuro Imaging Focusing on Longevity & Dementia (MANIFOLD) Laboratory. We are based at University College London, between the Centre for Medical Image Computing (CMIC) and the Dementia Research Centre at the Institute of Neurology.
 
-{{< figure library="true" src="UCL_logo.png" title="" alt="UCL logo" >}}{{< figure library="true" src="CMIC_logo.png" title="" alt="CMIC logo" >}}{{< figure library="true" src="DRC_logo.png" title="" alt="DRC logo" height=180 width=360 >}}
+{{< figure library="true" src="UCL_logo.png" title="" alt="UCL logo" >}}{{< figure library="true" src="CMIC_logo.png" title="" alt="CMIC logo" width=360 >}}{{< figure library="true" src="DRC_logo.png" title="" alt="DRC logo" height=180 width=360 >}}
 
 ## Mission Statement
 
