@@ -33,9 +33,9 @@ subtitle = ""
      name = "Brain Age"
      tag = "Brain Age"
     
-   [[content.filter_button]]
-     name = "Other"
-     tag = "Demo"
+   # [[content.filter_button]]
+   #  name = "Other"
+   #  tag = "Demo"
      
    [[content.filter_button]]
      name = "UK Biobank"
