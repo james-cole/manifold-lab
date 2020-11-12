@@ -1,6 +1,6 @@
 ---
 title: ENIGMA Brain Age
-summary: James Cole chairs the ENIGMA Brain Age working group `external_link`.
+summary: James Cole chairs the ENIGMA Brain Age working group.
 tags:
 - Brain Age
 
