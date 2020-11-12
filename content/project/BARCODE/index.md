@@ -14,3 +14,5 @@ image:
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: Center
 ---
+
+Test: here's some extra information about the project.
