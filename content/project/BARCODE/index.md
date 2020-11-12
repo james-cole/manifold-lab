@@ -7,9 +7,10 @@ tags:
 - Dementia
 
 # Optional external URL for project (replaces project detail page).
-#external_link: http://www.ucl.ac.uk
+# external_link: http://www.ucl.ac.uk
 
 image:
   caption: BARCODE logo
-  focal_point: Smart
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point: Center
 ---
