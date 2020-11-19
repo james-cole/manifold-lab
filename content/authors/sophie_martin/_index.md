@@ -17,24 +17,23 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include brains.
+bio: My research interests include neuroimaging, artificial intelligence and brain networks.
 
 interests:
+- Artificial Intelligence
+- Computational Modelling
+- Network Science
 - Neuroimaging
-- Ageing
 - Dementia
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
- #   institution: Stanford University
- #  year: 2012
- #  - course: MEng in Artificial Intelligence
- #  institution: Massachusetts Institute of Technology
- #   year: 2009
- # - course: BSc in Experimental 
- #  institution: Massachusetts Institute of Technology
- #  year: 2008
+education:
+  courses:
+  - course: MRes in Medical Imaging
+    institution: King's College London
+    year: 2021
+  - course: MSci in Physics
+    institution: Imperial College London
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,16 +42,13 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:james.cole@ucl.ac.uk"
+  link: "mailto:s.martin.20@ucl.ac.uk"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/JamesCole_Neuro
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?hl=en&user=RgGzzIEAAAAJ
+  link: https://twitter.com/sophmrtn
 - icon: github
   icon_pack: fab
-  link: https://github.com/james-cole
+  link: https://github.com/sdm03
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,5 +67,4 @@ user_groups:
 - PhD Students
 ---
 
-Insert brief bio here.
-
+Sophie Martin is an MRes student at University College London, based jointly between the Dementia Research Centre and Centre for Medical Imaging Computing.
