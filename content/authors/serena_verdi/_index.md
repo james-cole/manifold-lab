@@ -17,13 +17,12 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m using MRI scans to investigate neuroanatomical differences in dementia patients. I am specifically interested in how MRI can be used as a tool to map individualised neuroanatomical fingerprints
+bio: My research interests include brains.
 
 interests:
 - Neuroimaging
 - Ageing
 - Dementia
-
 
 #education:
 #  courses:
@@ -44,16 +43,16 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:serena.verdi.19@ucl.ac.uk"
+  link: "mailto:james.cole@ucl.ac.uk"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/serena_verdi
+  link: https://twitter.com/JamesCole_Neuro
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=PPPnxFIAAAAJ&hl=en
+  link: https://scholar.google.co.uk/citations?hl=en&user=RgGzzIEAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/serenaverdi
+  link: https://github.com/james-cole
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
