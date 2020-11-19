@@ -42,6 +42,12 @@ subtitle = ""
   name = "Ageing"
   description = ""
 
+ [[feature]]
+  icon = "camera"
+  icon_pack = "fas"
+  name = "Imaging"
+  description = ""
+  
 ## Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
