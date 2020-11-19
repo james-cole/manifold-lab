@@ -25,15 +25,14 @@ interests:
 - Dementia
 
 
-education:
-
-  courses:
-  - course: MSc in Translational Neuroscience
-   institution: Imperial College London
-   year: 2018
-  - course: BSc (Hons) in Pharmacology
-   institution: King's College London
-   year: 2012
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+ #   institution: Stanford University
+ #  year: 2012
+ #  - course: MEng in Artificial Intelligence
+ #  institution: Massachusetts Institute of Technology
+ #   year: 2009
  # - course: BSc in Experimental 
  #  institution: Massachusetts Institute of Technology
  #  year: 2008
