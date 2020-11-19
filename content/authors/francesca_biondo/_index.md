@@ -44,7 +44,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:james.cole@ucl.ac.uk"
-- icon: twitter
+- icon: airbnb
   icon_pack: fab
   link: https://twitter.com/JamesCole_Neuro
 - icon: google-scholar
