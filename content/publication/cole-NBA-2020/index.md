@@ -2,7 +2,7 @@
 title: "Multimodality neuroimaging brain-age in UK biobank: relationship to biomedical, lifestyle, and cognitive factors"
 authors:
 - admin
-author_notes:
+author_notes: ""
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2015-09-01T00:00:00Z"
