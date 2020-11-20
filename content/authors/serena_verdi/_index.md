@@ -17,25 +17,24 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include brains.
+bio: My research interests include translational neuroscience, ageing and dementia
 
 interests:
 - Neuroimaging
 - Ageing
 - Dementia
+- Neuroscience
+- Public engagement of science
 - Translational research 
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
- #   institution: Stanford University
- #  year: 2012
- #  - course: MEng in Artificial Intelligence
- #  institution: Massachusetts Institute of Technology
- #   year: 2009
- # - course: BSc in Experimental 
- #  institution: Massachusetts Institute of Technology
- #  year: 2008
+education:
+  courses:
+  - course: MSc in Translational Neuroscience
+    institution: Imperial College London
+    year: 2018
+  - course: BSc (Hons) in Pharmacology
+    institution: King's College London
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -75,5 +74,5 @@ user_groups:
 - PhD Students
 ---
 
-Insert brief bio here.
+Serena Verdi is a PhD student at the Centre for Medical Imaging Computer (CMIC) and Dementia Research Centre (DRC) at University College London (UCL).
 
