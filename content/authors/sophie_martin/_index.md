@@ -20,16 +20,16 @@ organizations:
 bio: My research interests include neuroimaging, artificial intelligence and brain networks.
 
 interests:
+- Neuroimaging
 - Artificial Intelligence
 - Computational Modelling
 - Network Science
-- Neuroimaging
 - Dementia
 
 education:
   courses:
   - course: MRes in Medical Imaging
-    institution: King's College London
+    institution: University College London
     year: 2021
   - course: MSci in Physics
     institution: Imperial College London
@@ -67,4 +67,4 @@ user_groups:
 - PhD Students
 ---
 
-Sophie Martin is an MRes student at University College London, based jointly between the Dementia Research Centre and Centre for Medical Imaging Computing.
+Sophie Martin is an MRes student at University College London, based jointly between the Dementia Research Centre (DRC) and Centre for Medical Imaging Computing (CMIC).
