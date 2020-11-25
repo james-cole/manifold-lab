@@ -4,10 +4,8 @@
 
 https://manifold-lab.netlify.app/
 
-## Website based on the Academic Template for [Hugo](https://github.com/gohugoio/hugo)
+## Website based on the [Wowchemy](https://wowchemy.com/) Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
-
-[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
 
 <p float="left">
   <img src="/static/media/UCL_logo.png" width="250" />
