@@ -3,13 +3,13 @@ authors:
 - melis_anaturk
 
 # Display name
-title: Melis Anaturk
+title: Melis Anatürk
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Resarch Fellow
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -21,6 +21,7 @@ bio: My research interests include brains.
 
 interests:
 - Neuroimaging
+- Lifestyle factors
 - Ageing
 - Dementia
 
@@ -43,16 +44,17 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:james.cole@ucl.ac.uk"
+  link: "mailto:melis.anaturk.14@ucl.ac.uk"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/JamesCole_Neuro
+  link: https://twitter.com/melisanaturk?lang=en
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?hl=en&user=RgGzzIEAAAAJ
+  link: https://scholar.google.com/citations?user=i4vHRigAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/james-cole
+  link: https://github.com/MelisAnaturk
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
