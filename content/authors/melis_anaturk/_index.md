@@ -17,7 +17,7 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research combines epidemiology, neuroimaging and machine learning to characterize the relationship between lifestyle factors and brain ageing.
+bio: My research interests include multimodal MRI and epidemiology
 
 interests:
 - Multimodal MRI
@@ -28,18 +28,14 @@ interests:
 - Public Engagement
 - Open Science
 
-#education:
 education:
   courses:
-   - course: DPhil in Psychiatry
-    institution: University of Oxford
-    year: 2020
-  - course: MSc in Health Psychology
-    institution: University College London
-    year: 2015
-  - course: MA (Hons) in Psychology
-    institution: University of St Andrews
-    year: 2014
+  - course: MSc in Translational Neuroscience
+    institution: Imperial College London
+    year: 2018
+  - course: BSc (Hons) in Pharmacology
+    institution: King's College London
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -58,7 +54,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/MelisAnaturk
-
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1887-211X
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -77,5 +75,4 @@ user_groups:
 - Researchers
 ---
 
-Insert brief bio here.
-
+My research combines epidemiology, neuroimaging and machine learning to characterize the relationship between lifestyle factors and brain ageing.
