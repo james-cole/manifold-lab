@@ -17,25 +17,29 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include brains.
+bio: My research combines epidemiology, neuroimaging and machine learning to characterize the relationship between lifestyle factors and brain ageing.
 
 interests:
-- Neuroimaging
-- Lifestyle factors
+- Multimodal MRI
 - Ageing
 - Dementia
+- Machine Learning
+- Epidemiology
+- Public Engagement
+- Open Science
 
 #education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
- #   institution: Stanford University
- #  year: 2012
- #  - course: MEng in Artificial Intelligence
- #  institution: Massachusetts Institute of Technology
- #   year: 2009
- # - course: BSc in Experimental 
- #  institution: Massachusetts Institute of Technology
- #  year: 2008
+education:
+  courses:
+   - course: DPhil in Psychiatry
+    institution: University of Oxford
+    year: 2020
+  - course: MSc in Health Psychology
+    institution: University College London
+    year: 2015
+  - course: MA (Hons) in Psychology
+    institution: University of St Andrews
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
