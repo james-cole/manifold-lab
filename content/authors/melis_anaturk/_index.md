@@ -17,7 +17,7 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research combines epidemiology, neuroimaging and machine learning to characterize the relationship between lifestyle factors and brain ageing.
+#bio: My research combines epidemiology, neuroimaging and machine learning to characterize the relationship between lifestyle factors and brain ageing.
 
 interests:
 - Multimodal MRI
