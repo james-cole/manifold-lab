@@ -30,12 +30,15 @@ interests:
 
 education:
   courses:
-  - course: MSc in Translational Neuroscience
-    institution: Imperial College London
-    year: 2018
-  - course: BSc (Hons) in Pharmacology
-    institution: King's College London
-    year: 2012
+  - course: DPhil in Psychiatry
+    institution: University of Oxford
+    year: 2020
+  - course: MSc in Health Psychology
+    institution: University College London
+    year: 2015
+  - course: MA (Hons) in Psychology
+    institution: University of St. Andrews 
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
