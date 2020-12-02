@@ -3,8 +3,6 @@ title: "Multimodality neuroimaging brain-age in UK biobank: relationship to biom
 authors:
 - admin
 author_notes: ""
-#- "Equal contribution"
-#- "Equal contribution"
 date: "2020-02-01T00:00:00Z"
 doi: "10.1016/j.neurobiolaging.2020.03.014"
 
@@ -18,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Neurobiology of Aging"
 publication_short: ""
 
 abstract: The brain-age paradigm is proving increasingly useful for exploring aging-related disease and can predict important future health outcomes. Most brain-age research uses structural neuroimaging to index brain volume. However, aging affects multiple aspects of brain structure and function, which can be examined using multimodality neuroimaging. Using UK Biobank, brain-age was modeled in n = 2205 healthy people with T1-weighted MRI, T2-FLAIR, T2∗, diffusion-MRI, task fMRI, and resting-state fMRI. In a held-out healthy validation set (n = 520), chronological age was accurately predicted (r = 0.78, mean absolute error = 3.55 years) using LASSO regression, higher than using any modality separately. Thirty-four neuroimaging phenotypes were deemed informative by the regression (after bootstrapping); predominantly gray-matter volume and white-matter microstructure measures. When applied to new individuals from UK Biobank (n = 14,701), significant associations with multimodality brain-predicted age difference (brain-PAD) were found for stroke history, diabetes diagnosis, smoking, alcohol intake and some, but not all, cognitive measures (corrected p < 0.05). Multimodality neuroimaging can improve brain-age prediction, and derived brain-PAD values are sensitive to biomedical and lifestyle factors that negatively impact brain and cognitive health.
