@@ -1,16 +1,17 @@
 ---
 title: Normative Modelling
-summary: Predicting risk of dementia in adults with subjective or mild cognitive impairment using the brain-age paradigm.
-author: serena_verdi
+summary: Mapping individual differences in the neuroanatomy of dementia 
+author: serenaverdi
 tags:
 - Machine Learning
 - Dementia
+- Neuroimaging
 
 # Optional external URL for project (replaces project detail page).
 # external_link: http://www.ucl.ac.uk
 
 image:
-  caption: BARCODE logo
+  caption: Normative model logo
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: Center
 ---
