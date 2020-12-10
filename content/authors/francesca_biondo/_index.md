@@ -35,10 +35,7 @@ interests:
 
 education:
   courses:
-#  - course: PhD in Artificial Intelligence
- #   institution: Stanford University
- #  year: 2012
-   - course: PhD in Cognitive Neuroscience
+  - course: PhD in Cognitive Neuroscience
    institution: University of Cambridge (MRC Cognition and Brain Sciences Unit)
     year: 2018
   - course: MSc in Neuroscience and Neuropsychology 
@@ -84,4 +81,3 @@ user_groups:
 ---
 
 Insert brief bio here.
-
