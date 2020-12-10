@@ -43,7 +43,7 @@ subtitle = ""
   description = ""
 
  [[feature]]
-  icon = "camera"
+  icon = "magnet"
   icon_pack = "fas"
   name = "Imaging"
   description = ""
