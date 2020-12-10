@@ -36,9 +36,18 @@ interests:
 education:
   courses:
   - course: PhD in Cognitive Neuroscience
-   institution: University of Cambridge
+    institution: University of Cambridge (MRC Cognition and Brain Sciences Unit)
+    year: 2018
+  - course: MSc in Neuroscience and Neuropsychology
+    institution: Birkbeck College and University College London
+    year: 2010
+
+#education:
+#  courses:
+#  - course: PhD in Cognitive Neuroscience
+#   institution: University of Cambridge
  # institution: University of Cambridge (MRC Cognition and Brain Sciences Unit)
-   year: 2018
+#   year: 2018
 #  - course: MSc in Neuroscience and Neuropsychology 
 #   institution: Birkbeck College and University College London
 #   year: 2010
