@@ -16,7 +16,7 @@ organizations:
 - name: University College London
   url: "https://www.ucl.ac.uk/"
   
-  organizations:
+organizations:
 - name: King's College London
   url: "https://www.kcl.ac.uk/neuroscience/research/"
 
@@ -33,8 +33,8 @@ interests:
 - Neuropsychology
 - Developmental and Cognitive psychology
 
-#education:
-#  courses:
+education:
+  courses:
 #  - course: PhD in Artificial Intelligence
  #   institution: Stanford University
  #  year: 2012
