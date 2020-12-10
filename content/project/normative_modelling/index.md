@@ -1,6 +1,7 @@
 ---
 title: Normative Modelling
 summary: Predicting risk of dementia in adults with subjective or mild cognitive impairment using the brain-age paradigm.
+author: serena_verdi
 tags:
 - Machine Learning
 - Dementia
