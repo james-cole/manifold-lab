@@ -9,7 +9,7 @@ title: Francesca Biondo
 superuser: false
 
 # Role/position
-role: Resarch Fellow
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
