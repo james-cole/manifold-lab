@@ -12,7 +12,7 @@ tags:
 # external_link: https://www.youtube.com/watch?v=SpEkSwKF-x4
 
 image:
-  caption: BARCODE logo
+  # caption: BARCODE logo
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: Center
 ---
