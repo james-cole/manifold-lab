@@ -40,6 +40,10 @@ subtitle = ""
    [[content.filter_button]]
      name = "UK Biobank"
      tag = "UK Biobank"
+     
+   [[content.filter_button]]
+     name = "Machine Learning"
+     tag = "Machine Learning"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
