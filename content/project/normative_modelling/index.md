@@ -16,4 +16,4 @@ image:
   focal_point: Center
 ---
 
-We are applying normative models to dementia patient data, to map the individualised neurobiological fingerprints in people with neurodegenerative diseases. 
+We are applying normative models to dementia patient data, to map the individualised neurobiological fingerprints. 
