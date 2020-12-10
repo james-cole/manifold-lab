@@ -69,7 +69,7 @@ Our goal is to further our understanding of how the brain ages and how this affe
 1. Science is open and international
 2. Success is a team pursuit
 3. Love is love
-4. Black lives matter
+4. Anti-racism is an active process
 5. Work and life need balance
 6. Researchers are human
 7. Feminism is for everyone
