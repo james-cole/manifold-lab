@@ -15,8 +15,6 @@ role: Research Fellow
 organizations:
 - name: University College London
   url: "https://www.ucl.ac.uk/"
-  
-organizations:
 - name: King's College London
   url: "https://www.kcl.ac.uk/neuroscience/research/"
 
