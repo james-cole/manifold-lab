@@ -33,14 +33,14 @@ interests:
 - Neuropsychology
 - Developmental and Cognitive psychology
 
-education:
-  courses:
-  - course: PhD in Cognitive Neuroscience
-   institution: University of Cambridge (MRC Cognition and Brain Sciences Unit)
-    year: 2018
-  - course: MSc in Neuroscience and Neuropsychology 
-   institution: Birkbeck College and University College London
-   year: 2010
+# education:
+#  courses:
+#  - course: PhD in Cognitive Neuroscience
+#   institution: University of Cambridge (MRC Cognition and Brain Sciences Unit)
+#    year: 2018
+#  - course: MSc in Neuroscience and Neuropsychology 
+#   institution: Birkbeck College and University College London
+#   year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
