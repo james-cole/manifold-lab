@@ -15,6 +15,10 @@ role: Resarch Fellow
 organizations:
 - name: University College London
   url: "https://www.ucl.ac.uk/"
+  
+  organizations:
+- name: King's College London
+  url: "https://www.kcl.ac.uk/neuroscience/research/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include brains.
@@ -29,8 +33,6 @@ interests:
 - Neuropsychology
 - Developmental and Cognitive psychology
 
-
-
 #education:
 #  courses:
 #  - course: PhD in Artificial Intelligence
@@ -40,7 +42,7 @@ interests:
    institution: University of Cambridge (MRC Cognition and Brain Sciences Unit)
     year: 2018
   - course: MSc in Neuroscience and Neuropsychology 
-   institution: Birkbeck College and UCL
+   institution: Birkbeck College and University College London
    year: 2010
 
 # Social/Academic Networking
