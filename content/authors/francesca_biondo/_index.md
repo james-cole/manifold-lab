@@ -33,7 +33,7 @@ interests:
 - Neuropsychology
 - Developmental and Cognitive psychology
 
-# education:
+education:
 #  courses:
 #  - course: PhD in Cognitive Neuroscience
 #   institution: University of Cambridge (MRC Cognition and Brain Sciences Unit)
