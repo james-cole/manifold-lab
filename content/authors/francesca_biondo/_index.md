@@ -75,4 +75,4 @@ user_groups:
 - Researchers
 ---
 
-My research aims to answer neuroscience questions pertaining to how typical and atypical mind is mapped and operates in the human body. My background is in experimental design, and the cognitive, neuroimaging and neuropsychological sciences. More recently, my work has focused on big multimodal medical datasets to discover features in the data that allow the prediction of disease states and potentially add to their mechanistic accounts.
+My research aims to answer neuroscience questions pertaining to how typical and atypical mind is mapped and operates in the human body. My background is in experimental design, and the cognitive, neuroimaging and neuropsychological sciences. More recently, my work has focused on big multimodal medical datasets to discover features in the data, particularly neuroimaging ones, that allow the prediction of disease states and potentially add to their mechanistic accounts.
