@@ -24,12 +24,9 @@ bio:
 interests:
 - Neuroscience
 - Neuroimaging
-- Ageing
-- Dementia
-- Machine Learning
-- Artificial Intelligence
-- Neuropsychology
-- Developmental and Cognitive psychology
+- Ageing & Dementia
+- Machine Learning & Artificial Intelligence
+- Neuropsychology, Developmental & Cognitive psychology
 
 education:
   courses:
