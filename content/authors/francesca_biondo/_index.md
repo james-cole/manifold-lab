@@ -23,6 +23,11 @@ interests:
 - Neuroimaging
 - Ageing
 - Dementia
+- Machine Learning
+- Neuropsychology
+- Developmental and Cognitive psychology
+
+
 
 #education:
 #  courses:
@@ -43,16 +48,19 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:james.cole@ucl.ac.uk"
-- icon: airbnb
+  link: "mailto:francesca.biondo@kcl.ac.uk"
+- icon: researchgate
   icon_pack: fab
-  link: https://twitter.com/JamesCole_Neuro
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?hl=en&user=RgGzzIEAAAAJ
-- icon: github
+  link: https://www.researchgate.net/profile/Francesca_Biondo2
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/james-cole
+  link: https://www.linkedin.com/in/francesca-biondo-41440b1aa/
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?hl=en&user=RgGzzIEAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/james-cole
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
