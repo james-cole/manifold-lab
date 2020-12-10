@@ -43,8 +43,8 @@ subtitle = ""
   description = ""
 
  [[feature]]
-  icon = "mri"
-  icon_pack = "custom"
+  icon = "magnet"
+  icon_pack = "fas"
   name = "Imaging"
   description = ""
   
