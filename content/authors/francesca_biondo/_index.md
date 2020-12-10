@@ -37,9 +37,9 @@ education:
     institution: Birkbeck College and University College London
     year: 2010
 
-Projects:
-- name: BARCODE
-  url: "https://manifold-lab.netlify.app/project/barcode/"
+# Projects:
+# - name: BARCODE
+#  url: "https://manifold-lab.netlify.app/project/barcode/"
   
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -78,4 +78,4 @@ user_groups:
 - Researchers
 ---
 
-My research aims to answer neuroscience questions pertaining to how typical and atypical mind is mapped and operates in the human body. My background is in experimental design, and the cognitive, neuroimaging and neuropsychological sciences. More recently, my work has focused on big multimodal medical datasets to discover features in the data, particularly neuroimaging ones, that allow the prediction of disease states and potentially add to their mechanistic accounts.
+My research aims to answer neuroscience questions pertaining to how typical and atypical mind is mapped and operates in the human body. My background is in experimental design, and the cognitive, neuroimaging and neuropsychological sciences. More recently, my work has focused on big multimodal medical datasets to discover features in the data, particularly neuroimaging ones, that allow the prediction of disease states and potentially add to their mechanistic accounts. Lead researcher on the BARCODE project (see Projects).
