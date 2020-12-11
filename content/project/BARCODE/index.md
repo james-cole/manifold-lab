@@ -18,7 +18,6 @@ image:
 ---
 
 [Click here to watch a 20 min presentation on the BARCODE project...](https://www.youtube.com/watch?v=SpEkSwKF-x4)
- 
-[...as presented at the CompAGE 2020 meeting Computational approaches for ageing and age-related diseases)](https://neuroinformatics.icm-institute.org/conferences/compage-2020/)
+[...as presented at the CompAGE 2020 meeting (Computational approaches for ageing and age-related diseases)](https://neuroinformatics.icm-institute.org/conferences/compage-2020/)
 
 
