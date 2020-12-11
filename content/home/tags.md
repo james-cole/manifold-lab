@@ -17,8 +17,8 @@ subtitle = ""
 
 [design]
   # Minimum and maximum font sizes (1.0 = 100%).
-  font_size_min = 0.7
-  font_size_max = 2.0
+  font_size_min = 1.0
+  font_size_max = 3.0
   
 [design.background]
   #   Choose a light or dark text color by setting `text_color_light`.
@@ -26,9 +26,9 @@ subtitle = ""
   # Background image.
   image = "brain_neuron.jpg"  # Name of image in `static/media/`.
   image_darken = 0.7  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
+ # image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
