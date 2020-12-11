@@ -1,7 +1,7 @@
 ---
 title: Normative Modelling
 summary: Mapping individual differences in the neuroanatomy of dementia 
-author: serenaverdi
+authors: ["serena_verdi"]
 tags:
 - Machine Learning
 - Dementia
