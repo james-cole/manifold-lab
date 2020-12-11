@@ -17,8 +17,7 @@ image:
   focal_point: Center
 ---
 
-Here's a link to a 20 min presentation on the BARCODE project...
-https://www.youtube.com/watch?v=SpEkSwKF-x4
+[Click here to watch a 20 min presentation on the BARCODE project] (https://www.youtube.com/watch?v=SpEkSwKF-x4)
  
 ...as presented at the CompAGE 2020 Sept meeting (Computational approaches for ageing and age-related diseases)
 https://neuroinformatics.icm-institute.org/conferences/compage-2020/
