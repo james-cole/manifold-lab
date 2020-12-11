@@ -1,7 +1,7 @@
 ---
 title: BARCODE
 summary: Predicting risk of dementia in adults with subjective or mild cognitive impairment using the brain-age paradigm.
-authors: francesca_biondo
+authors: ["francesca_biondo"]
 tags:
 - Brain Age
 - Machine Learning
