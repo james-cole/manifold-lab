@@ -75,5 +75,5 @@ Our goal is to further our understanding of how the brain ages and how this affe
 7. Feminism is for everyone
 8. Immigrants are welcome
 
-{{< figure library="true" src="all_logos.jpg" title="" alt="UCL CMIC DRC logos" width=300 >}}
+{{< figure library="true" src="all_logos.jpg" title="" alt="UCL CMIC DRC logos" width=900 >}}
 
