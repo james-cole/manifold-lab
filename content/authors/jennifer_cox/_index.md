@@ -17,12 +17,14 @@ organizations:
   url: "https://www.kcl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include brains.
+bio: I have an undergraduate degree in biomedical engineering. I've spent the last 10 years working in industry, first in imaging contract research organisations and then most recently on the pharmaceutical sponsor side. Through that time I've worked across imaging modalities, diseases and the whole body, but I've always had a primary interest in neuro. My PhD research is focused on the central effect of systemic inflammation from autoimmune disorders so really the intersection of the body as a whole and the brain!
 
 interests:
 - Neuroimaging
 - Autoimmune diseases
 - Systemic inflammation
+- Imaging biomarkers
+- Translational imaging
 
 #education:
 #  courses:
@@ -32,9 +34,9 @@ interests:
  #  - course: MEng in Artificial Intelligence
  #  institution: Massachusetts Institute of Technology
  #   year: 2009
- # - course: BSc in Experimental 
- #  institution: Massachusetts Institute of Technology
- #  year: 2008
+  - course: BSc in Applied Science Biomedical Engineering 
+   institution: University of North Carolina at Chapel Hill
+   year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
