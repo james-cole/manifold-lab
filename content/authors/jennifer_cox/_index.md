@@ -17,7 +17,7 @@ organizations:
   url: "https://www.kcl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have an undergraduate degree in biomedical engineering. I've spent the last 10 years working in industry, first in imaging contract research organisations and then most recently on the pharmaceutical sponsor side. Through that time I've worked across imaging modalities, diseases and the whole body, but I've always had a primary interest in neuro. My PhD research is focused on the central effect of systemic inflammation from autoimmune disorders so really the intersection of the body as a whole and the brain!
+bio: I've spent the last 10 years working in industry, first in imaging contract research organisations and then most recently on the pharmaceutical sponsor side. Through that time I've worked across imaging modalities, diseases and the whole body, but I've always had a primary interest in neuro. My PhD research is focused on the central effect of systemic inflammation from autoimmune disorders so really the intersection of the body as a whole and the brain!
 
 interests:
 - Neuroimaging
@@ -27,7 +27,7 @@ interests:
 - Translational imaging
 
 education:
-#  courses:
+courses:
 #  - course: PhD in Artificial Intelligence
  #   institution: Stanford University
  #  year: 2012
