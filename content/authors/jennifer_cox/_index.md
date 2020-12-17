@@ -26,7 +26,7 @@ interests:
 - Imaging biomarkers
 - Translational imaging
 
-#education:
+education:
 #  courses:
 #  - course: PhD in Artificial Intelligence
  #   institution: Stanford University
