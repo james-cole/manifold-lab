@@ -38,6 +38,19 @@ courses:
   # institution: University of North Carolina at Chapel Hill
    # year: 2009
 
+education:
+  courses:
+  - course: PhD in Neuroimaging Genetics
+    institution: King's College London
+    year: 2010
+  - course: MSc in Social, Genetic & Developmental Psychiatry
+    institution: King's College London
+    year: 2007
+  - course: BSc in Applied Science Biomedical Engineering
+    institution: University of North Carolina at Chapel Hill
+    year: 2009
+
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
