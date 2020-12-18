@@ -34,9 +34,9 @@ courses:
  #  - course: MEng in Artificial Intelligence
  #  institution: Massachusetts Institute of Technology
  #   year: 2009
-  - course: BSc in Applied Science Biomedical Engineering 
-   institution: University of North Carolina at Chapel Hill
-   year: 2009
+ # - course: BSc in Applied Science Biomedical Engineering 
+  # institution: University of North Carolina at Chapel Hill
+   # year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
