@@ -22,16 +22,16 @@ publication_short: ""
 # abstract: Multiple biomarkers can capture different facets of Alzheimer's disease. However, statistical models of biomarkers to predict outcomes in Alzheimer's rarely model nonlinear interactions between these measures. Here, we used Gaussian Processes to address this, modelling nonlinear interactions to predict progression from mild cognitive impairment (MCI) to Alzheimer's over 3 years, using Alzheimer's Disease Neuroimaging Initiative (ADNI) data. Measures included: demographics, APOE4 genotype, CSF (amyloid‐β42, total tau, phosphorylated tau), [18F]florbetapir, hippocampal volume and brain‐age. We examined: (a) the independent value of each biomarker; and (b) whether modelling nonlinear interactions between biomarkers improved predictions. Each measured added complementary information when predicting conversion to Alzheimer's. A linear model classifying stable from progressive MCI explained over half the variance (R2 = 0.51, p  < .001); the strongest independently contributing biomarker was hippocampal volume (R2 = 0.13). When comparing sensitivity of different models to progressive MCI (independent biomarker models, additive models, nonlinear interaction models), we observed a significant improvement (p  < .001) for various two‐way interaction models. The best performing model included an interaction between amyloid‐β‐PET and P‐tau, while accounting for hippocampal volume (sensitivity = 0.77, AUC = 0.826). Closely related biomarkers contributed uniquely to predict conversion to Alzheimer's. Nonlinear biomarker interactions were also implicated, and results showed that although for some patients adding additional biomarkers may add little value (i.e., when hippocampal volume is high), for others (i.e., with low hippocampal volume) further invasive and expensive examination may be warranted. Our framework enables visualisation of these interactions, in individual patient biomarker ‘space', providing information for personalised or stratified healthcare or clinical trial design.
 
 # Summary. An optional shortened abstract.
-summary: Multi-modality MRI used to predict chronological age in healthy people in the UK Biobank.
+summary: Multi-modality MRI and PET used to predict progression to dementia from mild cognitive impairment in ADNI.
 
 tags:
 - Brain Age
 featured: false
 
-# links:
+links:
 # - name: ""
 #   url: "https://www.sciencedirect.com/science/article/pii/S0197458020301056"
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25133
 url_code: ''
 url_dataset: ''
 url_poster: ''
