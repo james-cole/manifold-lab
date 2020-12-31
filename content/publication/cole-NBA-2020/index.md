@@ -30,8 +30,8 @@ featured: false
 
 links:
 # - name: ""
-url: "www.sciencedirect.com/science/article/pii/S0197458020301056"
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url: "www.sciencedirect.com/science/article/pii/S0197458020301056"
+url_pdf: http://www.sciencedirect.com/science/article/pii/S0197458020301056
 url_code: ''
 url_dataset: ''
 url_poster: ''
