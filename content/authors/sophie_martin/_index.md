@@ -49,7 +49,7 @@ social:
   link: https://twitter.com/sophmrtn
 - icon: github
   icon_pack: fab
-  link: https://github.com/sdm03
+  link: https://github.com/sophmrtn
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
