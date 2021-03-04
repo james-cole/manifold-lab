@@ -76,5 +76,5 @@ user_groups:
 - Researchers
 ---
 
-James Cole is Associate Professor of Neuroimage Analysis at the Centre for Medical Imaging Computer (CMIC) and Dementia Research Centre (DRC) at University College London (UCL). His research interests include brain ageing, neurological and psychiatric diseases, with a particular focus on and neurodegeneration and dementia. His work uses machine learning, deep learning and related statistical methods with the goal of developing clinically useful neuroimaging tools. He is Principal Investigator of the MANIFOLD Lab.
+James Cole is Associate Professor of Neuroimage Analysis at the Centre for Medical Imaging Computer (CMIC) and Dementia Research Centre (DRC) at University College London (UCL). His research interests include brain ageing, neurological and psychiatric diseases, with a particular focus on ageing, neurodegeneration and dementia. His work uses machine learning, deep learning and related statistical methods with the goal of developing clinically useful neuroimaging tools. He is Principal Investigator of the MANIFOLD Lab.
 
