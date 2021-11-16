@@ -1,9 +1,9 @@
 ---
 authors:
-- sophie_martin
+- ayodeji_ijishakin
 
 # Display name
-title: Sophie Martin
+title: Ayodeji Ijishakin
 
 # Is this the primary user of the site?
 superuser: false
@@ -17,24 +17,17 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neuroimaging, artificial intelligence and brain networks.
+bio: 
 
 interests:
-- Neuroimaging
-- Artificial Intelligence
-- Machine Learning
-- Dementia
-- Network Science
-- Computational Modelling
+- 
 
 education:
   courses:
-  - course: MRes in Medical Imaging
-    institution: University College London
-    year: 2021
-  - course: MSci in Physics
-    institution: Imperial College London
-    year: 2020
+  - course:
+    institution: 
+    year: 
+  - 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,13 +36,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:s.martin.20@ucl.ac.uk"
+  link: ""
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/sophmrtn
+  link: https://twitter.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/sophmrtn
+  link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,4 +61,3 @@ user_groups:
 - PhD Students
 ---
 
-Sophie Martin is an MRes/PhD student at University College London, based jointly between the Dementia Research Centre (DRC) and Centre for Medical Imaging Computing (CMIC).
