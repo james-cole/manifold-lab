@@ -22,3 +22,4 @@ email_form = 0
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
 
+{{< figure library="true" src="MANIFOLD_logo_small.png" title="" alt="MANIFOLD logo" width=600 >}}
