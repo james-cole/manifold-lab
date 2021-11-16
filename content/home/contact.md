@@ -17,13 +17,9 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 
-{{< figure library="true" src="MANIFOLD_logo_small.png" title="" alt="MANIFOLD logo" width=20 >}}
-
 # Netlify form settings.
 [netlify]
-  captcha = false  # Enable CAPTCHA challenge to reduce spam?
-  
-  
+ captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
 
-
+{{< figure library="true" src="MANIFOLD_logo_small.png" title="" alt="MANIFOLD logo" width=20 >}}
