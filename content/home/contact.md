@@ -17,7 +17,7 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 
-{{< figure library="true" src="MANIFOLD_logo_small.png" title="" alt="MANIFOLD logo" width=200 >}}
+{{< figure library="true" src="MANIFOLD_logo_small.png" title="" alt="MANIFOLD logo" width=20 >}}
 
 # Netlify form settings.
 [netlify]
