@@ -9,7 +9,7 @@ title: Sophie Martin
 superuser: false
 
 # Role/position
-role: MRes/PhD Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -17,7 +17,7 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neuroimaging, artificial intelligence and brain networks.
+bio: My research interests include neuroimaging, artificial intelligence and interpretability.
 
 interests:
 - Neuroimaging
