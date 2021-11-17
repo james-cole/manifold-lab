@@ -1,9 +1,9 @@
 ---
 authors:
-- rohan_bhome
+- ayoodeji_ijishakin
 
 # Display name
-title: Rohan Bhome
+title: Ayodeji Ijishakin
 
 # Is this the primary user of the site?
 superuser: false
@@ -61,4 +61,4 @@ user_groups:
 - PhD Students
 ---
 
-Rohan Bhome is...
+Ayodeji Ijishakin is...
