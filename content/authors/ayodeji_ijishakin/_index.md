@@ -1,9 +1,9 @@
 ---
 authors:
-- sophie_martin
+- rohan_bhome
 
 # Display name
-title: Sophie Martin
+title: Rohan Bhome
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,10 +21,6 @@ bio: My research interests include neuroimaging, artificial intelligence and int
 
 interests:
 - Neuroimaging
-- Artificial Intelligence
-- Machine Learning
-- Dementia
-- Network Science
 - Computational Modelling
 
 education:
@@ -32,9 +28,6 @@ education:
   - course: MRes in Medical Imaging
     institution: University College London
     year: 2021
-  - course: MSci in Physics
-    institution: Imperial College London
-    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,10 +39,10 @@ social:
   link: "mailto:s.martin.20@ucl.ac.uk"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/sophmrtn
+  link: https://twitter.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/sophmrtn
+  link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,4 +61,4 @@ user_groups:
 - PhD Students
 ---
 
-Sophie Martin is an MRes/PhD student at University College London, based jointly between the Dementia Research Centre (DRC) and Centre for Medical Imaging Computing (CMIC).
+Rohan Bhome is...
