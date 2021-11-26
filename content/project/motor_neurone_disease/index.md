@@ -5,6 +5,8 @@ authors: ["admin", "florence_townend", "ayodeji_ijishakin"]
 tags:
 - Machine Learning
 - Neuroimaging
+- Deep Learning
+- Brain Age
 
 # Optional external URL for project (replaces project detail page).
 # external_link: http://www.ucl.ac.uk
