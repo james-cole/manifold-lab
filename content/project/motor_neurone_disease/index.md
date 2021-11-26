@@ -1,7 +1,7 @@
 ---
 title: Motor Neurone Disease
 summary: Predicting disease progression in motor neurone disease 
-authors: ["admin", "florence_townend"]
+authors: ["admin", "florence_townend", "ayodeji_ijishakin"]
 tags:
 - Machine Learning
 - Neuroimaging
