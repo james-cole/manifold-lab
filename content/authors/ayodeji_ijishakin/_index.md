@@ -22,7 +22,7 @@ bio: My research interests include neuroimaging, deep learning, ALS disease prog
 interests:
 - Neuroimaging
 - Deep learning
-- Motor Neuron Disease
+- Motor Neurone Disease
 - Computational neuroscience 
 
 education:
