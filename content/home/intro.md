@@ -64,11 +64,11 @@ Welcome to the website of the Machine-learning Artificial Intelligence Neuro Ima
 # {{< icon name="rocket" pack="fas" >}} Mission Statement
 Our goal is to further our understanding of how the brain ages and how this affects risk of cognitive decline, neurodegenerative diseases and dementia. We do this using advanced statistics, machine learning and AI methods to analyse neuroimaging data, alongside genetic, cognitive, clinical, biological and behavioural information – taking a big-data science approach to help translate computational methods into the clinic for people with age-associated cognitive decline, dementia and related conditions.
 
-{{< figure library="true" src="lab_beliefs_poster.png" title="" alt="Lab beliefs" width=300 >}}
+{{< figure library="true" src="lab_beliefs_poster.png" title="" alt="Lab beliefs" width=450 >}}
 
 # {{< icon name="comment-alt" pack="fas" >}} This lab believes... 
 
-1. Science is open and international
+ ## 1. Science is open and international
 2. Success is a team pursuit
 3. Love is love
 4. Anti-racism is an active process
