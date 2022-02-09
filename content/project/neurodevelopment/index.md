@@ -13,4 +13,5 @@ image:
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: Center
 ---
-Test writing here
+Using machine and deep learning approaches, this project aims to determine whether characteristics of brain structure (as indexed by neuroimaging)
+measured in infancy and early childhood can help predict poor educational outcomes in later childhood. 
