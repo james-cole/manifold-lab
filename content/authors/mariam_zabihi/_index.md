@@ -3,7 +3,7 @@
 title: Mariam Zabihi
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Research Fellow
@@ -14,29 +14,31 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+bio: My research interests include neuroimaging, ageing and neurodegenerative diseases
 
 interests:
-#- Neuroscience
-#- Neuroimaging
-#- Ageing
-#- Dementia
-#- Neurodegenerative diseases
-#- Artificial Intelligence
-#- Machine Learning
-#- Information Processing
 
-#education:
-#  courses:
-#  - course: PhD in Neuroimaging Genetics
-#    institution: King's College London
-#    year: 2010
-#  - course: MSc in Social, Genetic & Developmental Psychiatry
-#    institution: King's College London
-#    year: 2007
-#  - course: BSc in Experimental Psychology
-#    institution: University of Bristol
-#    year: 2005
+- Normative Modeling
+- Machine Learning
+- Neuroimaging
+- Ageing
+- Neurodegenerative diseases
+
+
+education:
+  courses:
+  - course: PhD in Statistical Neuroimaging 
+    institution: Radboud University, The Netherlands
+    year: 2021
+  - course: MSc in Artifial Inteligence
+    institution: Radboud University, The Netherlands
+    year: 2016
+  - course: MSc in Electronic Engineering
+    institution: Mazandaran University, Iran
+    year: 2009
+  - course: BSc in Electronic Engineering
+    institution: Mazandaran university
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,16 +50,14 @@ social:
   link: "mailto:m.zabihi@ucl.ac.uk"
 - icon: twitter
   icon_pack: fab
-#  link: https://twitter.com/JamesCole_Neuro
+  link: https://twitter.com/m_zabihi
 - icon: google-scholar
   icon_pack: ai
- # link: https://scholar.google.co.uk/citations?hl=en&user=RgGzzIEAAAAJ
+  link: https://scholar.google.co.uk/citations?hl=en&user=RgGzzIEAAAAJ
 - icon: github
   icon_pack: fab
-  #link: https://github.com/james-cole
-- icon: orcid
-  icon_pack: ai
-  #link: https://orcid.org/0000-0003-1908-5588
+  link: https://github.com/mariam186
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -75,6 +75,4 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-
-Mariam Zabihi is ...
-
+During my Ph.D., I developed machine learning models to address specific problems in computational psychiatry due to biological and clinical heterogeneity in order to identify relevant stratification biomarkers for different disorders. Research I am currently doing involves modeling brain aging and dementia using generative nonlinear methods.
