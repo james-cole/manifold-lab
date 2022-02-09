@@ -37,7 +37,7 @@ education:
     institution: Mazandaran University, Iran
     year: 2009
   - course: BSc in Electronic Engineering
-    institution: Mazandaran university
+    institution: Mazandaran university, Iran
     year: 2006
 
 # Social/Academic Networking
