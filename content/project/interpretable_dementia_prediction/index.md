@@ -1,5 +1,5 @@
 ---
-title: Intepretable Dementia Prediction
+title: Interpretable Dementia Prediction
 summary: Building and evaluating an interpretable framework for dementia prediction
 authors: ["sophie_martin"]
 tags:
