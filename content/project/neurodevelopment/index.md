@@ -5,6 +5,7 @@ authors: ["francesca_biondo", "admin", "mariam_zabihi"]
 tags:
 - Machine Learning
 - Deep Learning
+- Neurodevelopment
 
 # Optional external URL for project (replaces project detail page).
 
