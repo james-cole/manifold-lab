@@ -21,38 +21,37 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-   [[content.filter_button]]
-     name = "All"
-     tag = "*"
-  
-   [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
- 
-   [[content.filter_button]]
-     name = "Brain Age"
-     tag = "Brain Age"
-    
+  # [[content.filter_button]]
+  #  name = "Other"
+  #  tag = "Demo"
 
-   # [[content.filter_button]]
-   #  name = "Other"
-   #  tag = "Demo"
-     
-   [[content.filter_button]]
-     name = "UK Biobank"
-     tag = "UK Biobank"
-     
-   [[content.filter_button]]
-     name = "Machine Learning"
-     tag = "Machine Learning"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
+
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning"
+
+  [[content.filter_button]]
+    name = "Brain Age"
+    tag = "Brain Age"
+    
+  [[content.filter_button]]
+    name = "UK Biobank"
+    tag = "UK Biobank"
+    
+  [[content.filter_button]]
+    name = "Machine Learning"
+    tag = "Machine Learning"
+
+  [[content.filter_button]]
+    name = "Interpretable/Explainable AI"
+    tag = "Interpretable/Explainable AI"
   
-   [[content.filter_button]]
-     name = "Interpretable/Explainable AI"
-     tag = "Interpretable/Explainable AI"
-   
-   [[content.filter_button]]
-     name = "Neurodevelopment"
-     tag = "Neurodevelopment"    
+  [[content.filter_button]]
+    name = "Neurodevelopment"
+    tag = "Neurodevelopment"    
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
