@@ -5,8 +5,7 @@ authors: ["sophie_martin"]
 tags:
 - Machine Learning
 - Deep Learning
-- Explainable Artificial Intelligence
-- Interpretability
+- Interpretable/Explainable AI
 - Dementia
 
 # Optional external URL for project (replaces project detail page).
