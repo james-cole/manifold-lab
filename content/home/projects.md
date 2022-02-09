@@ -33,6 +33,7 @@ subtitle = ""
      name = "Brain Age"
      tag = "Brain Age"
     
+
    # [[content.filter_button]]
    #  name = "Other"
    #  tag = "Demo"
@@ -44,6 +45,14 @@ subtitle = ""
    [[content.filter_button]]
      name = "Machine Learning"
      tag = "Machine Learning"
+  
+   [[content.filter_button]]
+     name = "Interpretable/Explainable AI"
+     tag = "Interpretable/Explainable AI"
+   
+   [[content.filter_button]]
+     name = "Neurodevelopment"
+     tag = "Neurodevelopment"    
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
