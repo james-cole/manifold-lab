@@ -1,6 +1,6 @@
 ---
 title: "Beyond the average patient: how neuroimaging models can address heterogeneity in dementia"
-authors: ["serena_verdi"]
+authors: ["serena_verdi", "admin"]
 author_notes: ""
 date: "2021-10-01T00:00:00Z"
 doi: "https://doi.org/10.1093/brain/awab165"
