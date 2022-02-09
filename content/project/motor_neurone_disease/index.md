@@ -17,4 +17,4 @@ image:
   focal_point: Center
 ---
 
-We are applying combining different sources of data to predict disease progression in motor neurone disease. In collaboration with Prof Andrea Malaspina and the UCL Queen Square Motor Neurone Disease Centre https://www.ucl.ac.uk/ion/research/research-centres/motor-neuron-disease-centre
+We are combining different sources of data to predict disease progression in motor neurone disease through the application of deep learning techniques. In collaboration with Professor Andrea Malaspina and the UCL Queen Square Motor Neurone Disease Centre https://www.ucl.ac.uk/ion/research/research-centres/motor-neuron-disease-centre
