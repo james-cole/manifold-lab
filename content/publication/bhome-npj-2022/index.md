@@ -1,7 +1,7 @@
 ---
 title: "Thalamic white matter macrostructure and subnuclei volumes in Parkinson’s disease depression"
 authors:
-- Rohan Bhome, admin
+- Rohan Bhome, James H Cole
 author_notes: ""
 date: "10/01/2022"
 doi: "https://doi.org/10.1038/s41531-021-00270-y"
