@@ -1,4 +1,3 @@
-
 ---
 title: "Beyond the average patient: how neuroimaging models can address heterogeneity in dementia"
 authors:
