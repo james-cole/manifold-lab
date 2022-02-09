@@ -17,14 +17,14 @@ organizations:
 bio: My research interests include ...
 
 interests:
-- Neuroscience
-- Neuroimaging
-- Ageing
-- Dementia
-- Neurodegenerative diseases
-- Artificial Intelligence
-- Machine Learning
-- Information Processing
+#- Neuroscience
+#- Neuroimaging
+#- Ageing
+#- Dementia
+#- Neurodegenerative diseases
+#- Artificial Intelligence
+#- Machine Learning
+#- Information Processing
 
 #education:
 #  courses:
