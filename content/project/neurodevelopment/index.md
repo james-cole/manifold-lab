@@ -2,7 +2,7 @@
 title: Neurodevelopment
 summary: Predicting risk of poor educational outcomes from MRI measurements of the brain during infancy and early childhood
 tags:
-authors: ["francesca biondo"]
+authors: ["francesca_biondo"]
 - Machine Learning
 - Deep Learning
 
