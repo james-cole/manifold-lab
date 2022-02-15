@@ -46,8 +46,8 @@ subtitle = ""
     tag = "Machine Learning"
 
   [[content.filter_button]]
-    name = "Interpretable/Explainable AI"
-    tag = "Interpretable/Explainable AI"
+    name = "Interpretable and Explainable AI"
+    tag = "Interpretable and Explainable AI"
   
   [[content.filter_button]]
     name = "Neurodevelopment"
