@@ -24,6 +24,7 @@ interests:
 - XAI
 - Neuroimaging
 - Dementia
+- Computational Modelling
 
 education:
   courses:
@@ -47,7 +48,7 @@ social:
   link: https://github.com/sophmrtn
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-1256-3674
+  link: https://orcid.org/0000-0003-3819-1634
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
