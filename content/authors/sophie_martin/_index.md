@@ -20,12 +20,10 @@ organizations:
 bio: My research interests include neuroimaging, artificial intelligence and interpretability.
 
 interests:
+- Deep Learning
+- XAI
 - Neuroimaging
-- Artificial Intelligence
-- Machine Learning
 - Dementia
-- Network Science
-- Computational Modelling
 
 education:
   courses:
@@ -47,6 +45,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/sophmrtn
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1256-3674
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
