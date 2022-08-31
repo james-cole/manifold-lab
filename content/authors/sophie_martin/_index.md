@@ -44,9 +44,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:s.martin.20@ucl.ac.uk"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/sophmrtn
 - icon: github
   icon_pack: fab
   link: https://github.com/sophmrtn
