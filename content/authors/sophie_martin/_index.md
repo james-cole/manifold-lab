@@ -21,10 +21,11 @@ bio: My research interests include neuroimaging, artificial intelligence and int
 
 interests:
 - Deep Learning
-- XAI
+- Interpretability
 - Neuroimaging
 - Dementia
 - Computational Modelling
+- Physics
 
 education:
   courses:
@@ -67,4 +68,4 @@ user_groups:
 - PhD Students
 ---
 
-Sophie Martin is an MRes/PhD student at University College London, based jointly between the Dementia Research Centre (DRC) and Centre for Medical Imaging Computing (CMIC).
+Sophie Martin is a PhD student at University College London, based jointly between the Dementia Research Centre (DRC) and Centre for Medical Imaging Computing (CMIC).
