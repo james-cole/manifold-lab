@@ -6,6 +6,7 @@ tags:
 - Machine Learning
 - Deep Learning
 - Interpretable AI
+- Neuroimaging
 - Dementia
 
 # Optional external URL for project (replaces project detail page).
