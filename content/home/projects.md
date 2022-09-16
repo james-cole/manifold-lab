@@ -34,14 +34,6 @@ subtitle = ""
     tag = "Deep Learning"
 
   [[content.filter_button]]
-    name = "Brain Age"
-    tag = "Brain Age"
-    
-  [[content.filter_button]]
-    name = "UK Biobank"
-    tag = "UK Biobank"
-    
-  [[content.filter_button]]
     name = "Machine Learning"
     tag = "Machine Learning"
 
@@ -50,13 +42,25 @@ subtitle = ""
     tag = "Interpretable AI"
   
   [[content.filter_button]]
+    name = "Neuroimaging"
+    tag = "Neuroimaging"
+    
+  [[content.filter_button]]
     name = "Neurodevelopment"
     tag = "Neurodevelopment"
+    
+  [[content.filter_button]]
+    name = "Brain Age"
+    tag = "Brain Age"
     
   [[content.filter_button]]
     name = "Dementia"
     tag = "Dementia"
 
+  [[content.filter_button]]
+    name = "UK Biobank"
+    tag = "UK Biobank"
+    
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
