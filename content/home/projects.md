@@ -51,7 +51,11 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Neurodevelopment"
-    tag = "Neurodevelopment"    
+    tag = "Neurodevelopment"
+    
+  [[content.filter_button]]
+    name = "Dementia"
+    tag = "Dementia"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
