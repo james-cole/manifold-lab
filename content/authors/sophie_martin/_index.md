@@ -20,12 +20,12 @@ organizations:
 bio: My research interests include neuroimaging, artificial intelligence and interpretability.
 
 interests:
+- Deep Learning
+- Interpretability
 - Neuroimaging
-- Artificial Intelligence
-- Machine Learning
 - Dementia
-- Network Science
 - Computational Modelling
+- Physics
 
 education:
   courses:
@@ -44,12 +44,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:s.martin.20@ucl.ac.uk"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/sophmrtn
 - icon: github
   icon_pack: fab
   link: https://github.com/sophmrtn
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3819-1634
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,4 +68,4 @@ user_groups:
 - PhD Students
 ---
 
-Sophie Martin is an MRes/PhD student at University College London, based jointly between the Dementia Research Centre (DRC) and Centre for Medical Imaging Computing (CMIC).
+Sophie Martin is a PhD student at University College London, based jointly between the Dementia Research Centre (DRC) and Centre for Medical Imaging Computing (CMIC).
