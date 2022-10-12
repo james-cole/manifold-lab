@@ -3,6 +3,8 @@
 # Website for the UCL MANIFOLD Lab
 
 ### https://manifold-lab.netlify.app/
+OR
+### https://manifold.cs.ucl.ac.uk
 
 #### Website based on the [Wowchemy](https://wowchemy.com/) Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
