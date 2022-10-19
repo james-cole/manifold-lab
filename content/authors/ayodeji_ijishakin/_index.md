@@ -9,7 +9,7 @@ title: Ayodeji Ijishakin
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Student 
 
 # Organizations/Affiliations
 organizations:
@@ -17,13 +17,14 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neuroimaging, deep learning, ALS disease prognosis prediction and computational neuroscience. I am based at the centre for medical image computing (CMIC) where I am completing my PhD. 
+bio: I am based MPhil/PhD student based at the centre for medical image computing (CMIC). My research uses deep learning in-order to predict brain age and prognosticate ALS Disease. My particular interests within deep learning include: variational inference, generative modelling and causal modelling. 
 
 interests:
 - Neuroimaging
-- Deep learning
 - Motor Neurone Disease
-- Computational neuroscience 
+- Variational Inference 
+- Generative Modelling 
+- Causal Modelling 
 
 education:
   courses:
@@ -66,4 +67,4 @@ user_groups:
 - PhD Students
 ---
 
-Ayodeji Ijishakin is a MRes + PhD student at the centre for medical image computing (CMIC), University College London. His research focus is the applicationg of deep learning techniques to neuroimaging data to predict the prognosis of ALS disease. 
+Ayodeji Ijishakin is a MPhil/PhD student at the centre for medical image computing (CMIC), University College London. His research focus is the applicationg of deep learning techniques to neuroimaging data for brain age prediction and the prognostication of amyotrophic lateral sclerosis.  
