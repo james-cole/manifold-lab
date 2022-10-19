@@ -17,7 +17,7 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts) 
-bio: I am based MPhil/PhD student based at the centre for medical image computing (CMIC). My research uses deep learning in-order to predict brain age and prognosticate ALS Disease. My particular interests within deep learning include: variational inference, generative modelling and causal modelling. 
+bio: I am based MPhil/PhD student based at the Centre for Medical Image Computing (CMIC). My research uses deep learning in-order to predict brain age and prognosticate ALS Disease. My particular interests within deep learning include: variational inference, generative modelling and causal modelling. 
 
 interests:
 - Variational Inference 
@@ -66,4 +66,5 @@ highlight_name: false
 user_groups:
 - PhD Students
 ---
+
 Ayodeji Ijishakin is a MPhil/PhD student at the centre for medical image computing (CMIC), University College London. His research focus is the applicationg of deep learning techniques including: variational inference, generative and causal modelling to neuroimaging data. These models are applied to brain age prediction and the prognostication of amyotrophic lateral sclerosis.  
