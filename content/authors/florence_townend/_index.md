@@ -9,7 +9,7 @@ title: Florence Townend
 superuser: false
 
 # Role/position
-role: MRes/PhD Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -17,21 +17,23 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neuroimaging, artificial intelligence and interpretability.
+bio: My research interests include incorporating multiple modalities of medical data into machine learning applications, and the clinical translation of AI.
 
 interests:
+- Multi-modal data fusion methods
 - Neuroimaging
-- Artificial Intelligence
 - Deep Learning
+- Generative modelling
 - ALS
-- Mathematical Modelling
-- Health Informatics
 
 education:
   courses:
   - course: MEng in Engineering Mathematics
     institution: University of Bristol
     year: 2021
+  - course: MRes in AI-enabled Healthcare
+    institution: University College London
+    year: 2022
 
 
 # Social/Academic Networking
