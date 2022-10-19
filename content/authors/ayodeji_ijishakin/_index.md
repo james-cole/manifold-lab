@@ -66,5 +66,4 @@ highlight_name: false
 user_groups:
 - PhD Students
 ---
-
 Ayodeji Ijishakin is a MPhil/PhD student at the centre for medical image computing (CMIC), University College London. His research focus is the applicationg of deep learning techniques including: variational inference, generative and causal modelling to neuroimaging data. These models are applied to brain age prediction and the prognostication of amyotrophic lateral sclerosis.  
