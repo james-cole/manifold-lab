@@ -20,11 +20,11 @@ organizations:
 bio: I am based MPhil/PhD student based at the centre for medical image computing (CMIC). My research uses deep learning in-order to predict brain age and prognosticate ALS Disease. My particular interests within deep learning include: variational inference, generative modelling and causal modelling. 
 
 interests:
-- Neuroimaging
-- Motor Neurone Disease
 - Variational Inference 
 - Generative Modelling 
 - Causal Modelling 
+- Neuroimaging
+- Motor Neurone Disease 
 
 education:
   courses:
