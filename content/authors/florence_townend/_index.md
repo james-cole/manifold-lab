@@ -44,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:florence.townend.21@ucl.ac.uk"
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/sophmrtn
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/fjtownend
 - icon: github
   icon_pack: fab
   link: https://github.com/florencejt
