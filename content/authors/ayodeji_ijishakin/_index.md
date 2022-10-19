@@ -42,13 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:youremailaddress@ucl.ac.uk"
+  link: "mailto:ayodeji.ijishakin.21@ucl.ac.uk"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/
+  link: https://twitter.com/AIjishakin
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/A-ijishakin 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,4 +67,4 @@ user_groups:
 - PhD Students
 ---
 
-Ayodeji Ijishakin is a MPhil/PhD student at the centre for medical image computing (CMIC), University College London. His research focus is the applicationg of deep learning techniques to neuroimaging data for brain age prediction and the prognostication of amyotrophic lateral sclerosis.  
+Ayodeji Ijishakin is a MPhil/PhD student at the centre for medical image computing (CMIC), University College London. His research focus is the applicationg of deep learning techniques including: variational inference, generative and causal modelling to neuroimaging data. These models are applied to brain age prediction and the prognostication of amyotrophic lateral sclerosis.  
