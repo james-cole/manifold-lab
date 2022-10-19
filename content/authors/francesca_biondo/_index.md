@@ -9,7 +9,7 @@ title: Francesca Biondo
 superuser: false
 
 # Role/position
-role: Research Fellow
+role: Senior Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -40,6 +40,8 @@ education:
 # Projects:
 # - name: BARCODE
 #  url: "https://manifold-lab.netlify.app/project/barcode/"
+# - name: BMGF neurodevelopmental project
+
   
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -47,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:francesca.biondo@kcl.ac.uk"
+  link: "mailto:f.biondo@ucl.ac.uk"
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Francesca_Biondo2
@@ -59,7 +61,7 @@ social:
 #  link: https://scholar.google.co.uk/citations?hl=en&user=RgGzzIEAAAAJ
 #- icon: github
 #  icon_pack: fab
-#  link: https://github.com/james-cole
+#  link: https://github.com/biondof
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
