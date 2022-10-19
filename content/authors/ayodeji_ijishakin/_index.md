@@ -1,6 +1,6 @@
 ---
 authors:
-- ayoodeji_ijishakin
+- ayodeji_ijishakin
 
 # Display name
 title: Ayodeji Ijishakin
@@ -16,7 +16,7 @@ organizations:
 - name: University College London
   url: "https://www.ucl.ac.uk/"
 
-# Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in user profile at end of posts) 
 bio: I am based MPhil/PhD student based at the centre for medical image computing (CMIC). My research uses deep learning in-order to predict brain age and prognosticate ALS Disease. My particular interests within deep learning include: variational inference, generative modelling and causal modelling. 
 
 interests:
