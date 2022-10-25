@@ -1,11 +1,11 @@
 ---
-title: "Nonlinear biomarker interactions in conversion from Mild Cognitive Impairment to Alzheimer's disease"
+title: "Brain-age is associated with progression to dementia in memory clinic patients"
 authors:
 - admin
-- fbiondo
+- francesca_biondo
 author_notes: ""
 date: "2020-02-01T00:00:00Z"
-doi: "10.1002/hbm.25133"
+doi: "10.1016/j.nicl.2022.103175"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
