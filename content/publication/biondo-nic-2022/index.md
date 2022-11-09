@@ -8,7 +8,7 @@ date: "2020-02-01T00:00:00Z"
 doi: "10.1016/j.nicl.2022.103175"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-08-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,10 +20,29 @@ publication_types: ["2"]
 publication: "NeuroImage: Clinical"
 publication_short: "NIC"
 
-abstract: "Multiple biomarkers can capture different facets of Alzheimer's disease. However, statistical models of biomarkers to predict outcomes in Alzheimer's rarely model nonlinear interactions between these measures. Here, we used Gaussian Processes to address this, modelling nonlinear interactions to predict progression from mild cognitive impairment (MCI) to Alzheimer's over 3 years, using Alzheimer's Disease Neuroimaging Initiative (ADNI) data. Measures included: demographics, APOE4 genotype, CSF (amyloid‐β42, total tau, phosphorylated tau), [18F]florbetapir, hippocampal volume and brain‐age. We examined: (a) the independent value of each biomarker; and (b) whether modelling nonlinear interactions between biomarkers improved predictions. Each measured added complementary information when predicting conversion to Alzheimer's. A linear model classifying stable from progressive MCI explained over half the variance (R2 = 0.51, p  < .001); the strongest independently contributing biomarker was hippocampal volume (R2 = 0.13). When comparing sensitivity of different models to progressive MCI (independent biomarker models, additive models, nonlinear interaction models), we observed a significant improvement (p  < .001) for various two‐way interaction models. The best performing model included an interaction between amyloid‐β‐PET and P‐tau, while accounting for hippocampal volume (sensitivity = 0.77, AUC = 0.826). Closely related biomarkers contributed uniquely to predict conversion to Alzheimer's. Nonlinear biomarker interactions were also implicated, and results showed that although for some patients adding additional biomarkers may add little value (i.e., when hippocampal volume is high), for others (i.e., with low hippocampal volume) further invasive and expensive examination may be warranted. Our framework enables visualisation of these interactions, in individual patient biomarker ‘space', providing information for personalised or stratified healthcare or clinical trial design."
-
-# Summary. An optional shortened abstract.
-summary: Multi-modality MRI and PET used to predict progression to dementia from mild cognitive impairment in ADNI.
+abstract: "Background: Biomarkers for the early detection of dementia risk hold promise for better disease monitoring and
+targeted interventions. However, most biomarker studies, particularly in neuroimaging, have analysed artificially
+‘clean’ research groups, free from comorbidities, erroneous referrals, contraindications and from a narrow
+sociodemographic pool. Such biases mean that neuroimaging samples are often unrepresentative of the target
+population for dementia risk (e.g., people referred to a memory clinic), limiting the generalisation of these
+studies to real-world clinical settings. To facilitate better translation from research to the clinic, datasets that are
+more representative of dementia patient groups are warranted.
+Methods: We analysed T1-weighted MRI scans from a real-world setting of patients referred to UK memory clinic
+services (n = 1140; 60.2 % female and mean [SD] age of 70.0[10.8] years) to derive ‘brain-age’. Brain-age is an
+index of age-related brain health based on quantitative analysis of structural neuroimaging, largely reflecting
+brain atrophy. Brain-predicted age difference (brain-PAD) was calculated as brain-age minus chronological age.
+We determined which patients went on to develop dementia between three months and 7.8 years after neuroimaging
+assessment (n = 476) using linkage to electronic health records.
+Results: Survival analysis, using Cox regression, indicated a 3 % increased risk of dementia per brain-PAD year
+(hazard ratio [95 % CI] = 1.03 [1.02,1.04], p < 0.0001), adjusted for baseline age, age2, sex, Mini Mental State
+Examination (MMSE) score and normalised brain volume. In sensitivity analyses, brain-PAD remained significant
+when time-to-dementia was at least 3 years (hazard ratio [95 % CI] = 1.06 [1.02, 1.09], p = 0.0006), or when
+baseline MMSE score ≥ 27 (hazard ratio [95 % CI] = 1.03 [1.01, 1.05], p = 0.0006).
+Conclusions: Memory clinic patients with older-appearing brains are more likely to receive a subsequent dementia
+diagnosis. Potentially, brain-age could aid decision-making during initial memory clinic assessment to improve
+early detection of dementia. Even when neuroimaging assessment was more than 3 years prior to diagnosis and
+when cognitive functioning was not clearly impaired, brain-age still proved informative. These real-world results
+support the use of quantitative neuroimaging biomarkers like brain-age in memory clinics."
 
 tags:
 - Brain Age
@@ -31,8 +50,8 @@ featured: false
 
 links:
 # - name: ""
-#   url: "https://www.sciencedirect.com/science/article/pii/S0197458020301056"
-url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25133
+#   url: "https://doi.org/10.1016/j.nicl.2022.103175"
+url_pdf: https://reader.elsevier.com/reader/sd/pii/S2213158222002406?token=D8C58A56CADE6A2C2F38062BBF9E61F95BBB9F561FE15D595CFEE0EC7194B2418575AF14A603E28A4950BDAFD340587D&originRegion=eu-west-1&originCreation=20221109150043
 url_code: ''
 url_dataset: ''
 url_poster: ''
