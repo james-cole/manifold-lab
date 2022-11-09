@@ -27,18 +27,18 @@ sociodemographic pool. Such biases mean that neuroimaging samples are often unre
 population for dementia risk (e.g., people referred to a memory clinic), limiting the generalisation of these
 studies to real-world clinical settings. To facilitate better translation from research to the clinic, datasets that are
 more representative of dementia patient groups are warranted.
-Methods: We analysed T1-weighted MRI scans from a real-world setting of patients referred to UK memory clinic
+**Methods**: We analysed T1-weighted MRI scans from a real-world setting of patients referred to UK memory clinic
 services (n = 1140; 60.2 % female and mean [SD] age of 70.0[10.8] years) to derive ‘brain-age’. Brain-age is an
 index of age-related brain health based on quantitative analysis of structural neuroimaging, largely reflecting
 brain atrophy. Brain-predicted age difference (brain-PAD) was calculated as brain-age minus chronological age.
 We determined which patients went on to develop dementia between three months and 7.8 years after neuroimaging
 assessment (n = 476) using linkage to electronic health records.
-Results: Survival analysis, using Cox regression, indicated a 3 % increased risk of dementia per brain-PAD year
+**Results**: Survival analysis, using Cox regression, indicated a 3 % increased risk of dementia per brain-PAD year
 (hazard ratio [95 % CI] = 1.03 [1.02,1.04], p < 0.0001), adjusted for baseline age, age2, sex, Mini Mental State
 Examination (MMSE) score and normalised brain volume. In sensitivity analyses, brain-PAD remained significant
 when time-to-dementia was at least 3 years (hazard ratio [95 % CI] = 1.06 [1.02, 1.09], p = 0.0006), or when
 baseline MMSE score ≥ 27 (hazard ratio [95 % CI] = 1.03 [1.01, 1.05], p = 0.0006).
-Conclusions: Memory clinic patients with older-appearing brains are more likely to receive a subsequent dementia
+**Conclusions**: Memory clinic patients with older-appearing brains are more likely to receive a subsequent dementia
 diagnosis. Potentially, brain-age could aid decision-making during initial memory clinic assessment to improve
 early detection of dementia. Even when neuroimaging assessment was more than 3 years prior to diagnosis and
 when cognitive functioning was not clearly impaired, brain-age still proved informative. These real-world results
