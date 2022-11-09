@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "NeuroImage: Clinical"
 publication_short: "NIC"
 
-abstract: "###### Background: Biomarkers for the early detection of dementia risk hold promise for better disease monitoring and
+abstract: "**Background**: Biomarkers for the early detection of dementia risk hold promise for better disease monitoring and
 targeted interventions. However, most biomarker studies, particularly in neuroimaging, have analysed artificially
 ‘clean’ research groups, free from comorbidities, erroneous referrals, contraindications and from a narrow
 sociodemographic pool. Such biases mean that neuroimaging samples are often unrepresentative of the target
