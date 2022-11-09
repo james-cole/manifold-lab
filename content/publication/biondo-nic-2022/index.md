@@ -4,7 +4,7 @@ authors:
 - admin
 - francesca_biondo
 author_notes: ""
-date: "2020-02-01T00:00:00Z"
+date: "2022-08-01T00:00:00Z"
 doi: "10.1016/j.nicl.2022.103175"
 
 # Schedule page publish date (NOT publication's date).
@@ -90,4 +90,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://github.com/biondof/BARCODE).
