@@ -25,9 +25,9 @@ interests:
 
 education:
   courses:
-  - course: MSc
+  - course: MEng
     institution: University College London
-    year: 2020
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
