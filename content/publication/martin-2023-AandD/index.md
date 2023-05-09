@@ -1,14 +1,12 @@
 ---
 title: "Interpretable deep learning for dementia: a systematic review"
-authors:
-- sophie_martin
-- admin
+authors: ["sophie_martin", "admin"]
 author_notes: ""
 date: "2023-02-03T00:00:00Z"
 doi: "https://doi.org/10.1002/alz.12948"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +18,7 @@ publication_types: ["2"]
 publication: "Alzheimer's & Dementia"
 publication_short: ""
 
-abstract: Introduction. Machine learning research into automated dementia diagnosis is becoming increasingly popular but so far has had limited clinical impact. A key challenge is building robust and generalizable models that generate decisions that can be reliably explained. Some models are designed to be inherently “interpretable,” whereas post hoc “explainability” methods can be used for other models. Methods. Here we sought to summarize the state-of-the-art of interpretable machine learning for dementia. Results. We identified 92 studies using PubMed, Web of Science, and Scopus. Studies demonstrate promising classification performance but vary in their validation procedures and reporting standards and rely heavily on popular data sets. Discussion. Future work should incorporate clinicians to validate explanation methods and make conclusive inferences about dementia-related disease pathology. Critically analyzing model explanations also requires an understanding of the interpretability methods itself. Patient-specific explanations are also required to demonstrate the benefit of interpretable machine learning in clinical practice.
+abstract: "Introduction. Machine learning research into automated dementia diagnosis is becoming increasingly popular but so far has had limited clinical impact. A key challenge is building robust and generalizable models that generate decisions that can be reliably explained. Some models are designed to be inherently “interpretable,” whereas post hoc “explainability” methods can be used for other models. Methods. Here we sought to summarize the state-of-the-art of interpretable machine learning for dementia. Results. We identified 92 studies using PubMed, Web of Science, and Scopus. Studies demonstrate promising classification performance but vary in their validation procedures and reporting standards and rely heavily on popular data sets. Discussion. Future work should incorporate clinicians to validate explanation methods and make conclusive inferences about dementia-related disease pathology. Critically analyzing model explanations also requires an understanding of the interpretability methods itself. Patient-specific explanations are also required to demonstrate the benefit of interpretable machine learning in clinical practice."
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -33,7 +31,7 @@ featured: false
 
 links:
 # - name: ""
-# url: "https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12948"
+url: "https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12948"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
