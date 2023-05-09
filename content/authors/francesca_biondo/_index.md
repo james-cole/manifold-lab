@@ -80,4 +80,4 @@ user_groups:
 - Researchers
 ---
 
-My research aims to answer neuroscience questions pertaining to how typical and atypical mind is mapped and operates in the human body. My background is in experimental design, and the cognitive, neuroimaging and neuropsychological sciences. More recently, my work has focused on big multimodal medical datasets to discover features in the data, particularly neuroimaging ones, that allow the prediction of disease states and potentially add to their mechanistic accounts. Lead researcher on the [BARCODE project](https://manifold-lab.netlify.app/project/barcode/).
+My background is in experimental design, and the cognitive, neuroimaging and neuropsychological sciences. More recently, my research has focused on big multimodal medical datasets to discover features in the data, particularly neuroimaging ones, that allow the prediction of disease states and potentially add to their mechanistic accounts. Currently I am focusing on neurodevelopmental data aimed at detecting early neuroimaging markers of later cognitive development. Lead researcher on the [BARCODE project](https://manifold-lab.netlify.app/project/barcode/).
