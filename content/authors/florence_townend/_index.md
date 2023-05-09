@@ -46,10 +46,13 @@ social:
   link: "mailto:florence.townend.21@ucl.ac.uk"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/fjtownend
+  link: https://twitter.com/florencetownend
 - icon: github
   icon_pack: fab
   link: https://github.com/florencejt
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7803-5682
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,4 +71,4 @@ user_groups:
 - PhD Students
 ---
 
-Florence Townend is an MRes/PhD student at University College London, enrolled in the AI Enabled Healthcare CDT at the Institute of Health Informatics and based in the Centre for Medical Imaging Computing (CMIC).
+Florence Townend is a PhD student at University College London, enrolled in the AI Enabled Healthcare CDT at the Institute of Health Informatics and based in the Centre for Medical Imaging Computing (CMIC).
