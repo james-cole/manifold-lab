@@ -31,7 +31,7 @@ featured: false
 
 links:
 # - name: ""
-url: "https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12948"
+# url: "https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12948"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -60,7 +60,7 @@ projects: "interpretable_dementia_prediction"
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ''
+slides: example
 ---
 
 {{% callout note %}}
