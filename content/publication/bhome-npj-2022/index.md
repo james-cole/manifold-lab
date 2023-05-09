@@ -62,7 +62,7 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -70,4 +70,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
