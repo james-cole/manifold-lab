@@ -17,14 +17,12 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include incorporating multiple modalities of medical data into machine learning applications, and the clinical translation of AI.
+bio: I am working on multi-modal data fusion techniques applied to predicting the prognosis of motor neurone disease.
 
 interests:
-- Multi-modal data fusion methods
+- Multi-modal data fusion
 - Neuroimaging
-- Deep Learning
-- Generative modelling
-- ALS
+- Motor neurone disease
 
 education:
   courses:
