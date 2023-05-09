@@ -56,6 +56,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/francesca-biondo-41440b1aa/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/000-0001-9952-0249
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?hl=en&user=RgGzzIEAAAAJ
