@@ -66,9 +66,9 @@ Our goal is to further our understanding of how the brain ages and how this affe
 
 {{< figure library="true" src="lab_beliefs_poster.png" title="" alt="Lab beliefs" width=450 >}}
 
+<!--
 <iframe src="https://github.com/james-cole/manifold-lab/blob/master/scripts/citations.php?id=RgGzzIEAAAAJ&amp;lang=en" name="meiniframe" border="0" width="100%" frameborder="0" height="200" allowtransparency="true"></iframe>
 
-<!--
 # {{< icon name="comment-alt" pack="fas" >}} This lab believes... 
 
 1. Science is open and international
