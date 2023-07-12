@@ -65,6 +65,9 @@ Welcome to the website of the Machine-learning Artificial Intelligence Neuro Ima
 Our goal is to further our understanding of how the brain ages and how this affects risk of cognitive decline, neurodegenerative diseases and dementia. We do this using advanced statistics, machine learning and AI methods to analyse neuroimaging data, alongside genetic, cognitive, clinical, biological and behavioural information – taking a big-data science approach to help translate computational methods into the clinic for people with age-associated cognitive decline, dementia and related conditions.
 
 {{< figure library="true" src="lab_beliefs_poster.png" title="" alt="Lab beliefs" width=450 >}}
+
+<iframe src="https://github.com/james-cole/manifold-lab/blob/master/scripts/citations.php?id=RgGzzIEAAAAJ&amp;lang=en" name="meiniframe" border="0" width="100%" frameborder="0" height="200" allowtransparency="true"></iframe>
+
 <!--
 # {{< icon name="comment-alt" pack="fas" >}} This lab believes... 
 
