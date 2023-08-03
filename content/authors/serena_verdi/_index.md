@@ -9,7 +9,7 @@ title: Serena Verdi
 superuser: false
 
 # Role/position
-role: PhD student
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Neuroimaging
+    institution: University College London
+    year: 2023
   - course: MSc in Translational Neuroscience
     institution: Imperial College London
     year: 2018
@@ -71,7 +74,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Researchers
 ---
 
 Serena Verdi is a PhD student at the Centre for Medical Imaging Computer (CMIC) and Dementia Research Centre (DRC) at University College London (UCL).
