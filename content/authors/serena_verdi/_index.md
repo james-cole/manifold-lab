@@ -9,7 +9,7 @@ title: Serena Verdi
 superuser: false
 
 # Role/position
-role: Researcher
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -17,7 +17,7 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include translational neuroscience, ageing and dementia
+bio: My research interests include translational neuroscience, normative modelling, ageing and dementia
 
 interests:
 - Neuroimaging
@@ -77,5 +77,5 @@ user_groups:
 - Researchers
 ---
 
-Serena Verdi is a PhD student at the Centre for Medical Imaging Computer (CMIC) and Dementia Research Centre (DRC) at University College London (UCL).
+Serena Verdi is a Research Fellow at the Centre for Medical Imaging Computer (CMIC) and Dementia Research Centre (DRC) at University College London (UCL).
 
