@@ -22,8 +22,10 @@ organizations:
 bio: 
 
 interests:
+- Multi-modal data fusion
 - Neuroimaging
 - Deep learning
+- Dementia
 
 
 education:
@@ -67,5 +69,5 @@ user_groups:
 - PhD Students
 ---
 
-Ayodeji Ijishakin is a MRes + PhD student at the centre for medical image computing (CMIC), University College London. His research focus is the applicationg of deep learning techniques to neuroimaging data to predict the prognosis of ALS disease. 
+Douglas Wyllie is a MRes + PhD student at the centre for medical image computing (CMIC), University College London. His research focus is multi-modal data fusion for the prognosis of Dementia. 
 
