@@ -1,5 +1,3 @@
-Abstract
-
 ---
 authors:
 - douglas_wyllie
