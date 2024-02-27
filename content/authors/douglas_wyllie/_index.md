@@ -69,5 +69,5 @@ user_groups:
 - PhD Students
 ---
 
-Douglas Wyllie is a MRes + PhD student in the AI Enabled Healthcare Systems CDT, University College London. His research focus is multi-modal data fusion for the prognosis of Dementia. 
+Douglas Wyllie is a MRes + PhD student in the AI Enabled Healthcare Systems CDT based in the Centre for Medical Imaging Computing (CMIC), University College London. His research focus is multi-modal data fusion for the prognosis of Dementia. 
 
