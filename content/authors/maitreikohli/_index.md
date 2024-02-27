@@ -1,6 +1,6 @@
 ---
 authors:
-- francesca_biondo
+- maitreikohli
 
 # Display name
 title: Maitrei Kohli
@@ -34,9 +34,9 @@ education:
   
 
 # Projects:
-# - name: BARCODE
-#  url: "https://manifold-lab.netlify.app/project/barcode/"
-# - name: BMGF neurodevelopmental project
+# - name: MiBirth Study
+#  url: "[https://manifold-lab.netlify.app/project/barcode/](https://www.mibirthstudy.com/)"
+# - name: AutoML-based Model Agnostic Neuroimaging
 
   
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,13 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:f.biondo@ucl.ac.uk"
+  link: "mailto:maitrei.kohli@ucl.ac.uk"
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net/profile/Francesca_Biondo2
+  link: https://www.researchgate.net/profile/Maitrei-Kohli
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/francesca-biondo-41440b1aa/
+  link: www.linkedin.com/in/maitrei-kohli-750a1616
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/000-0001-9952-0249
