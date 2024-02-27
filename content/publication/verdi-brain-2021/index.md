@@ -29,7 +29,7 @@ featured: false
 
 links:
 # - name: ""
-# url: "https://academic.oup.com/brain/article/144/10/2946/6248082"
+# url: "https://www.neurology.org/doi/10.1212/WNL.0000000000207298"
 url_pdf:
 url_code: ''
 url_dataset: ''
