@@ -32,11 +32,11 @@ education:
   - course: PhD in Neural & Genetic Computing
     institution: Birkbeck, University of London  (jointly between Dept. of Computer Science & Dept. of Psychological Sciences)
     year: 2017
- - course: MEng in Computer Science (India)
- - course: BEng in Electrical Engineering (India)
+ 
+ 
   
 
-#Projects:
+# Projects:
 #- name: MiBirth Study (in collaboration with King's College London)
 #- name: AutoML-based Model Agnostic Neuroimaging
 
