@@ -51,6 +51,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-7803-5682
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/florence-t-67172811a/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,3 +73,5 @@ user_groups:
 ---
 
 Florence Townend is a PhD student at University College London, enrolled in the AI Enabled Healthcare CDT at the Institute of Health Informatics and based in the Centre for Medical Imaging Computing (CMIC).
+Her work is on deep-learning based multimodal data fusion methods for predicting prognosis of Motor Neuron Disease patients using brain MRI and other data sources. 
+She made a Python package, Fusilli, which is a toolkit to compare diverse multimodal data fusion models for predictive tasks. It offers an array of models for tabular-tabular and tabular-image data fusion, operating as an efficient pipeline for training and evaluating models across binary, multi-class, and regression tasks. Here is a link to the [Read the Docs](https://fusilli.readthedocs.io/en/latest/) and the [GitHub](https://github.com/florencejt/fusilli).
