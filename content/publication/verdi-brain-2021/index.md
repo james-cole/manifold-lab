@@ -29,7 +29,7 @@ featured: false
 
 links:
 # - name: ""
-# url: "https://www.neurology.org/doi/10.1212/WNL.0000000000207298"
+# url: "https://doi.org/10.1093/brain/awab165"
 url_pdf:
 url_code: ''
 url_dataset: ''
