@@ -5,7 +5,7 @@ authors:
 - douglas_wyllie
 
 # Display name
-title: Ayodeji Ijishakin
+title: Douglas Wyllie
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,22 +19,21 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neuroimaging, deep learning, ALS disease prognosis prediction and computational neuroscience. I am based at the centre for medical image computing (CMIC) where I am completing my PhD. 
+bio: 
 
 interests:
 - Neuroimaging
 - Deep learning
-- Motor Neurone Disease
-- Computational neuroscience 
+
 
 education:
   courses:
-  - course: MRes in Medical Imaging
+  - course: MRes in AI Healthcare Systems
     institution: University College London
-    year: 2021
-  - course: MSc in Neuroscience and Neuroimaging
-    institution: King's College London
-    year: 2020 
+    year: 2023
+  - course: MSci in Physics with Astrophysics
+    institution: Glasgow University
+    year: 2021 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
