@@ -79,5 +79,5 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-#Bio
+# Bio
 Maitrei Kohli is a Research Fellow at the Centre of Medical Image Computing (CMIC) at University College London specialiseing in machine learning (ML) methods and neuroimaging data analysis. Her research focuses on advanced ML techniques, including ensemble and automated ML, to develop computational models for the early detection and prognosis of neurodegenerative diseases, such as Alzheimer's and Huntington's. Additionally, she explores the potential of fetal MRI data for predictive modeling of birth outcomes.
