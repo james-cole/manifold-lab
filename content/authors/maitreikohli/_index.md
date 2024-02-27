@@ -22,6 +22,7 @@ bio:
 
 interests:
 - Neuroimaging
+- Neurodegenrative diseases
 - Machine Learning & Artificial Intelligence
 - Computational Modelling
 - Behavioual Genetics
@@ -33,10 +34,10 @@ education:
     year: 2017
   
 
-# Projects:
-# - name: MiBirth Study
-#  url: "[https://manifold-lab.netlify.app/project/barcode/](https://www.mibirthstudy.com/)"
-# - name: AutoML-based Model Agnostic Neuroimaging
+Projects:
+- name: MiBirth Study (in collaboration with King's College London)
+  url: "[https://manifold-lab.netlify.app/project/barcode/](https://www.mibirthstudy.com/)"
+- name: AutoML-based Model Agnostic Neuroimaging
 
   
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -54,13 +55,13 @@ social:
   link: https://www.linkedin.com/in/maitrei-kohli-750a1616/
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/000-0001-9952-0249
+  link: https://orcid.org/0009-0008-7644-4480
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?hl=en&user=RgGzzIEAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/maitreikohli
+- icon: github
+  icon_pack: fab
+  link: https://github.com/maitreikohli
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -78,4 +79,5 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-bio
+#Bio
+Maitrei Kohli is a Research Fellow at the Centre of Medical Image Computing (CMIC) at University College London specialiseing in machine learning (ML) methods and neuroimaging data analysis. Her research focuses on advanced ML techniques, including ensemble and automated ML, to develop computational models for the early detection and prognosis of neurodegenerative diseases, such as Alzheimer's and Huntington's. Additionally, she explores the potential of fetal MRI data for predictive modeling of birth outcomes.
