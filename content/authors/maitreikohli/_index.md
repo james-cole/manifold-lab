@@ -51,7 +51,7 @@ social:
   link: https://www.researchgate.net/profile/Maitrei-Kohli
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/maitrei-kohli-750a1616
+  link: https://www.linkedin.com/in/maitrei-kohli-750a1616/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/000-0001-9952-0249
