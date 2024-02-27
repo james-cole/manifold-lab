@@ -32,11 +32,13 @@ education:
   - course: PhD in Neural & Genetic Computing
     institution: Birkbeck, University of London  (jointly between Dept. of Computer Science & Dept. of Psychological Sciences)
     year: 2017
+ - course: MEng in Computer Science (India)
+ - course: BEng in Electrical Engineering (India)
   
 
 Projects:
 - name: MiBirth Study (in collaboration with King's College London)
-  url: "[https://manifold-lab.netlify.app/project/barcode/](https://www.mibirthstudy.com/)"
+  
 - name: AutoML-based Model Agnostic Neuroimaging
 
   
@@ -79,6 +81,5 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-# Bio
 
 Maitrei Kohli is a Research Fellow at the Centre of Medical Image Computing (CMIC) at University College London specialiseing in machine learning (ML) methods and neuroimaging data analysis. Her research focuses on advanced ML techniques, including ensemble and automated ML, to develop computational models for the early detection and prognosis of neurodegenerative diseases, such as Alzheimer's and Huntington's. Additionally, she explores the potential of fetal MRI data for predictive modeling of birth outcomes.
