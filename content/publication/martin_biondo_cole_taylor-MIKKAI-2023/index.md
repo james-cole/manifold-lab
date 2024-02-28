@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: ""
 #   url: "https://doi.org/10.1007/978-3-031-45249-9_115"
-url_pdf: 'https://doi.org/10.1007/978-3-031-45249-9_115'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
