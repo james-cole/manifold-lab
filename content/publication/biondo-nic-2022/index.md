@@ -51,7 +51,7 @@ featured: false
 links:
 # - name: ""
 #   url: "https://doi.org/10.1016/j.nicl.2022.103175"
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1016/j.nicl.2022.103175'
 url_code: ''
 url_dataset: ''
 url_poster: ''
