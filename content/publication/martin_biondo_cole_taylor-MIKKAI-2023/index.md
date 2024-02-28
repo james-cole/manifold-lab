@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: ""
 #   url: "https://doi.org/10.1007/978-3-031-45249-9_115"
-url_pdf: https://reader.elsevier.com/reader/sd/pii/S2213158222002406?token=D8C58A56CADE6A2C2F38062BBF9E61F95BBB9F561FE15D595CFEE0EC7194B2418575AF14A603E28A4950BDAFD340587D&originRegion=eu-west-1&originCreation=20221109150043](https://link.springer.com/chapter/10.1007/978-3-031-45249-9_11?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot)
+url_pdf: 'https://reader.elsevier.com/reader/sd/pii/S2213158222002406?token=D8C58A56CADE6A2C2F38062BBF9E61F95BBB9F561FE15D595CFEE0EC7194B2418575AF14A603E28A4950BDAFD340587D&originRegion=eu-west-1&originCreation=20221109150043](https://link.springer.com/chapter/10.1007/978-3-031-45249-9_11?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot)'
 url_code: ''
 url_dataset: ''
 url_poster: ''
