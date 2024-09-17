@@ -64,5 +64,4 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-Bio
 Anthi Papouli is a Research Assistant at the Hawkes Institute at Univeristy College London specialized in AI and neuroimaging analysis
