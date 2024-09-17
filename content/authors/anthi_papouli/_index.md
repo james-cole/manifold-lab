@@ -14,16 +14,23 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+bio: My research interests include AI and its applications in Biomedicine and Neuroscience
 
 interests:
+- Artificial Intelligence 
+- Neuroscience
+- Neuroimaging
+- Dementia
+- Bioinformatics
 
 education:
   courses:
-#  - course: 
-#    institution: 
- #   year: 
-
+  - course: MSc in Artificial Intelligence for Biomedicine and Healthcare
+    institution: University College London
+    year: 2024
+  - course: BSc in Biological Sciences
+    institution: Imperial College London
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -32,16 +39,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:"
-# - icon: twitter
-#  icon_pack: fab
-#  link: 
-# - icon: google-scholar
-#  icon_pack: ai
-#  link: 
-# - icon: github
-#  icon_pack: fab
-#  link: 
+  link: "mailto:anthi.papouli.23@ucl.ac.uk"
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Anthi-P
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/anthi-papouli/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -61,3 +65,4 @@ user_groups:
 - Researchers
 ---
 Bio
+Anthi Papouli is a Research Assistant at the Hawkes Institute at Univeristy College London specialized in AI and neuroimaging analysis
