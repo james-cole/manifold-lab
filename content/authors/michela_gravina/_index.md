@@ -30,7 +30,7 @@ education:
     year: 2023
   - course: Master's Computer Science Engineering
     institution: University of Naples Federico II
-    year 2019
+    year: 2019
   - course: BSc Information Technology
     institution: University of Naples Federico II
     year: 2016
