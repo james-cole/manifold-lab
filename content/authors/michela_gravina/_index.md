@@ -13,7 +13,7 @@ role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Napoli
+- name: University of Naples Federico II
 - url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,8 +26,14 @@ interests:
 education:
   courses:
   - course: PhD
-    institution: University of Melbourne
-    year: 2019
+    institution: University of Naples Federico II
+    year: 2023
+  - course: Master's Computer Science Engineering
+    institution: University of Naples Federico II
+    year 2019
+  - course: BSc Information Technology
+    institution: University of Naples Federico II
+    year: 2016
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
