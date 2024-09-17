@@ -6,7 +6,7 @@ title: Anthi Papouli
 superuser: false
 
 # Role/position
-role: Research Fellow
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
