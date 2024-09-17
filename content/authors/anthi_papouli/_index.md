@@ -14,7 +14,7 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neuroimaging, ageing and neurodegenerative diseases
+bio: My research interests include ...
 
 interests:
 
