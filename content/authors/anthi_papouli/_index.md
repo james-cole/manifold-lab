@@ -22,6 +22,7 @@ interests:
 - Neuroimaging
 - Dementia
 - Bioinformatics
+- Multimodal Data Integration
 
 education:
   courses:
