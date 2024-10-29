@@ -27,6 +27,7 @@ interests:
 - Ageing & Dementia
 - Machine Learning & Artificial Intelligence
 - Neuropsychology, Developmental & Cognitive psychology
+- Ultra-low field neuroimaging
 
 education:
   courses:
@@ -83,4 +84,4 @@ user_groups:
 - Researchers
 ---
 
-My academic background is rooted in experimental design, spanning cognitive, neuroimaging, and neuropsychological sciences. In recent years, my research has shifted towards the exploration of large, multimodal medical datasets. My aim is to identify key features within these datasets — particularly those related to neuroimaging — that can predict disease states and potentially contribute to our understanding of their mechanisms. My current focus is on neurodevelopmental data, with a specific interest in detecting early neuroimaging markers that are associated to future cognitive development. Lead researcher on the [BARCODE project](https://manifold-lab.netlify.app/project/barcode/).
+With a strong foundation in experimental design across cognitive science, neuroimaging, and neuropsychology, my research has evolved towards the analysis of large, multimodal medical datasets. My primary aim is to identify key features within these datasets — particularly neuroimaging markers — that can predict disease states or cognitive abilities, thereby enhancing our understanding of their underlying mechanisms. Currently, I focus on neurodevelopmental data, aiming to detect early neuroimaging markers associated with future cognitive development. Additionally, I am investigating the use and reliability of ultra-low-field MRI neuroimaging. Served as the lead researcher on the [BARCODE project](https://manifold-lab.netlify.app/project/barcode/).
