@@ -1,16 +1,14 @@
 ---
-title: Public Engagement
-date: 2024-07-12
-math: true
-diagram: true
-image:
-  placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+title: Public Engagement - Alzheimer's UK Open Day 
+date: 2024-07-15
+math: false
+diagram: false
+authors: ["francesca_biondo"]
+    
 ---
 
-We took part in this event...
+We took part in this event [expand].
 
-**Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Academic.
-
+## Link to event 
+For more details checkout this link [LinkedIn]((https://www.linkedin.com/posts/ucl-centre-medical-image-computing-cmic_well-done-to-the-team-in-cmic-that-showcased-ugcPost-7227597159196430336-eqol?utm_source=share&utm_medium=member_desktop)) 
