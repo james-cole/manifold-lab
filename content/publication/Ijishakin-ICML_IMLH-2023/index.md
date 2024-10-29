@@ -1,7 +1,6 @@
 ---
 title: "Interpretable Alzheimer’s Disease Classification Via a Contrastive Diffusion Autoencoder"
-authors:
-- admin
+authors: ["ayodeji ijishakin", "ahmed abdulaal", "adamos hadjasavilou" sophie_martin", "admin"]
 author_notes: ""
 date: "2023-06-05T00:00:00Z"
 
