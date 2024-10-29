@@ -66,4 +66,4 @@ user_groups:
 - PhD Students
 ---
 
-Ayodeji Ijishakin is...
+Ayodeji Ijishakin is a PhD student whose research is at the intersection of prognosis of Amyotrophic Lateral Sclerosis and Generative Modelling. 
