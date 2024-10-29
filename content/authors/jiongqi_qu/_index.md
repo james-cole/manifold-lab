@@ -20,12 +20,15 @@ organizations:
 # bio: TBC
 
 interests:
-- Neuroimaging
+- Deep Learning
+- Generalisability
+- Foundation Model
 - Dementia
+- Neuroimaging
 
 education:
   courses:
-  - course: MEng
+  - course: MEng in Engineering (Biomedical)
     institution: University College London
     year: 2021
 
