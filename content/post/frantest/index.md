@@ -15,4 +15,4 @@ Members of the MANIFOLD Lab* presented our ongoing dementia research to the publ
 *Fran Biondo, Maitrei Kohli, Sophie Martin & James Cole
 
 ## Link to event 
-For more details, see [LinkedIn]((https://www.linkedin.com/posts/ucl-centre-medical-image-computing-cmic_well-done-to-the-team-in-cmic-that-showcased-ugcPost-7227597159196430336-eqol?utm_source=share&utm_medium=member_desktop)) 
+For more details, see [LinkedIn](https://www.linkedin.com/posts/ucl-centre-medical-image-computing-cmic_well-done-to-the-team-in-cmic-that-showcased-ugcPost-7227597159196430336-eqol?utm_source=share&utm_medium=member_desktop)
