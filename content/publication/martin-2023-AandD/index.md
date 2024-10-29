@@ -1,6 +1,6 @@
 ---
 title: "Interpretable deep learning for dementia: a systematic review"
-authors: ["sophie_martin", "admin"]
+authors: ["sophie_martin", Frederik Barkhof, "admin"]
 author_notes: ""
 date: "2023-02-03T00:00:00Z"
 doi: "https://doi.org/10.1002/alz.12948"

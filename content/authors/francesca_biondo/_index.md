@@ -22,12 +22,11 @@ organizations:
 bio: 
 
 interests:
-- Neuroscience
 - Neuroimaging
+- Neuropsychology, Developmental & Cognitive psychology
 - Ageing & Dementia
 - Machine Learning & Artificial Intelligence
-- Neuropsychology, Developmental & Cognitive psychology
-- Ultra-low field neuroimaging
+- Ultra-low-field neuroimaging
 
 education:
   courses:
