@@ -7,8 +7,9 @@ authors: ["francesca_biondo"]
     
 ---
 
-We took part in this event [expand].
+We took part in this event.
 ![Image alt](AlzUK1.jpg)
+
 ![Image alt](AlzUK2.jpg)
 
 ## Link to event 
