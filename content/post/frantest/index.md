@@ -9,8 +9,8 @@ authors: ["francesca_biondo"]
 
 Members of the MANIFOLD Lab presented our latest dementia research to the public during an open day organised by Alzheimer's UK. Through interactive activities, we engaged attendees with our work on brain-age and normative modelling, highlighting how these approaches can contribute to understanding and diagnosing dementia.
 
-![Image alt](ALzUk1.jpg)
-![Image alt](AlzUK2.jpg)
+![Image alt](ALzUk1.jpg = 0.33x)
+![Image alt](AlzUK2.jpg = 0.33x)
 
 
 ## Link to event 
