@@ -32,7 +32,7 @@ featured: false
 links:
 # - name: ""
 # url: "https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12948"
-url_pdf: 'https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz.12948'
+#url_pdf: 'https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz.12948'
 url_code: ''
 url_dataset: ''
 url_poster: ''
