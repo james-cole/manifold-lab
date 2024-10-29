@@ -50,7 +50,7 @@ authors = "admin"
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style: ""
  
  # CSS class.
  css_class = ""
@@ -80,4 +80,4 @@ Our goal is to further our understanding of how the brain ages and how this affe
 7. Feminism is for everyone
 8. Immigrants are welcome
 -->
-{{< figure library="true" src="all_logos.jpg" title="" alt="UCL CMIC DRC logos" width=900 >}}
+{{< figure library="true" src="all_logos.jpg" title="" alt="UCL CMIC DRC logos" width=600 >}}
