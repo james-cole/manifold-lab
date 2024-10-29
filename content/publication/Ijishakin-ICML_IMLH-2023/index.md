@@ -31,7 +31,7 @@ featured: false
 links:
 # - name: ""
 # url: "https://openreview.net/pdf?id=YZuHFTfDCj"
-url_pdf: http://www.sciencedirect.com/science/article/pii/S0197458020301056
+url_pdf: https://openreview.net/pdf?id=YZuHFTfDCj
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -39,3 +39,4 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+---
