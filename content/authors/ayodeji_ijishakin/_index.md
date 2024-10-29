@@ -17,22 +17,22 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neuroimaging, deep learning, ALS disease prognosis prediction and computational neuroscience. I am based at the centre for medical image computing (CMIC) where I am completing my PhD. 
+bio: My research interests include neuroimaging generative modelling, representation learning and mecehanistic interpretability.
 
 interests:
 - Neuroimaging
-- Deep learning
-- Motor Neurone Disease
-- Computational neuroscience 
+- Generative Modelling
+- Mechanistic Interpretability
+- Amyotrophic Lateral Sclerosis 
 
 education:
   courses:
+  - course: MSc Neuroscience & Neuroimaging
+    institution: King's College London
+    year: 2021
   - course: MRes in Medical Imaging
     institution: University College London
-    year: 2021
-  - course: MSc in Neuroscience and Neuroimaging
-    institution: King's College London
-    year: 2020 
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,13 +41,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:youremailaddress@ucl.ac.uk"
+  link: "mailto:ayodeji.ijishakin.21@ucl.ac.uk"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/
+  link: https://x.com/AIjishakin
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/A-Ijishakin
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,4 +66,4 @@ user_groups:
 - PhD Students
 ---
 
-Ayodeji Ijishakin is a MRes + PhD student at the centre for medical image computing (CMIC), University College London. His research focus is the applicationg of deep learning techniques to neuroimaging data to predict the prognosis of ALS disease. 
+Ayodeji Ijishakin is...
