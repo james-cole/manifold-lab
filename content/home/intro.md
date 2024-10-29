@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Welcome to the MANIFOLD Lab"
+title = ""
 subtitle = ""
 authors = "admin"
 
@@ -50,12 +50,13 @@ authors = "admin"
 
 [advanced]
  # Custom CSS. 
- css_style: ""
+ css_style = ""
  
  # CSS class.
  css_class = ""
 +++
 
+# Welcome the the MANIFOLD Lab
 
 {{< figure library="true" src="MANIFOLD_logo_full.png" title="" alt="MANIFOLD logo" width=600 >}}
 
