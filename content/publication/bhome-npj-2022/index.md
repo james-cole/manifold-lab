@@ -3,7 +3,7 @@ title: "Thalamic white matter macrostructure and subnuclei volumes in Parkinsonâ
 authors:
 - Rohan Bhome, James H Cole
 author_notes: ""
-date: "10/01/2022"
+date: "2022-01-10T00:00:00Z"
 doi: "https://doi.org/10.1038/s41531-021-00270-y"
 
 # Schedule page publish date (NOT publication's date).
