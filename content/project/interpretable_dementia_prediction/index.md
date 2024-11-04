@@ -1,7 +1,8 @@
 ---
 title: Interpretable Dementia Prediction
 summary: Developing a generalisable and interpretable framework for dementia prediction.
-authors: ["sophie_martin"]
+authors: 
+- sophie_martin
 tags:
 - Machine Learning
 - Deep Learning

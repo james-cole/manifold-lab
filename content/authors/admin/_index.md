@@ -2,6 +2,10 @@
 # Display name
 title: James H Cole
 
+# Full Name (for SEO)
+first_name: James
+last_name: Cole
+
 # Is this the primary user of the site?
 superuser: true
 
