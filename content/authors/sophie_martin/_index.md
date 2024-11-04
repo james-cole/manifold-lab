@@ -1,9 +1,10 @@
 ---
-authors:
-- sophie_martin
-
 # Display name
 title: Sophie Martin
+
+# Full Name (for SEO)
+first_name: Sophie
+last_name: Martin
 
 # Is this the primary user of the site?
 superuser: false

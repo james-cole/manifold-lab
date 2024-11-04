@@ -1,9 +1,10 @@
 ---
-authors:
-- admin
-
 # Display name
 title: Remika Mito
+
+# Full Name (for SEO)
+first_name: Remika
+last_name: Mito
 
 # Is this the primary user of the site?
 superuser: false

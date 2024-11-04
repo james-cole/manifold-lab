@@ -1,9 +1,10 @@
 ---
-authors:
-- douglas_wyllie
-
 # Display name
 title: Douglas Wyllie
+
+# Full Name (for SEO)
+first_name: Douglas
+last_name: Wyllie
 
 # Is this the primary user of the site?
 superuser: false

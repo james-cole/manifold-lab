@@ -1,9 +1,10 @@
 ---
-authors:
-- rohan_bhome
-
 # Display name
 title: Rohan Bhome
+
+# Full Name (for SEO)
+first_name: Rohan
+last_name: Bhome
 
 # Is this the primary user of the site?
 superuser: false

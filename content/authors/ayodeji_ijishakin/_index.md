@@ -1,9 +1,10 @@
 ---
-authors:
-- ayoodeji_ijishakin
-
 # Display name
 title: Ayodeji Ijishakin
+
+# Full Name (for SEO)
+first_name: Ayodeji
+last_name: Ijishakin
 
 # Is this the primary user of the site?
 superuser: false

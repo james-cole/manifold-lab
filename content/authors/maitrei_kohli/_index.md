@@ -1,9 +1,10 @@
 ---
-authors:
-- maitreikohli
-
 # Display name
 title: Maitrei Kohli
+
+# Full Name (for SEO)
+first_name: Maitrei
+last_name: Kohli
 
 # Is this the primary user of the site?
 superuser: false

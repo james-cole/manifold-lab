@@ -1,9 +1,10 @@
 ---
-authors:
-- melis_anaturk
-
 # Display name
 title: Melis Anatürk
+
+# Full Name (for SEO)
+first_name: Melis
+last_name: Anaturk
 
 # Is this the primary user of the site?
 superuser: false

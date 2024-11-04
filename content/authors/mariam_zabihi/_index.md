@@ -2,6 +2,10 @@
 # Display name
 title: Mariam Zabihi
 
+# Full Name (for SEO)
+first_name: Mariam
+last_name: Zabihi
+
 # Is this the primary user of the site?
 superuser: false
 

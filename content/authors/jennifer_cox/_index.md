@@ -1,9 +1,10 @@
 ---
-authors:
-- jennifer_cox
-
 # Display name
 title: Jen Cox
+
+# Full Name (for SEO)
+first_name: Jennifer
+last_name: Cox
 
 # Is this the primary user of the site?
 superuser: false

@@ -2,6 +2,10 @@
 # Display name
 title: Anthi Papouli
 
+# Full Name (for SEO)
+first_name: Anthi
+last_name: Papouli
+
 # Is this the primary user of the site?
 superuser: false
 

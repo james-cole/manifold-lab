@@ -1,9 +1,10 @@
 ---
-authors:
-- florence_townend
-
 # Display name
 title: Florence Townend
+
+# Full Name (for SEO)
+first_name: Florence
+last_name: Townend
 
 # Is this the primary user of the site?
 superuser: false

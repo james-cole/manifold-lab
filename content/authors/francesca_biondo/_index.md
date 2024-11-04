@@ -1,9 +1,10 @@
 ---
-authors:
-- francesca_biondo
-
 # Display name
 title: Francesca Biondo
+
+# Full Name (for SEO)
+first_name: Francesca
+last_name: Biondo
 
 # Is this the primary user of the site?
 superuser: false

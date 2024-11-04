@@ -1,9 +1,10 @@
 ---
-authors:
-- serena_verdi
-
 # Display name
 title: Serena Verdi
+
+# Full Name (for SEO)
+first_name: Serena
+last_name: Verdi
 
 # Is this the primary user of the site?
 superuser: false

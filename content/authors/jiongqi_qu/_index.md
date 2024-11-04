@@ -1,9 +1,10 @@
 ---
-authors:
-- jiongqi_qu
-
 # Display name
 title: Jiongqi Qu
+
+# Full Name (for SEO)
+first_name: Jiongqi
+last_name: Qu
 
 # Is this the primary user of the site?
 superuser: false
