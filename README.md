@@ -9,7 +9,7 @@ OR
 #### Website based on the [Wowchemy](https://wowchemy.com/) Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
 <p float="left">
-  <img src="/static/media/UCL_logo.png" width="250" />
-  <img src="/static/media/cmic_logo.png" width="250" /> 
-  <img src="/static/media/drc_logo.png" width="125" />
+  <img src="assets/media/UCL_logo.png" width="250" />
+  <img src="assets/media/cmic_logo.png" width="250" /> 
+  <img src="assets/media/drc_logo.png" width="125" />
 </p>
