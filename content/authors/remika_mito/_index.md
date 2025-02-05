@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Remika Mito visited UCL in 2023.
+Remika visited UCL in 2023 and again in 2024.
