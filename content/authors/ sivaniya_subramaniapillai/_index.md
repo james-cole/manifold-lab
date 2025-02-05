@@ -42,7 +42,7 @@ education:
   
 # Social/Academic Networking
 social:
- - icon: envelope
+- icon: envelope
   icon_pack: fas
   link: "mailto:sivaniya.subramaniapillai@unil.ch"
 - icon: google-scholar
