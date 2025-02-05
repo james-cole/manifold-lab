@@ -1,6 +1,6 @@
 ---
-# Display name
-title: Sivaniya
+## Display name
+#title: Sivaniya Subramaniapillai
 
 # Full Name (for SEO)
 first_name: Sivaniya
