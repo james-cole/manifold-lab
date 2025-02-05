@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Michela Gravina visited UCL in 2024.
+Dorian visited UCL in 2024.
