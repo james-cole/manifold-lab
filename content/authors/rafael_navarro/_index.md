@@ -39,12 +39,12 @@ education:
   
 # Social/Academic Networking
 social:
-- icon: github
-  icon_pack: fab
-  link: https://github.com/rafaloz
 - icon: envelope
   icon_pack: fas
   link: "mailto:rafael.navarro@uva.es"
+- icon: github
+  icon_pack: fab
+  link: https://github.com/rafaloz
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?user=S8wiVBoAAAAJ
