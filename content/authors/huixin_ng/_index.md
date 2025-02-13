@@ -45,8 +45,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/nghuixin/
-- icon
-  link: http://linkedin.com/in/nghuixin/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=teu1eR0AAAAJ
