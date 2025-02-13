@@ -42,7 +42,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: http://linkedin.com/in/nghuixin/
- - icon: github
+- icon: github
   icon_pack: fab
   link: https://github.com/nghuixin/
 - icon
