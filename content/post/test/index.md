@@ -8,5 +8,3 @@ authors: ["admin"]
 ---
 
 Test post
-
-![Image alt](logo.png =250x)
