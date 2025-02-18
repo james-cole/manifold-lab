@@ -8,4 +8,4 @@ image:
   caption:MANIFOLD Lab 2024
 ---
 
-We had a visit from a photographer!
+We had a visit from a photographer! Sorry that Mariam is missing.
