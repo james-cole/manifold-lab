@@ -4,9 +4,8 @@ date: 2025-02-18
 math: false
 diagram: false
 authors: ["admin"]
-
+image:
+  caption:MANIFOLD Lab 2024
 ---
 
 We had a visit from a photographer!
-
-![Image alt](logo.png =250x)
