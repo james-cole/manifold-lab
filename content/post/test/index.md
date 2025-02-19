@@ -1,5 +1,5 @@
 ---
-title: Test post
+title: Lab photo
 date: 2025-02-18
 math: false
 diagram: false
@@ -7,4 +7,4 @@ authors: ["admin"]
 
 ---
 
-Test post
+We had a visit from a photographer!
