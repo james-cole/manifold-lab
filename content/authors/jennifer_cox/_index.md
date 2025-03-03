@@ -41,12 +41,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:jennifer.g.cox@kcl.ac.uk"
-# - icon: twitter
-  # icon_pack: fab
-  # link: https://twitter.com/JamesCole_Neuro
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?hl=en&user=RgGzzIEAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/jennifergcox
