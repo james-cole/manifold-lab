@@ -15,10 +15,10 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
 - name: University of Catania
-- url: ""
+- url: "https://www.unict.it/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My primary research interests include deep learning and medical image analysis, with a focus on applications in neurodegenerative diseases.
 
 interests:
 - Neuroimaging
@@ -39,6 +39,24 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:lemuel.puglisi@phd.unict.it"
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/lemuelpuglisi
+- icon: github
+  icon_pack: fab
+  link: https://github.com/lemuelpuglisi
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Y2qMZYoAAAAJ&hl=it
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7803-5682
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/lemuel-puglisi-b3280a16b/
 # - icon: envelope
 #  icon_pack: fas
 #  link: "mailto:youremailaddress@ucl.ac.uk"
