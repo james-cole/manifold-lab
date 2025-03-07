@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.com/citations?user=Y2qMZYoAAAAJ&hl=it
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0001-7803-5682
+  link: https://orcid.org/0009-0003-5661-9873
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/lemuel-puglisi-b3280a16b/
