@@ -10,7 +10,7 @@ last_name: Martin
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -77,7 +77,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Researchers
 ---
 
-Sophie Martin is a PhD student at University College London, based jointly between the Dementia Research Centre (DRC) and Centre for Medical Imaging Computing (CMIC).
+Sophie Martin is a Research Fellow at University College London, writing up her PhD. Sophie is based at UCL Hawkes Institute.
