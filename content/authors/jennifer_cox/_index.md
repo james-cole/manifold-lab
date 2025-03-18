@@ -10,7 +10,7 @@ last_name: Cox
 superuser: false
 
 # Role/position
-role: PhD student
+role: PhD graduate
 
 # Organizations/Affiliations
 organizations:
@@ -59,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---
 
 I've spent the last 10 years working in industry, first in imaging contract research organisations and then most recently on the pharmaceutical sponsor side. Through that time I've worked across imaging modalities, diseases and the whole body, but I've always had a primary interest in neuro. My PhD research is focused on the central effect of systemic inflammation from autoimmune disorders so really the intersection of the body as a whole and the brain!
