@@ -10,7 +10,7 @@ last_name: Anaturk
 superuser: false
 
 # Role/position
-role: Honorary Research Fellow
+role: former Research Fellow
 
 # Organizations/Affiliations
 organizations:
