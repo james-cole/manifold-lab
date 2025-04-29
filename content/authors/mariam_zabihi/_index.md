@@ -77,6 +77,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 During my Ph.D., I developed machine learning models to address specific problems in computational psychiatry due to biological and clinical heterogeneity in order to identify relevant stratification biomarkers for different disorders. Research I am currently doing involves modeling brain aging and dementia using generative nonlinear methods.
