@@ -33,7 +33,7 @@ education:
     institution: Université Paris Cité
     year: 2024 - Current
   - course: BSc in Biomedical Sciences
-    institution: Université Paris Cité
+    institution: King's College London
     year: 2024
 
 # Social/Academic Networking
