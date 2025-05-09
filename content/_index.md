@@ -78,6 +78,8 @@ sections:
       filters:
         folders:
           - post
+    sort_by: 'Date'
+    sort_ascending: false
     design:
       view: card
       columns: '2'

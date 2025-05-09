@@ -1,6 +1,6 @@
 ---
 title: Lab photo
-date: 2025-02-18
+date: 2024-11-22
 math: false
 diagram: false
 authors: ["admin"]
