@@ -81,7 +81,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 My academic background is rooted in experimental design, spanning cognitive, neuroimaging, and neuropsychological sciences. In recent years, my research has shifted towards the exploration of large, multimodal medical datasets. My aim is to identify key features within these datasets — particularly those related to neuroimaging — that can predict disease states (for example, see [BARCODE project](https://manifold-lab.netlify.app/project/barcode/) and/or cognitive abilities, potentially contributing to our understanding of their mechanisms. Currently, I focus on neurodevelopmental data, aiming to detect early neuroimaging markers linked to cognitive development. In parallel, I am exploring the reliability and applications of ultra-low-field MRI neuroimaging.
