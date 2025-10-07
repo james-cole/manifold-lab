@@ -49,6 +49,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:maitrei.kohli@ucl.ac.uk"
+- icon: building-columns
+  icon_pack: fas
+  link: https://profiles.ucl.ac.uk/82737-maitrei-kohli
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Maitrei-Kohli
