@@ -75,5 +75,5 @@ user_groups:
 - Researchers
 ---
 
-Serena Verdi is a Research Fellow at UCL Hawkes Institute and Dementia Research Centre (DRC) at University College London (UCL).
+Dr Serena Verdi is a Research Fellow at UCL Hawkes Institute and Dementia Research Centre (DRC) at University College London (UCL).
 
