@@ -43,10 +43,10 @@ education:
 social:
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/georgiakenyon
+  link: https://linkedin.com/in/georgiakenyon
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=9tb7wscAAAAJ&hl=en](https://scholar.google.com/citations?user=cIWJgREAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=cIWJgREAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/georgiakenyon
