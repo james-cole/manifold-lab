@@ -58,14 +58,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/sophmrtn
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0003-3819-1634
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sophiedmartin/
-
-
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3819-1634
 
 
 # Link to a PDF of your resume/CV from the About widget.
