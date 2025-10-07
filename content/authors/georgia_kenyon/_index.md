@@ -41,9 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: building-columns
-  icon_pack: fas
-  link: 
+- icon: linkedin
+  icon_pack: fab
+  link: www.linkedin.com/in/georgiakenyon
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=9tb7wscAAAAJ&hl=en](https://scholar.google.com/citations?user=cIWJgREAAAAJ&hl=en
