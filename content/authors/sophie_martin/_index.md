@@ -48,9 +48,6 @@ social:
 - icon: building-columns
   icon_pack: fas
   link: https://profiles.ucl.ac.uk/80393-sophie-martin
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:s.martin.20@ucl.ac.uk"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=9tb7wscAAAAJ&hl=en
@@ -60,6 +57,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-3819-1634
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:sophie.a.martin@ucl.ac.uk"
 
   
 
