@@ -21,16 +21,16 @@ organizations:
 bio: My research interests include translational neuroscience, normative modelling, ageing and dementia
 
 interests:
+- Translational research
 - Neuroimaging
 - Ageing
 - Dementia
 - Neuroscience
 - Public engagement of science
-- Translational research 
 
 education:
   courses:
-  - course: PhD in Neuroimaging
+  - course: PhD in Neuroimage Computing 
     institution: University College London
     year: 2023
   - course: MSc in Translational Neuroscience
@@ -48,9 +48,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:serena.verdi.19@ucl.ac.uk"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/serena_verdi
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=PPPnxFIAAAAJ&hl=en
@@ -78,5 +75,5 @@ user_groups:
 - Researchers
 ---
 
-Serena Verdi is a Research Fellow at the Centre for Medical Imaging Computer (CMIC) and Dementia Research Centre (DRC) at University College London (UCL).
+Serena Verdi is a Research Fellow at UCL Hawkes Institute and Dementia Research Centre (DRC) at University College London (UCL).
 
