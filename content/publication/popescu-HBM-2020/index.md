@@ -1,5 +1,5 @@
 ---
-title: | 'Nonlinear biomarker interactions in conversion from Mild Cognitive Impairment to `Alzheimer's` disease'
+title: 'Nonlinear biomarker interactions in conversion from Mild Cognitive Impairment to Alzheimers disease'
 authors:
 - admin
 author_notes: ''
