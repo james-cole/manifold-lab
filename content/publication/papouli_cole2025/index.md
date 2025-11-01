@@ -2,10 +2,11 @@
 title: 'Brain age prediction from MRI scans in neurodegenerative diseases'
 authors: ['anthi_papouli', 'admin']
 author_notes: ''
+date: '2025-08-01T00:00:00Z'
 doi: '10.1097/WCO.0000000000001383'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-08-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -13,7 +14,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Heterogeneity in dementia'
+publication: 'Current Opinion in Neurology'
 publication_short: ''
 
 abstract: Purpose of review This review explores the use of brain age estimation from MRI scans as a biomarker of brain health. With disorders like Alzheimer’s and Parkinson’s increasing globally, there is an urgent need for early detection tools that can identify at-risk individuals before cognitive symptoms emerge. Brain age offers a noninvasive, quantitative measure of neurobiological ageing, with applications in early diagnosis, disease monitoring, and personalized medicine. Recent findings Studies show that individuals with Alzheimer’s, mild cognitive impairment (MCI), and Parkinson’s have older brain ages than their chronological age. Longitudinal research indicates that brain-predicted age difference (brain-PAD) rises with disease progression and often precedes cognitive decline. Advances in deep learning and multimodal imaging have improved the accuracy and interpretability of brain age predictions. Moreover, socioeconomic disparities and environmental factors significantly affect brain aging, highlighting the need for inclusive models. Summary Brain age estimation is a promising biomarker for identify future risk of neurodegenerative disease, monitoring progression, and helping prognosis. Challenges like implementation of standardization, demographic biases, and interpretability remain. Future research should integrate brain age with biomarkers and multimodal imaging to enhance early diagnosis and intervention strategies. 
