@@ -1,13 +1,13 @@
 ---
-title: 'Nonlinear biomarker interactions in conversion from Mild Cognitive Impairment to Alzheimer's disease'
+title: 'Personalizing progressive changes to brain structure in Alzheimers disease using normative modeling'
 authors:
 - admin
 author_notes: ''
-date: '2020-02-01T00:00:00Z'
-doi: '10.1002/hbm.25133'
+date: '2024-09-51T00:00:00Z'
+doi: '10.1002/alz.14174'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-09-05T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -15,8 +15,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Human Brain Mapping'
-publication_short: 'HBM'
+publication: 'Alzheimers and Dementia'
+publication_short: ''
 
 abstract: |
   'Multiple biomarkers can capture different facets of Alzheimer's disease. However, statistical models of biomarkers to predict outcomes in Alzheimer's rarely model nonlinear interactions between these measures. Here, we used Gaussian Processes to address this, modelling nonlinear interactions to predict progression from mild cognitive impairment (MCI) to Alzheimer's over 3 years, using Alzheimer's Disease Neuroimaging Initiative (ADNI) data. Measures included: demographics, APOE4 genotype, CSF (amyloid‐β42, total tau, phosphorylated tau), [18F]florbetapir, hippocampal volume and brain‐age. We examined: (a) the independent value of each biomarker; and (b) whether modelling nonlinear interactions between biomarkers improved predictions. Each measured added complementary information when predicting conversion to Alzheimer's. A linear model classifying stable from progressive MCI explained over half the variance (R2 = 0.51, p  < .001); the strongest independently contributing biomarker was hippocampal volume (R2 = 0.13). When comparing sensitivity of different models to progressive MCI (independent biomarker models, additive models, nonlinear interaction models), we observed a significant improvement (p  < .001) for various two‐way interaction models. The best performing model included an interaction between amyloid‐β‐PET and P‐tau, while accounting for hippocampal volume (sensitivity = 0.77, AUC = 0.826). Closely related biomarkers contributed uniquely to predict conversion to Alzheimer's. Nonlinear biomarker interactions were also implicated, and results showed that although for some patients adding additional biomarkers may add little value (i.e., when hippocampal volume is high), for others (i.e., with low hippocampal volume) further invasive and expensive examination may be warranted. Our framework enables visualisation of these interactions, in individual patient biomarker ‘space', providing information for personalised or stratified healthcare or clinical trial design.'
