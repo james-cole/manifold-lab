@@ -1,12 +1,13 @@
 ---
-title: 'Personalizing progressive changes to brain structure in Alzheimer's disease using normative modeling'
-authors: ['serena_verdi', 'admin']
+title: 'Nonlinear biomarker interactions in conversion from Mild Cognitive Impairment to Alzheimer's disease'
+authors:
+- admin
 author_notes: ''
-date: '2024-09-05T00:00:00Z'
-doi: '10.1002/alz.14174'
+date: '2020-02-01T00:00:00Z'
+doi: '10.1002/hbm.25133'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-05T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,18 +15,23 @@ publishDate: '2024-06-05T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Alzheimer's and Dementia'
-publication_short: ''
+publication: 'Human Brain Mapping'
+publication_short: 'HBM'
 
-abstract: INTRODUCTION: Neuroanatomical normative modeling captures individual variability in Alzheimer's disease (AD). Here we used normative modeling to track individuals’ disease progression in people with mild cognitive impairment (MCI) and patients with AD. METHODS: Cortical and subcortical normative models were generated using healthy controls (n ≈ 58k). These models were used to calculate regional z scores in 3233 T1-weighted magnetic resonance imaging time-series scans from 1181 participants. Regions with z scores < –1.96 were classified as outliers mapped on the brain and summarized by total outlier count (tOC). RESULTS: tOC increased in AD and in people with MCI who converted to AD and also correlated with multiple non-imaging markers. Moreover, a higher annual rate of change in tOC increased the risk of progression from MCI to AD. Brain outlier maps identified the hippocampus as having the highest rate of change. DISCUSSION: Individual patients’ atrophy rates can be tracked by using regional outlier maps and tOC. Highlights: Neuroanatomical normative modeling was applied to serial Alzheimer's disease (AD) magnetic resonance imaging (MRI) data for the first time. Deviation from the norm (outliers) of cortical thickness or brain volume was computed in 3233 scans. The number of brain-structure outliers increased over time in people with AD. Patterns of change in outliers varied markedly between individual patients with AD. People with mild cognitive impairment whose outliers increased over time had a higher risk of progression from AD.
+abstract: |
+  'Multiple biomarkers can capture different facets of Alzheimer's disease. However, statistical models of biomarkers to predict outcomes in Alzheimer's rarely model nonlinear interactions between these measures. Here, we used Gaussian Processes to address this, modelling nonlinear interactions to predict progression from mild cognitive impairment (MCI) to Alzheimer's over 3 years, using Alzheimer's Disease Neuroimaging Initiative (ADNI) data. Measures included: demographics, APOE4 genotype, CSF (amyloid‐β42, total tau, phosphorylated tau), [18F]florbetapir, hippocampal volume and brain‐age. We examined: (a) the independent value of each biomarker; and (b) whether modelling nonlinear interactions between biomarkers improved predictions. Each measured added complementary information when predicting conversion to Alzheimer's. A linear model classifying stable from progressive MCI explained over half the variance (R2 = 0.51, p  < .001); the strongest independently contributing biomarker was hippocampal volume (R2 = 0.13). When comparing sensitivity of different models to progressive MCI (independent biomarker models, additive models, nonlinear interaction models), we observed a significant improvement (p  < .001) for various two‐way interaction models. The best performing model included an interaction between amyloid‐β‐PET and P‐tau, while accounting for hippocampal volume (sensitivity = 0.77, AUC = 0.826). Closely related biomarkers contributed uniquely to predict conversion to Alzheimer's. Nonlinear biomarker interactions were also implicated, and results showed that although for some patients adding additional biomarkers may add little value (i.e., when hippocampal volume is high), for others (i.e., with low hippocampal volume) further invasive and expensive examination may be warranted. Our framework enables visualisation of these interactions, in individual patient biomarker ‘space', providing information for personalised or stratified healthcare or clinical trial design.'
+
+# Summary. An optional shortened abstract.
+summary: Multi-modality MRI and PET used to predict progression to dementia from mild cognitive impairment in ADNI.
+
 tags:
-- Normative modelling
+- Brain Age
 featured: false
 
 links:
 # - name: ''
-# url: 'https://journals.lww.com/co-neurology/fulltext/2025/08000/brain_age_prediction_from_mri_scans_in.5.aspx''
-url_pdf:
+#   url: 'https://www.sciencedirect.com/science/article/pii/S0197458020301056'
+url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25133
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -64,3 +70,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /callout %}}
 
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
