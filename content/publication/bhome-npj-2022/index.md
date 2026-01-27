@@ -37,7 +37,8 @@ summary: |
   'Thalamic changes in Parkinson's disease depression'
 
 tags:
-- Brain Age
+- Neuroimaging
+- Parkinson's Disease
 
 # Display this page in the Featured widget?
 featured: false

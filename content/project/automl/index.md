@@ -4,6 +4,7 @@ summary: Reducing researcher bias by making pipeline selection in a data-driven 
 authors: ["douglas_wyllie", "maitrei_kohli", "admin"]
 tags:
 - Machine Learning
+- Dementia
 
 # Optional external URL for project (replaces project detail page).
 

@@ -95,22 +95,19 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Machine Learning
-          tag: Machine Learning
-        - name: Interpretable AI
-          tag: Interpretable AI
-        - name: Neuroimaging
-          tag: Neuroimaging
-        - name: Neurodevelopment
-          tag: Neurodevelopment
         - name: Brain Age
           tag: Brain Age
         - name: Dementia
           tag: Dementia
-        - name: UK Biobank
-          tag: UK Biobank
+        - name: Machine Learning
+          tag: Machine Learning
+        - name: Deep Learning
+          tag: Deep Learning
+        - name: Neuroimaging
+          tag: Neuroimaging
+        - name: Multimodal
+          tag: Multimodal
+
     design: 
       columns: '2'
       view: masonry

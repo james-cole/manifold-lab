@@ -25,7 +25,7 @@ tags:
 - Interpretability 
 - Prototype learning 
 - Generative modelling 
-- Alzheimer's Disease Classification  
+- Alzheimer's Disease
 - MRI
 featured: false
 

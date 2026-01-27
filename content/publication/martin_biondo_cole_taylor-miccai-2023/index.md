@@ -24,7 +24,7 @@ publication: 'Lecture Notes in Computer Science (including subseries Lecture Not
 abstract: 'Developing fair and unbiased models is important for good scientific practice and clinical utility. This paper delves into the specific biases associated with artificial intelligence (AI) in neuroimaging research, and highlights the structural issues that underpin them. We propose a range of mitigation strategies, encompassing both behavioural and technical considerations. By recognising these challenges, we can encourage more accurate and equitable insights into neuroimaging research.'
 
 tags:
-- fairness in neuroimaging
+- Bias and fairness
 featured: false
 
 links:

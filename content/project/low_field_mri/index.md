@@ -5,6 +5,7 @@ authors: ["rui yeow", "admin"]
 tags:
 - Machine Learning
 - Deep Learning
+- Neuroimaging
 
 # Optional external URL for project (replaces project detail page).
 
