@@ -33,7 +33,7 @@ abstract: Dementia with Lewy bodies (DLB) and Parkinson's disease dementia (PDD)
 
 # Summary. An optional shortened abstract.
 summary: |
-  'Quantitative susceptibility mapping in DLB and PD'
+Quantitative susceptibility mapping in DLB and PD
 
 tags:
 - Dementia with Lewy Bodies
