@@ -29,6 +29,8 @@ interests:
 - Artificial Intelligence
 - Machine Learning
 - Information Processing
+- Radiology
+- Foundation models
 
 education:
   courses:
@@ -86,5 +88,5 @@ user_groups:
 - Researchers
 ---
 
-James Cole is Professor of Neuroimage Computing at the UCL Hawkes Institute and the Dementia Research Centre (DRC) at University College London (UCL). His research interests include brain ageing, neurological and psychiatric diseases, with a particular focus on ageing, neurodegeneration and dementia. His work uses machine learning, deep learning and related statistical methods with the goal of developing clinically useful neuroimaging tools. He is Principal Investigator of the MANIFOLD Lab.
+James Cole is Professor of Neuroimage Computing at the UCL Hawkes Institute and the Dementia Research Centre (DRC) at University College London (UCL). He has worked in neuroimaging since 2006 and been based at King’s College London, Imperial College London and UCL. His interests include brain ageing, neurological and psychiatric diseases, with a particular focus on neurodegeneration and dementia. His research uses machine learning, deep learning and advanced statistical methods with the goal of developing clinically useful neuroimaging tools. He is Principal Investigator of the MANIFOLD Lab and currently visiting Professor in the Department of Psychiatry, University of Melbourne.
 
