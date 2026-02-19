@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sophie Martin
+title: Sophie A Martin
 
 # Full Name (for SEO)
 first_name: Sophie
