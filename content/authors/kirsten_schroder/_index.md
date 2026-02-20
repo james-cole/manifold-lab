@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Kirsten Schroder
+title: Kirsten Schröder
 
 # Full Name (for SEO)
 first_name: Kirsten
-last_name: Schroder
+last_name: Schröder
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,19 +18,20 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI and its applications in Biomedicine and Neuroscience
+bio: My research interests include neuroimaging in neurodegenerative diseases and generalisability.
 
 interests:
-
+- Neuroimaging
+- Neurodegenerative Diseases
+- Generalisability
+- Dementia
 
 education:
   courses:
- # - course: MSc in Artificial Intelligence for Biomedicine and Healthcare
- #   institution: University College London
- #   year: 2024
- # - course: BSc in Biological Sciences
- #   institution: Imperial College London
-  #  year: 2023
+  - course: MSc Advanced Neuroimaging
+    institution: University College London
+    year: 2024
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,12 +41,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:kirsten.schroder.23@ucl.ac.uk"
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/kirsten-schröder-912052283
 # - icon: github
 #  icon_pack: fab
-#  link: https://github.com/Anthi-P
-# - icon: linkedin
-# icon_pack: fab
-#  link: https://www.linkedin.com/in/anthi-papouli/
+#  link: https://github.com/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,4 +65,4 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-# Anthi Papouli is a Research Assistant at the Hawkes Institute at Univeristy College London specialized in AI and neuroimaging analysis
+Kirsten Schröder is a Research Assistant at the UCL Dementia Research Centre (DRC) and UCL Hawkes Institute.
