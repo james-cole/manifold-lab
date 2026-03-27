@@ -1,7 +1,7 @@
 ---
 title: 'Personalizing progressive changes to brain structure in Alzheimers disease using normative modeling'
 authors:
-- admin
+- ['serena_verdi', 'admin']
 author_notes: ''
 date: '2024-09-05T00:00:00Z'
 doi: '10.1002/alz.14174'
@@ -30,7 +30,6 @@ featured: false
 
 links:
 # - name: ''
-#   url: 'https://www.sciencedirect.com/science/article/pii/S0197458020301056'
 url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25133
 url_code: ''
 url_dataset: ''
