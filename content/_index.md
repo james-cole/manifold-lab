@@ -114,7 +114,7 @@ sections:
       flip_alt_rows: false
 
   - block: collection
-      id: publication
+    id: publication
     content:
       title: Recent Publications
       subtitle: "View all publications → /publication/"
