@@ -1,0 +1,9 @@
+---
+title: "Revealing Individual Neuroanatomical Heterogeneity in Alzheimer’s Disease"
+date: 2022-01-01
+doi: "10.1101/2022.06.30.22277053"
+---
+
+**Authors:** Serena Verdi, Seyed Mostafa Kia, Keir Yong, Duygu Tosun, Jonathan M. Schott, Andre F. Marquand, James H. Cole
+
+**DOI:** https://doi.org/10.1101/2022.06.30.22277053

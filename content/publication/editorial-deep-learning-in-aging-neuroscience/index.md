@@ -1,0 +1,10 @@
+---
+title: "Editorial: Deep Learning in Aging Neuroscience"
+date: 2020-01-01
+publication: "*Frontiers in Neuroinformatics*"
+doi: "10.3389/fninf.2020.573974"
+---
+
+**Authors:** Javier Ramírez, Juan M. Górriz, Andrés Ortiz, James H. Cole, Martin Dyrba
+
+**DOI:** https://doi.org/10.3389/fninf.2020.573974

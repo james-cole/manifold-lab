@@ -1,0 +1,10 @@
+---
+title: "Deep learning models for triaging hospital head MRI examinations"
+date: 2022-01-01
+publication: "*Medical Image Analysis*"
+doi: "10.1016/j.media.2022.102391"
+---
+
+**Authors:** David A. Wood, Sina Kafiabadi, Ayisha Al Busaidi, Emily Guilhem, Antanas Montvila, Jeremy Lynch, Matthew Townend, Siddharth Agarwal, Asif Mazumder, Gareth J. Barker, Sebastien Ourselin, James H. Cole, Thomas C. Booth
+
+**DOI:** https://doi.org/10.1016/j.media.2022.102391
