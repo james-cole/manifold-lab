@@ -131,7 +131,7 @@ sections:
     content:
       text: |
         <div class="all-publications-link">
-          /publication/All publications →</a>
+          <a>/publication/All publications →</a>
         </div>
 
   - block: tag_cloud
