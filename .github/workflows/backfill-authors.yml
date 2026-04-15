@@ -1,0 +1,125 @@
+name: Backfill authors for existing publications
+
+on:
+  workflow_dispatch:
+
+jobs:
+  backfill-authors:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl python3
+
+      - name: Backfill author metadata
+        run: |
+          python3 - << 'EOF'
+          import os, re, json, subprocess
+
+          # --------------------------------------------------------
+          # Author name → Hugo Blox author slug mapping
+          # --------------------------------------------------------
+          AUTHOR_MAP = {
+              "james h cole": "admin",
+              "cole, james h": "admin",
+              "j. h. cole": "admin",
+              "james cole": "admin",
+              "james cole": "admin",
+              "cole, james h.": "admin",
+
+              "sophie a martin": "sophie-martin",
+              "martin, sophie a": "sophie-martin",
+
+              "serena verdi": "serena-verdi",
+              "verdi, serena": "serena-verdi",
+
+              "francesca biondo": "francesca-biondo",
+              "biondo, francesca": "francesca-biondo",
+
+              "rohan bhome": "rohan-bhome",
+              "bhome, rohan": "rohan-bhome",
+          }
+
+          pub_root = "content/publication"
+
+          for root, dirs, files in os.walk(pub_root):
+              if "index.md" not in files:
+                  continue
+
+              path = os.path.join(root, "index.md")
+              with open(path) as f:
+                  text = f.read()
+
+              # Skip if authors already exist
+              if re.search(r"^authors:\n", text, re.M):
+                  continue
+
+              # Extract DOI
+              m = re.search(r'doi:\s*"?([^"\n]+)"?', text)
+              if not m:
+                  continue
+
+              doi = m.group(1).strip()
+
+              res = subprocess.run(
+                  [
+                      "curl", "-L",
+                      "-H", "Accept: application/vnd.citationstyles.csl+json",
+                      f"https://doi.org/{doi}"
+                  ],
+                  capture_output=True, text=True
+              )
+
+              if res.returncode != 0:
+                  continue
+
+              try:
+                  item = json.loads(res.stdout)
+              except json.JSONDecodeError:
+                  continue
+
+              authors = []
+              for a in item.get("author", []):
+                  if "family" not in a:
+                      continue
+                  given = a.get("given", "").strip()
+                  family = a.get("family", "").strip()
+                  full = f"{given} {family}".strip()
+                  key = full.lower()
+                  authors.append(AUTHOR_MAP.get(key, full))
+
+              if not authors:
+                  continue
+
+              # Insert authors block before closing front-matter
+              parts = text.split("---", 2)
+              if len(parts) < 3:
+                  continue
+
+              fm = parts[1].rstrip() + "\n"
+              fm += "authors:\n"
+              for a in authors:
+                  if " " in a:
+                      fm += f'  - "{a}"\n'
+                  else:
+                      fm += f"  - {a}\n"
+
+              new_text = f"---{fm}---{parts[2]}"
+
+              with open(path, "w") as f:
+                  f.write(new_text)
+
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add content/publication
+          git commit -m "Backfill authors for existing publications" || exit 0
+          git push
