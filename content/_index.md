@@ -124,6 +124,7 @@ sections:
         # publication_type: "2"   # optional (journal articles only)
     sort_by: date
     sort_ascending: false
+    
     cta:
       label: "See all publications →"
       url: "/publication/"
