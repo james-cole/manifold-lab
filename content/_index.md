@@ -118,6 +118,7 @@ sections:
     id: publication
     content:
       title: Recent Publications
+      page_type: publication
       count: 5
       filters:
         tag: selected
