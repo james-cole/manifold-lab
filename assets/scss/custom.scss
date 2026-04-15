@@ -1,0 +1,26 @@
+/* -----------------------------------------
+   Subtitle links styled like buttons
+------------------------------------------ */
+
+.section-subtitle a {
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 0.3rem 0.75rem;
+
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+
+  border: 1px solid #005eb8; /* UCL blue */
+  border-radius: 4px;
+
+  color: #005eb8;
+  background: transparent;
+}
+
+.section-subtitle a:hover {
+  background: #005eb8;
+  color: #ffffff;
+  text-decoration: none;
+}
