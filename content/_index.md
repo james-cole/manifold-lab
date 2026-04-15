@@ -126,13 +126,6 @@ sections:
     design:
       view: citation
       columns: "2"
-  
-  - block: markdown
-    content:
-      text: |
-        <div class="all-publications-link">
-          <a>/publication/All publications →</a>
-        </div>
 
   - block: tag_cloud
     content: 
