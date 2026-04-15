@@ -117,11 +117,13 @@ sections:
     id: publication
     content:
       title: Recent Publications
-      subtitle: '#publication | /publication/'
       page_type: publication
-      count: 6
+      count: 5
       filters:
         tag: selected
+      cta:
+        label: "All publications →"
+        url: "/publication/"
       sort_by: date
       sort_ascending: false
     design:
