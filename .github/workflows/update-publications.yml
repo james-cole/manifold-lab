@@ -26,7 +26,7 @@ jobs:
           curl -L \
             -A "Mozilla/5.0 (GitHub Actions)" \
             -H "Accept: application/json" \
-            https://pub.orcid.org/v3.0/0000-0002-XXXX-XXXX/works \
+            https://pub.orcid.org/v3.0/0000-0003-1908-5588/works \
             > works.json
 
       - name: Validate ORCID JSON
