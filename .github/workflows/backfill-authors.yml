@@ -18,8 +18,11 @@ jobs:
 
       - name: Backfill author metadata
         run: |
-          python3 - << 'EOF'
-          import os, re, json, subprocess
+          python3 << 'EOF'
+          import os
+          import re
+          import json
+          import subprocess
 
           # --------------------------------------------------------
           # Author name → Hugo Blox author slug mapping
@@ -29,8 +32,7 @@ jobs:
               "cole, james h": "admin",
               "j. h. cole": "admin",
               "james cole": "admin",
-              "james cole": "admin",
-              "cole, james h.": "admin",
+              "cole james h.": "admin",              
 
               "sophie a martin": "sophie-martin",
               "martin, sophie a": "sophie-martin",
@@ -52,45 +54,37 @@ jobs:
                   continue
 
               path = os.path.join(root, "index.md")
-              with open(path) as f:
+
+              with open(path, encoding="utf-8") as f:
                   text = f.read()
 
               # Skip if authors already exist
-              if re.search(r"^authors:\n", text, re.M):
+              if re.search(r"^authors:\n", text, re.MULTILINE):
                   continue
 
-              # Extract DOI
+              # Extract DOI from front matter
               m = re.search(r'doi:\s*"?([^"\n]+)"?', text)
               if not m:
                   continue
 
               doi = m.group(1).strip()
 
+              # Fetch CSL-JSON from Crossref / DOI resolver
               res = subprocess.run(
-                [
-                "curl", "-L", "--compressed",
-                "-H", "Accept: application/vnd.citationstyles.csl+json",
-                f"https://doi.org/{doi}"
-                ],
-                capture_output=True
+                  [
+                      "curl", "-L", "--compressed",
+                      "-H", "Accept: application/vnd.citationstyles.csl+json",
+                      f"https://doi.org/{doi}"
+                  ],
+                  capture_output=True
               )
-
-              if res.returncode != 0:
-              continue
-              
-              try:
-              data = res.stdout.decode("utf-8", errors="replace")
-              item = json.loads(data)
-              except Exception:
-                continue
-              
 
               if res.returncode != 0:
                   continue
 
               try:
-                  item = json.loads(res.stdout)
-              except json.JSONDecodeError:
+                  item = json.loads(res.stdout.decode("utf-8", errors="replace"))
+              except Exception:
                   continue
 
               authors = []
@@ -106,22 +100,24 @@ jobs:
               if not authors:
                   continue
 
-              # Insert authors block before closing front-matter
+              # Split front matter safely
               parts = text.split("---", 2)
               if len(parts) < 3:
                   continue
 
-              fm = parts[1].rstrip() + "\n"
-              fm += "authors:\n"
+              front_matter = parts[1].rstrip() + "\n"
+              content = parts[2]
+
+              front_matter += "authors:\n"
               for a in authors:
                   if " " in a:
-                      fm += f'  - "{a}"\n'
+                      front_matter += f'  - "{a}"\n'
                   else:
-                      fm += f"  - {a}\n"
+                      front_matter += f"  - {a}\n"
 
-              new_text = f"---{fm}---{parts[2]}"
+              new_text = f"---{front_matter}---{content}"
 
-              with open(path, "w") as f:
+              with open(path, "w", encoding="utf-8") as f:
                   f.write(new_text)
 
           EOF
