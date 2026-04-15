@@ -1,6 +1,5 @@
 ---
 title: Publications
----
 
 blocks:
   - block: collection
@@ -11,3 +10,5 @@ blocks:
     design:
       view: citation
       columns: "1"
+
+---
