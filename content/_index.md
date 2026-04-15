@@ -123,7 +123,7 @@ sections:
         tag: selected
       cta:
         label: "All publications →"
-        url: "/publication/"
+        url: "/publication/archive/"
       sort_by: date
       sort_ascending: false
     design:
