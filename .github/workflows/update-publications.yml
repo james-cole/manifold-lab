@@ -41,10 +41,12 @@ jobs:
           # Author name → Hugo Blox author slug mapping
           # --------------------------------------------------------
           AUTHOR_MAP = {
-              "james h cole": "james-cole",
-              "cole, james h": "james-cole",
-              "j. h. cole": "james-cole",
-              "james cole": "james-cole",
+              "james h cole": "admin",
+              "cole, james h": "admin",
+              "j. h. cole": "admin",
+              "james cole": "admin",
+              "james cole": "admin",
+              "cole, james h.": "admin",
 
               "sophie a martin": "sophie-martin",
               "martin, sophie a": "sophie-martin",
