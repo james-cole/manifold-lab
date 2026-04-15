@@ -38,6 +38,7 @@ tags:
 - Dementia with Lewy Bodies
 - Parkinson's Disease
 - Quantitative Susceptibility Mapping
+- selected
 
 # Display this page in the Featured widget?
 featured: false
