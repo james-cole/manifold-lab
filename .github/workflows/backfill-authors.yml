@@ -67,13 +67,23 @@ jobs:
               doi = m.group(1).strip()
 
               res = subprocess.run(
-                  [
-                      "curl", "-L",
-                      "-H", "Accept: application/vnd.citationstyles.csl+json",
-                      f"https://doi.org/{doi}"
-                  ],
-                  capture_output=True, text=True
+                [
+                "curl", "-L", "--compressed",
+                "-H", "Accept: application/vnd.citationstyles.csl+json",
+                f"https://doi.org/{doi}"
+                ],
+                capture_output=True
               )
+
+              if res.returncode != 0:
+              continue
+              
+              try:
+              data = res.stdout.decode("utf-8", errors="replace")
+              item = json.loads(data)
+              except Exception:
+              continue
+              
 
               if res.returncode != 0:
                   continue
