@@ -121,14 +121,20 @@ sections:
       count: 5
       filters:
         tag: selected
-      cta:
-        label: "All publications →"
-        url: "/publication/archive/"
       sort_by: date
       sort_ascending: false
     design:
       view: citation
       columns: "2"
+  
+  - block: markdown
+    content:
+      text: |
+        <div class="all-publications-link">
+          /publication/All publications →
+        </div>
+
+
 
   - block: tag_cloud
     content: 
