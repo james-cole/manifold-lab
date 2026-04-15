@@ -10,5 +10,4 @@ blocks:
     design:
       view: citation
       columns: "1"
-
 ---
