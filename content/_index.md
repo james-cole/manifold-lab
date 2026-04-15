@@ -117,7 +117,7 @@ sections:
     id: publication
     content:
       title: Recent Publications
-      subtitle: "View all publications → /publication/"
+      subtitle: '#publication | /publication/'
       page_type: publication
       count: 6
       filters:
