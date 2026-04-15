@@ -1,4 +1,4 @@
-name: Backfill authors for existing publications
+name: Backfill authors for existing publications (ORCID + robust name matching)
 
 on:
   workflow_dispatch:
@@ -23,29 +23,52 @@ jobs:
           import re
           import json
           import subprocess
+          import unicodedata
 
           # --------------------------------------------------------
-          # Author name → Hugo Blox author slug mapping
+          # ORCID → Hugo Blox author slug mapping (highest priority)
           # --------------------------------------------------------
-          AUTHOR_MAP = {
+          ORCID_MAP = {
+              "0000-0003-1908-5588": "james-cole",   # <-- replace with your ORCID
+          }
+
+          # --------------------------------------------------------
+          # Exact normalised name → author slug mapping
+          # --------------------------------------------------------
+          NAME_MAP = {
               "james h cole": "admin",
-              "cole, james h": "admin",
-              "j. h. cole": "admin",
-              "james cole": "admin",
-              "cole james h.": "admin",              
+              "cole james h": "admin",
 
               "sophie a martin": "sophie-martin",
-              "martin, sophie a": "sophie-martin",
+              "martin sophie a": "sophie-martin",
 
               "serena verdi": "serena-verdi",
-              "verdi, serena": "serena-verdi",
+              "verdi serena": "serena-verdi",
 
               "francesca biondo": "francesca-biondo",
-              "biondo, francesca": "francesca-biondo",
+              "biondo francesca": "francesca-biondo",
 
               "rohan bhome": "rohan-bhome",
-              "bhome, rohan": "rohan-bhome",
+              "bhome rohan": "rohan-bhome",
           }
+
+          # --------------------------------------------------------
+          # Regex patterns for initials & abbreviated variants
+          # --------------------------------------------------------
+          NAME_PATTERNS = {
+              r"^j\s*h\s*cole$": "james-cole",      # J H Cole / JH Cole
+              r"^james\s*h\s*cole$": "james-cole",  # James H Cole
+              r"^cole\s*j\s*h$": "james-cole",      # Cole J H
+          }
+
+          def normalise(name: str) -> str:
+              """Normalise names for matching."""
+              name = unicodedata.normalize("NFKD", name)
+              name = "".join(c for c in name if not unicodedata.combining(c))
+              name = name.lower()
+              name = re.sub(r"[^\w\s]", "", name)   # remove punctuation
+              name = re.sub(r"\s+", " ", name).strip()
+              return name
 
           pub_root = "content/publication"
 
@@ -58,18 +81,17 @@ jobs:
               with open(path, encoding="utf-8") as f:
                   text = f.read()
 
-              # Skip if authors already exist
+              # Skip if authors already present
               if re.search(r"^authors:\n", text, re.MULTILINE):
                   continue
 
-              # Extract DOI from front matter
+              # Extract DOI
               m = re.search(r'doi:\s*"?([^"\n]+)"?', text)
               if not m:
                   continue
-
               doi = m.group(1).strip()
 
-              # Fetch CSL-JSON from Crossref / DOI resolver
+              # Fetch CSL-JSON (gzip-safe)
               res = subprocess.run(
                   [
                       "curl", "-L", "--compressed",
@@ -78,44 +100,69 @@ jobs:
                   ],
                   capture_output=True
               )
-
               if res.returncode != 0:
                   continue
 
               try:
-                  item = json.loads(res.stdout.decode("utf-8", errors="replace"))
+                  record = json.loads(res.stdout.decode("utf-8", errors="replace"))
               except Exception:
                   continue
 
               authors = []
-              for a in item.get("author", []):
+
+              for a in record.get("author", []):
                   if "family" not in a:
                       continue
+
+                  # ---- ORCID match (preferred) ----
+                  orcid_url = a.get("ORCID", "")
+                  if orcid_url:
+                      orcid_id = orcid_url.replace("https://orcid.org/", "").strip()
+                      if orcid_id in ORCID_MAP:
+                          authors.append(ORCID_MAP[orcid_id])
+                          continue
+
+                  # ---- Name-based matching ----
                   given = a.get("given", "").strip()
                   family = a.get("family", "").strip()
                   full = f"{given} {family}".strip()
-                  key = full.lower()
-                  authors.append(AUTHOR_MAP.get(key, full))
+
+                  norm = normalise(full)
+                  matched = False
+
+                  for pattern, slug in NAME_PATTERNS.items():
+                      if re.match(pattern, norm):
+                          authors.append(slug)
+                          matched = True
+                          break
+
+                  if matched:
+                      continue
+
+                  if norm in NAME_MAP:
+                      authors.append(NAME_MAP[norm])
+                  else:
+                      authors.append(full)
 
               if not authors:
                   continue
 
-              # Split front matter safely
+              # Insert authors into front matter
               parts = text.split("---", 2)
               if len(parts) < 3:
                   continue
 
-              front_matter = parts[1].rstrip() + "\n"
-              content = parts[2]
+              front = parts[1].rstrip() + "\n"
+              body = parts[2]
 
-              front_matter += "authors:\n"
+              front += "authors:\n"
               for a in authors:
                   if " " in a:
-                      front_matter += f'  - "{a}"\n'
+                      front += f'  - "{a}"\n'
                   else:
-                      front_matter += f"  - {a}\n"
+                      front += f"  - {a}\n"
 
-              new_text = f"---{front_matter}---{content}"
+              new_text = f"---{front}---{body}"
 
               with open(path, "w", encoding="utf-8") as f:
                   f.write(new_text)
@@ -127,5 +174,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add content/publication
-          git commit -m "Backfill authors for existing publications" || exit 0
+          git commit -m "Backfill authors using ORCID and robust name matching" || exit 0
           git push
