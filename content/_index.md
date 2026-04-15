@@ -120,6 +120,8 @@ sections:
       title: Recent Publications
       count: 5
       filters:
+        tag: selected
+        publication_type: "2"   # optional (journal articles only)
         folders:
           - publication
     design:
