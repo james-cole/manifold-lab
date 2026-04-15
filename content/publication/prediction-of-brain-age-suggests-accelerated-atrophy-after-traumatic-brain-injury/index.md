@@ -3,6 +3,10 @@ title: "Prediction of brain age suggests accelerated atrophy after traumatic bra
 date: 2015-01-01
 publication: "*Annals of Neurology*"
 doi: "10.1002/ana.24367"
+authors:
+  - "James H. Cole"
+  - "Robert Leech"
+  - "David J. Sharp"
 ---
 
 **Authors:** James H. Cole, Robert Leech, David J. Sharp

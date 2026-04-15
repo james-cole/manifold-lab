@@ -3,6 +3,13 @@ title: "Authors' reply"
 date: 2015-01-01
 publication: "*British Journal of Psychiatry*"
 doi: "10.1192/bjp.207.4.363a"
+authors:
+  - "Cynthia H.Y. Fu"
+  - "Rebecca MacGregor Legge"
+  - "Sarah Cohen-Woods"
+  - "James H. Cole"
+  - "Katherine J. Aitchison"
+  - "Peter McGuffin"
 ---
 
 **Authors:** Cynthia H.Y. Fu, Rebecca MacGregor Legge, Sarah Cohen-Woods, James H. Cole, Katherine J. Aitchison, Peter McGuffin

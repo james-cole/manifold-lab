@@ -3,6 +3,8 @@ title: "Multimodality neuroimaging brain-age in UK biobank: relationship to biom
 date: 2020-01-01
 publication: "*Neurobiology of Aging*"
 doi: "10.1016/j.neurobiolaging.2020.03.014"
+authors:
+  - "James H. Cole"
 ---
 
 **Authors:** James H. Cole

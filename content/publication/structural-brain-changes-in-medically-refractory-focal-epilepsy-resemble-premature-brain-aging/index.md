@@ -3,6 +3,12 @@ title: "Structural brain changes in medically refractory focal epilepsy resemble
 date: 2017-01-01
 publication: "*Epilepsy Research*"
 doi: "10.1016/j.eplepsyres.2017.03.007"
+authors:
+  - "Heath R. Pardoe"
+  - "James H. Cole"
+  - "Karen Blackmon"
+  - "Thomas Thesen"
+  - "Ruben Kuzniecky"
 ---
 
 **Authors:** Heath R. Pardoe, James H. Cole, Karen Blackmon, Thomas Thesen, Ruben Kuzniecky

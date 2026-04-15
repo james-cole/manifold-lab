@@ -3,6 +3,18 @@ title: "Brain-predicted age difference estimated using DeepBrainNet is significa
 date: 2023-01-01
 publication: "*Pain*"
 doi: "10.1097/j.pain.0000000000002984"
+authors:
+  - "Pedro A. Valdes-Hernandez"
+  - "Chavier Laffitte Nodarse"
+  - "Alisa J. Johnson"
+  - "Soamy Montesino-Goicolea"
+  - "Vishnu Bashyam"
+  - "Christos Davatzikos"
+  - "Julio A. Peraza"
+  - "James H. Cole"
+  - "Zhiguang Huo"
+  - "Roger B. Fillingim"
+  - "Yenisel Cruz-Almeida"
 ---
 
 **Authors:** Pedro A. Valdes-Hernandez, Chavier Laffitte Nodarse, Alisa J. Johnson, Soamy Montesino-Goicolea, Vishnu Bashyam, Christos Davatzikos, Julio A. Peraza, James H. Cole, Zhiguang Huo, Roger B. Fillingim, Yenisel Cruz-Almeida

@@ -3,6 +3,11 @@ title: "Hippocampal atrophy in first episode depression: A meta-analysis of magn
 date: 2011-01-01
 publication: "*Journal of Affective Disorders*"
 doi: "10.1016/j.jad.2011.05.057"
+authors:
+  - admin
+  - "Sergi G. Costafreda"
+  - "Peter McGuffin"
+  - "Cynthia H.Y. Fu"
 ---
 
 **Authors:** James Cole, Sergi G. Costafreda, Peter McGuffin, Cynthia H.Y. Fu

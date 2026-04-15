@@ -3,6 +3,15 @@ title: "Body mass index, but not FTO genotype or major depressive disorder, infl
 date: 2013-01-01
 publication: "*Neuroscience*"
 doi: "10.1016/j.neuroscience.2013.07.015"
+authors:
+  - "J.H. Cole"
+  - "C.P. Boyle"
+  - "A. Simmons"
+  - "S. Cohen-Woods"
+  - "M. Rivera"
+  - "P. McGuffin"
+  - "P.M. Thompson"
+  - "C.H.Y. Fu"
 ---
 
 **Authors:** J.H. Cole, C.P. Boyle, A. Simmons, S. Cohen-Woods, M. Rivera, P. McGuffin, P.M. Thompson, C.H.Y. Fu

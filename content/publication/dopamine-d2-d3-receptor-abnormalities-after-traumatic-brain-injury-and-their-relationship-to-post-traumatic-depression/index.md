@@ -3,6 +3,16 @@ title: "Dopamine D2/D3 receptor abnormalities after traumatic brain injury and t
 date: 2019-01-01
 publication: "*NeuroImage: Clinical*"
 doi: "10.1016/j.nicl.2019.101950"
+authors:
+  - "Amy E. Jolly"
+  - "Vanessa Raymont"
+  - "James H. Cole"
+  - "Alex Whittington"
+  - "Gregory Scott"
+  - "Sara De Simoni"
+  - "Graham Searle"
+  - "Roger N. Gunn"
+  - "David J. Sharp"
 ---
 
 **Authors:** Amy E. Jolly, Vanessa Raymont, James H. Cole, Alex Whittington, Gregory Scott, Sara De Simoni, Graham Searle, Roger N. Gunn, David J. Sharp

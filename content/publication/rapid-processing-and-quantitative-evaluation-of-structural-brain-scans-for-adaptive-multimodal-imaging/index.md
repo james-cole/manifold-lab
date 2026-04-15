@@ -3,6 +3,20 @@ title: "Rapid processing and quantitative evaluation of structural brain scans f
 date: 2021-01-01
 publication: "*Human Brain Mapping*"
 doi: "10.1002/hbm.25755"
+authors:
+  - "František Váša"
+  - "Harriet Hobday"
+  - "Ryan A. Stanyard"
+  - "Richard E. Daws"
+  - "Vincent Giampietro"
+  - "Owen O'Daly"
+  - "David J. Lythgoe"
+  - "Jakob Seidlitz"
+  - "Stefan Skare"
+  - "Steven C. R. Williams"
+  - "Andre F. Marquand"
+  - "Robert Leech"
+  - "James H. Cole"
 ---
 
 **Authors:** František Váša, Harriet Hobday, Ryan A. Stanyard, Richard E. Daws, Vincent Giampietro, Owen O'Daly, David J. Lythgoe, Jakob Seidlitz, Stefan Skare, Steven C. R. Williams, Andre F. Marquand, Robert Leech, James H. Cole

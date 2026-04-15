@@ -3,6 +3,11 @@ title: "Beyond the average patient: how neuroimaging models can address heteroge
 date: 2021-01-01
 publication: "*Brain*"
 doi: "10.1093/brain/awab165"
+authors:
+  - serena-verdi
+  - "Andre F Marquand"
+  - "Jonathan M Schott"
+  - admin
 ---
 
 **Authors:** Serena Verdi, Andre F Marquand, Jonathan M Schott, James H Cole

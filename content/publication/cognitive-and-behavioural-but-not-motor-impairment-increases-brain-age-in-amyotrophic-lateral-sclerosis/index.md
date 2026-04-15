@@ -3,6 +3,18 @@ title: "Cognitive and behavioural but not motor impairment increases brain age i
 date: 2022-01-01
 publication: "*Brain Communications*"
 doi: "10.1093/braincomms/fcac239"
+authors:
+  - "Andreas Hermann"
+  - "Gaël Nils Tarakdjian"
+  - "Anna Gesine Marie Temp"
+  - "Elisabeth Kasper"
+  - "Judith Machts"
+  - "Jörn Kaufmann"
+  - "Stefan Vielhaber"
+  - "Johannes Prudlo"
+  - admin
+  - "Stefan Teipel"
+  - "Martin Dyrba"
 ---
 
 **Authors:** Andreas Hermann, Gaël Nils Tarakdjian, Anna Gesine Marie Temp, Elisabeth Kasper, Judith Machts, Jörn Kaufmann, Stefan Vielhaber, Johannes Prudlo, James H Cole, Stefan Teipel, Martin Dyrba

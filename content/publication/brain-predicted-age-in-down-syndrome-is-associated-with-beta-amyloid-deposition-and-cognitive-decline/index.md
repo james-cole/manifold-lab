@@ -3,6 +3,20 @@ title: "Brain-predicted age in Down syndrome is associated with beta amyloid dep
 date: 2017-01-01
 publication: "*Neurobiology of Aging*"
 doi: "10.1016/j.neurobiolaging.2017.04.006"
+authors:
+  - "James H. Cole"
+  - "Tiina Annus"
+  - "Liam R. Wilson"
+  - "Ridhaa Remtulla"
+  - "Young T. Hong"
+  - "Tim D. Fryer"
+  - "Julio Acosta-Cabronero"
+  - "Arturo Cardenas-Blanco"
+  - "Robert Smith"
+  - "David K. Menon"
+  - "Shahid H. Zaman"
+  - "Peter J. Nestor"
+  - "Anthony J. Holland"
 ---
 
 **Authors:** James H. Cole, Tiina Annus, Liam R. Wilson, Ridhaa Remtulla, Young T. Hong, Tim D. Fryer, Julio Acosta-Cabronero, Arturo Cardenas-Blanco, Robert Smith, David K. Menon, Shahid H. Zaman, Peter J. Nestor, Anthony J. Holland

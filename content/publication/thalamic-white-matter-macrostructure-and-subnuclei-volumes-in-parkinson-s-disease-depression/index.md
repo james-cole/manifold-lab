@@ -2,6 +2,11 @@
 title: "Thalamic white matter macrostructure and subnuclei volumes in Parkinson’s disease depression"
 date: 2021-01-01
 doi: "10.1101/2021.05.07.21256793"
+authors:
+  - "R Bhome"
+  - "A Zarkali"
+  - "JH Cole"
+  - "RS Weil"
 ---
 
 **Authors:** R Bhome, A Zarkali, JH Cole, RS Weil

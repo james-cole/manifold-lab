@@ -3,6 +3,14 @@ title: "Predicting brain age with deep learning from raw imaging data results in
 date: 2017-01-01
 publication: "*NeuroImage*"
 doi: "10.1016/j.neuroimage.2017.07.059"
+authors:
+  - "James H. Cole"
+  - "Rudra P.K. Poudel"
+  - "Dimosthenis Tsagkrasoulis"
+  - "Matthan W.A. Caan"
+  - "Claire Steves"
+  - "Tim D. Spector"
+  - "Giovanni Montana"
 ---
 
 **Authors:** James H. Cole, Rudra P.K. Poudel, Dimosthenis Tsagkrasoulis, Matthan W.A. Caan, Claire Steves, Tim D. Spector, Giovanni Montana

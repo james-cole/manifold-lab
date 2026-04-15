@@ -3,6 +3,16 @@ title: "Cross-Sectional Brain-Predicted Age Differences in Community-Dwelling Mi
 date: 2022-01-01
 publication: "*Journal of Pain Research*"
 doi: "10.2147/jpr.s384229"
+authors:
+  - "Alisa J Johnson"
+  - "Taylor Buchanan"
+  - "Chavier Laffitte Nodarse"
+  - "Pedro A Valdes Hernandez"
+  - "Zhiguang Huo"
+  - admin
+  - "Thomas W Buford"
+  - "Roger B Fillingim"
+  - "Yenisel Cruz-Almeida"
 ---
 
 **Authors:** Alisa J Johnson, Taylor Buchanan, Chavier Laffitte Nodarse, Pedro A Valdes Hernandez, Zhiguang Huo, James H Cole, Thomas W Buford, Roger B Fillingim, Yenisel Cruz-Almeida

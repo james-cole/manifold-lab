@@ -3,6 +3,13 @@ title: "Attitudes to ageing, biomarkers of ageing and mortality: the Lothian Bir
 date: 2020-01-01
 publication: "*Journal of Epidemiology and Community Health*"
 doi: "10.1136/jech-2019-213462"
+authors:
+  - "Kyle J J McLachlan"
+  - admin
+  - "Sarah E Harris"
+  - "Riccardo E Marioni"
+  - "Ian J Deary"
+  - "Catharine R Gale"
 ---
 
 **Authors:** Kyle J J McLachlan, James H Cole, Sarah E Harris, Riccardo E Marioni, Ian J Deary, Catharine R Gale

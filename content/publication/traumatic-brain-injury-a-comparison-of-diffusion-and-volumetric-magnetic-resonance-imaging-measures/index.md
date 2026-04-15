@@ -3,6 +3,16 @@ title: "Traumatic brain injury: a comparison of diffusion and volumetric magneti
 date: 2021-01-01
 publication: "*Brain Communications*"
 doi: "10.1093/braincomms/fcab006"
+authors:
+  - "Niall J Bourke"
+  - "Maria Yanez Lopez"
+  - "Peter O Jenkins"
+  - "Sara De Simoni"
+  - admin
+  - "Pete Lally"
+  - "Emma-Jane Mallas"
+  - "Hui Zhang"
+  - "David J Sharp"
 ---
 
 **Authors:** Niall J Bourke, Maria Yanez Lopez, Peter O Jenkins, Sara De Simoni, James H Cole, Pete Lally, Emma-Jane Mallas, Hui Zhang, David J Sharp

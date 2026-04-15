@@ -3,6 +3,21 @@ title: "Abnormal hippocampal morphology in dissociative identity disorder and po
 date: 2014-01-01
 publication: "*Human Brain Mapping*"
 doi: "10.1002/hbm.22730"
+authors:
+  - "Sima Chalavi"
+  - "Eline M. Vissia"
+  - "Mechteld E. Giesen"
+  - "Ellert R.S. Nijenhuis"
+  - "Nel Draijer"
+  - "James H. Cole"
+  - "Paola Dazzan"
+  - "Carmine M. Pariante"
+  - "Sarah K. Madsen"
+  - "Priya Rajagopalan"
+  - "Paul M. Thompson"
+  - "Arthur W. Toga"
+  - "Dick J. Veltman"
+  - "Antje A.T.S. Reinders"
 ---
 
 **Authors:** Sima Chalavi, Eline M. Vissia, Mechteld E. Giesen, Ellert R.S. Nijenhuis, Nel Draijer, James H. Cole, Paola Dazzan, Carmine M. Pariante, Sarah K. Madsen, Priya Rajagopalan, Paul M. Thompson, Arthur W. Toga, Dick J. Veltman, Antje A.T.S. Reinders

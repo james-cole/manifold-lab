@@ -3,6 +3,14 @@ title: "Spatial patterns of progressive brain volume loss after moderate-severe 
 date: 2018-01-01
 publication: "*Brain*"
 doi: "10.1093/brain/awx354"
+authors:
+  - admin
+  - "Amy Jolly"
+  - "Sara de Simoni"
+  - "Niall Bourke"
+  - "Maneesh C Patel"
+  - "Gregory Scott"
+  - "David J Sharp"
 ---
 
 **Authors:** James H Cole, Amy Jolly, Sara de Simoni, Niall Bourke, Maneesh C Patel, Gregory Scott, David J Sharp

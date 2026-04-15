@@ -3,6 +3,24 @@ title: "The neuroanatomy of subthreshold depressive symptoms in Huntington's dis
 date: 2013-01-01
 publication: "*Psychological Medicine*"
 doi: "10.1017/s003329171300247x"
+authors:
+  - "R. Sprengelmeyer"
+  - "M. Orth"
+  - "H.-P. Müller"
+  - "R. C. Wolf"
+  - "G. Grön"
+  - "M. S. Depping"
+  - "J. Kassubek"
+  - "D. Justo"
+  - "E. M. Rees"
+  - "S. Haider"
+  - admin
+  - "N. Z. Hobbs"
+  - "R. A. C. Roos"
+  - "A. Dürr"
+  - "S. J. Tabrizi"
+  - "S. D. Süssmuth"
+  - "G. B. Landwehrmeyer"
 ---
 
 **Authors:** R. Sprengelmeyer, M. Orth, H.-P. Müller, R. C. Wolf, G. Grön, M. S. Depping, J. Kassubek, D. Justo, E. M. Rees, S. Haider, J. H. Cole, N. Z. Hobbs, R. A. C. Roos, A. Dürr, S. J. Tabrizi, S. D. Süssmuth, G. B. Landwehrmeyer

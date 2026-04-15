@@ -3,6 +3,15 @@ title: "Quantitative susceptibility mapping reveals differences between subtypes
 date: 2025-01-01
 publication: "*Brain*"
 doi: "10.1093/brain/awaf325"
+authors:
+  - rohan-bhome
+  - "George E C Thomas"
+  - "Naomi Hannaway"
+  - "Ivelina Dobreva"
+  - "Angeliki Zarkali"
+  - "Karin Shmueli"
+  - admin
+  - "Rimona S Weil"
 ---
 
 **Authors:** Rohan Bhome, George E C Thomas, Naomi Hannaway, Ivelina Dobreva, Angeliki Zarkali, Karin Shmueli, James H Cole, Rimona S Weil
