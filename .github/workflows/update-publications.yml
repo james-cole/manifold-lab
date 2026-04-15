@@ -1,8 +1,8 @@
-name: Update publications from ORCID
+]name: Update publications from ORCID
 
 on:
   schedule:
-    - cron: "0 2 * * 1"   # Weekly, Monday 02:00 UTC
+    - cron: "0 2 * * 1"
   workflow_dispatch:
 
 jobs:
@@ -16,12 +16,12 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y curl pandoc python3
+          sudo apt-get install -y curl python3
 
       # ------------------------------------------------------------
-      # 1. Fetch works from ORCID as JSON (this IS supported)
+      # 1. Fetch ORCID works (JSON – supported)
       # ------------------------------------------------------------
-      - name: Fetch ORCID works (JSON)
+      - name: Fetch ORCID works
         run: |
           curl -L \
             -A "Mozilla/5.0 (GitHub Actions)" \
@@ -29,127 +29,91 @@ jobs:
             https://pub.orcid.org/v3.0/0000-0003-1908-5588/works \
             > works.json
 
-      - name: Validate ORCID JSON
+      # ------------------------------------------------------------
+      # 2. Extract DOIs and fetch CSL-JSON from Crossref
+      # ------------------------------------------------------------
+      - name: Generate Hugo publication pages
         run: |
           python3 - << 'EOF'
-          import json, sys
-          try:
-              with open("works.json") as f:
-                  json.load(f)
-          except Exception as e:
-              print("Invalid ORCID JSON:", e)
-              sys.exit(1)
-          EOF
-
-      # ------------------------------------------------------------
-      # 2. Extract DOIs and fetch BibTeX from Crossref / DOI resolver
-      # ------------------------------------------------------------
-      - name: Build BibTeX from DOIs
-        run: |
-          python3 - << 'EOF'
-          import json, subprocess, sys
+          import json, os, re, subprocess, sys, textwrap
 
           with open("works.json") as f:
-              data = json.load(f)
+              orcid = json.load(f)
 
           dois = set()
-
-          for group in data.get("group", []):
+          for group in orcid.get("group", []):
               for ws in group.get("work-summary", []):
                   for ext in ws.get("external-ids", {}).get("external-id", []):
                       if ext.get("external-id-type") == "doi":
                           dois.add(ext.get("external-id-value").lower())
 
           if not dois:
-              print("No DOIs found in ORCID record.")
+              print("No DOIs found.")
               sys.exit(1)
-
-          with open("publications.bib", "w") as out:
-              for doi in sorted(dois):
-                  res = subprocess.run(
-                      [
-                          "curl", "-L",
-                          "-H", "Accept: application/x-bibtex",
-                          f"https://doi.org/{doi}"
-                      ],
-                      capture_output=True,
-                      text=True
-                  )
-                  if res.returncode == 0 and res.stdout.lstrip().startswith("@"):
-                      out.write(res.stdout.strip() + "\n\n")
-
-          EOF
-
-      - name: Validate BibTeX
-        run: |
-          if ! grep -q '^@' publications.bib; then
-            echo "ERROR: No valid BibTeX entries generated"
-            head -40 publications.bib
-            exit 1
-          fi
-
-      # ------------------------------------------------------------
-      # 3. Convert BibTeX to Markdown using Pandoc
-      # ------------------------------------------------------------
-      - name: Convert BibTeX to Markdown
-        run: |
-          pandoc publications.bib \
-            --citeproc \
-            --to markdown \
-            --output publications.md
-
-      # ------------------------------------------------------------
-      # 4. Split Markdown into Hugo publication bundles
-      # ------------------------------------------------------------
-      - name: Generate Hugo publication pages
-        run: |
-          python3 - << 'EOF'
-          import os, re
 
           outdir = "content/publication"
           os.makedirs(outdir, exist_ok=True)
 
-          with open("publications.md") as f:
-              text = f.read()
+          for doi in sorted(dois):
+              res = subprocess.run(
+                  [
+                      "curl", "-L",
+                      "-H", "Accept: application/vnd.citationstyles.csl+json",
+                      f"https://doi.org/{doi}"
+                  ],
+                  capture_output=True, text=True
+              )
 
-          # Split on level-2 headings (Pandoc default per entry)
-          entries = re.split(r"\n##\s+", text)
-
-          for entry in entries:
-              entry = entry.strip()
-              if not entry:
+              if res.returncode != 0:
                   continue
 
-              lines = entry.splitlines()
-              title = lines[0].strip()
-              body = "\n".join(lines[1:]).strip()
+              try:
+                  item = json.loads(res.stdout)
+              except json.JSONDecodeError:
+                  continue
+
+              title = item.get("title", "Untitled")
+              year = item.get("issued", {}).get("date-parts", [[None]])[0][0]
+              journal = item.get("container-title", "")
+              authors = []
+
+              for a in item.get("author", []):
+                  if "family" in a:
+                      name = f"{a.get('given','')} {a['family']}".strip()
+                      authors.append(name)
 
               slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
-
               pub_dir = os.path.join(outdir, slug)
               os.makedirs(pub_dir, exist_ok=True)
 
               outpath = os.path.join(pub_dir, "index.md")
-
-              # Do not overwrite existing publications
               if os.path.exists(outpath):
                   continue
 
               with open(outpath, "w") as out:
                   out.write("---\n")
                   out.write(f'title: "{title}"\n')
+                  if year:
+                      out.write(f"date: {year}-01-01\n")
+                  if journal:
+                      out.write(f'publication: "*{journal}*"\n')
+                  out.write(f'doi: "{doi}"\n')
                   out.write("---\n\n")
-                  out.write(body + "\n")
+
+                  if authors:
+                      out.write("**Authors:** " + ", ".join(authors) + "\n\n")
+
+                  out.write(f"**DOI:** https://doi.org/{doi}\n")
 
           EOF
 
       # ------------------------------------------------------------
-      # 5. Commit changes back to the repository
+      # 3. Commit changes
       # ------------------------------------------------------------
       - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add content/publication
-          git commit -m "Auto-update publications from ORCID via Crossref" || exit 0
+          git commit -m "Auto-update publications from ORCID (CSL JSON)" || exit 0
           git push
