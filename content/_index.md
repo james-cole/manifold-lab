@@ -115,16 +115,13 @@ sections:
       
       
   - block: collection
-    # id: publication
     content:
       title: Recent Publications
       page_type: publication
-      count: 5
+      count: 6
       filters:
         tag: selected
         # publication_type: "2"   # optional (journal articles only)
-        # folders:
-        #  - publication
     sort_by: date
     sort_ascending: false
     design:
