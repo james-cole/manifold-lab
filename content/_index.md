@@ -128,7 +128,6 @@ sections:
     view: citation
     columns: '2'
 
-
   - block: tag_cloud
     content: 
       title: Popular topics
