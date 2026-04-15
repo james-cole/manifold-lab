@@ -2,7 +2,7 @@ name: Update publications from ORCID
 
 on:
   schedule:
-    - cron: "0 2 * * 1"
+    - cron: "0 2 * * 1"   # Weekly, Monday 02:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
           sudo apt-get install -y curl python3
 
       # ------------------------------------------------------------
-      # 1. Fetch ORCID works (JSON – supported)
+      # 1. Fetch works from ORCID (JSON – officially supported)
       # ------------------------------------------------------------
       - name: Fetch ORCID works
         run: |
@@ -30,26 +30,44 @@ jobs:
             > works.json
 
       # ------------------------------------------------------------
-      # 2. Extract DOIs and fetch CSL-JSON from Crossref
+      # 2. Generate Hugo publication pages with author mapping
       # ------------------------------------------------------------
-      - name: Generate Hugo publication pages
+      - name: Generate publications
         run: |
           python3 - << 'EOF'
-          import json, os, re, subprocess, sys, textwrap
+          import json, os, re, subprocess
+
+          # --------------------------------------------------------
+          # Author name → Hugo Blox author slug mapping
+          # --------------------------------------------------------
+          AUTHOR_MAP = {
+              "james h cole": "james-cole",
+              "cole, james h": "james-cole",
+              "j. h. cole": "james-cole",
+              "james cole": "james-cole",
+
+              "sophie a martin": "sophie-martin",
+              "martin, sophie a": "sophie-martin",
+
+              "serena verdi": "serena-verdi",
+              "verdi, serena": "serena-verdi",
+
+              "francesca biondo": "francesca-biondo",
+              "biondo, francesca": "francesca-biondo",
+
+              "rohan bhome": "rohan-bhome",
+              "bhome, rohan": "rohan-bhome",
+          }
 
           with open("works.json") as f:
-              orcid = json.load(f)
+              works = json.load(f)
 
           dois = set()
-          for group in orcid.get("group", []):
+          for group in works.get("group", []):
               for ws in group.get("work-summary", []):
                   for ext in ws.get("external-ids", {}).get("external-id", []):
                       if ext.get("external-id-type") == "doi":
                           dois.add(ext.get("external-id-value").lower())
-
-          if not dois:
-              print("No DOIs found.")
-              sys.exit(1)
 
           outdir = "content/publication"
           os.makedirs(outdir, exist_ok=True)
@@ -75,12 +93,16 @@ jobs:
               title = item.get("title", "Untitled")
               year = item.get("issued", {}).get("date-parts", [[None]])[0][0]
               journal = item.get("container-title", "")
-              authors = []
 
+              authors = []
               for a in item.get("author", []):
-                  if "family" in a:
-                      name = f"{a.get('given','')} {a['family']}".strip()
-                      authors.append(name)
+                  if "family" not in a:
+                      continue
+                  given = a.get("given", "").strip()
+                  family = a.get("family", "").strip()
+                  full = f"{given} {family}".strip()
+                  key = full.lower()
+                  authors.append(AUTHOR_MAP.get(key, full))
 
               slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
               pub_dir = os.path.join(outdir, slug)
@@ -88,32 +110,38 @@ jobs:
 
               outpath = os.path.join(pub_dir, "index.md")
               if os.path.exists(outpath):
-                  continue
+                  continue  # do not overwrite existing files
 
               with open(outpath, "w") as out:
                   out.write("---\n")
                   out.write(f'title: "{title}"\n')
+
                   if year:
                       out.write(f"date: {year}-01-01\n")
+
                   if journal:
                       out.write(f'publication: "*{journal}*"\n')
+
                   out.write(f'doi: "{doi}"\n')
-                  out.write("---\n\n")
 
                   if authors:
-                      out.write("**Authors:** " + ", ".join(authors) + "\n\n")
+                      out.write("authors:\n")
+                      for a in authors:
+                          if " " in a:
+                              out.write(f'  - "{a}"\n')
+                          else:
+                              out.write(f"  - {a}\n")
 
-                  out.write(f"**DOI:** https://doi.org/{doi}\n")
-
+                  out.write("---\n")
           EOF
 
       # ------------------------------------------------------------
-      # 3. Commit changes
+      # 3. Commit and push changes
       # ------------------------------------------------------------
       - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add content/publication
-          git commit -m "Auto-update publications from ORCID (CSL JSON)" || exit 0
+          git commit -m "Auto-update publications from ORCID (with author mapping)" || exit 0
           git push
