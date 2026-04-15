@@ -119,7 +119,7 @@ sections:
     content:
       title: Recent Publications
       page_type: publication
-      count: 6
+      count: 2
       filters:
         tag: selected
         # publication_type: "2"   # optional (journal articles only)
