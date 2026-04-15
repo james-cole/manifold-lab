@@ -30,6 +30,7 @@ tags:
 - Deep Learning
 - Alzheimer's Disease
 - Neuroimaging
+- selected
 featured: false
 
 links:
