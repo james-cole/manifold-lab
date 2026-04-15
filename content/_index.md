@@ -115,7 +115,7 @@ sections:
       
       
   - block: collection
-    id="publication"
+    id: publication
     content:
       title: Recent Publications
       page_type: publication
