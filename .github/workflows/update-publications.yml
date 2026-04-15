@@ -1,4 +1,4 @@
-]name: Update publications from ORCID
+name: Update publications from ORCID
 
 on:
   schedule:
