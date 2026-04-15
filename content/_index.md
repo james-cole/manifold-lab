@@ -113,20 +113,21 @@ sections:
       view: masonry
       flip_alt_rows: false
       
-      
   - block: collection
-    id: publication
-    content:
-      title: Recent Publications
-      count: 5
-      filters:
-        tag: selected
-        publication_type: "2"   # optional (journal articles only)
-        folders:
-          - publication
-    design:
-      view: citation
-      columns: '2'
+  id: selected-publications
+  content:
+    title: Recent Publications
+    page_type: publication   # 🔑 REQUIRED
+    count: 5
+    filters:
+      tag: selected
+      publication_type: "2"
+    sort_by: date
+    sort_ascending: false
+  design:
+    view: citation
+    columns: '2'
+
 
   - block: tag_cloud
     content: 
