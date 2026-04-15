@@ -112,23 +112,21 @@ sections:
       columns: '2'
       view: masonry
       flip_alt_rows: false
-      
-      
+
   - block: collection
-    id: publication
+      id: publication
     content:
       title: Recent Publications
-      subtitle: "/publication/"
+      subtitle: "View all publications → /publication/"
       page_type: publication
       count: 6
       filters:
         tag: selected
-        # publication_type: "2"   # optional (journal articles only)
       sort_by: date
       sort_ascending: false
     design:
       view: citation
-      columns: '2'
+      columns: "2"
 
   - block: tag_cloud
     content: 
