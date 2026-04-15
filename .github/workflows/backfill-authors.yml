@@ -82,7 +82,7 @@ jobs:
               data = res.stdout.decode("utf-8", errors="replace")
               item = json.loads(data)
               except Exception:
-              continue
+                continue
               
 
               if res.returncode != 0:
