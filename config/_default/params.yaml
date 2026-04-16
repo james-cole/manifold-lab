@@ -9,7 +9,7 @@ appearance:
   theme: manifolducl
   # theme_day: minimal
   # theme_night: minimal
-  font: custom
+  font_pack: custom
   font_size: L
 
 # SEO
