@@ -3,7 +3,7 @@ title: "Accelerated brain ageing and disability in multiple sclerosis"
 date: 2019-01-01
 doi: "10.1101/584888"
 authors:
-  - "JH Cole"
+  - admin
   - "J Raffel"
   - "T Friede"
   - "A Eshaghi"
