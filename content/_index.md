@@ -175,4 +175,6 @@ sections:
       columns: '2'
 
   - block: cta
+    content:
+      title: Publications
 ---
