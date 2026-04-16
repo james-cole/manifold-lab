@@ -10,6 +10,6 @@ authors:
   - "Cynthia H.Y. Fu"
 ---
 
-**Authors:** James Cole, Sergi G. Costafreda, Peter McGuffin, Cynthia H.Y. Fu
+**Authors:** admin, Sergi G. Costafreda, Peter McGuffin, Cynthia H.Y. Fu
 
 **DOI:** https://doi.org/10.1016/j.jad.2011.05.057

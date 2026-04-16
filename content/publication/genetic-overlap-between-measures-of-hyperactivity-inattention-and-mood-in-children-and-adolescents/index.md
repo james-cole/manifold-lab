@@ -11,6 +11,6 @@ authors:
   - "Peter Mcguffin"
 ---
 
-**Authors:** James Cole, Harriet A. Ball, Neilson C. Martin, Jane Scourfield, Peter Mcguffin
+**Authors:** admin, Harriet A. Ball, Neilson C. Martin, Jane Scourfield, Peter Mcguffin
 
 **DOI:** https://doi.org/10.1097/chi.0b013e3181b7666e

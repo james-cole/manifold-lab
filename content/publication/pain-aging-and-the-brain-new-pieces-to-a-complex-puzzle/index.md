@@ -8,6 +8,6 @@ authors:
   - admin
 ---
 
-**Authors:** Yenisel Cruz-Almeida, James Cole
+**Authors:** Yenisel Cruz-Almeida, admin
 
 **DOI:** https://doi.org/10.1097/j.pain.0000000000001757

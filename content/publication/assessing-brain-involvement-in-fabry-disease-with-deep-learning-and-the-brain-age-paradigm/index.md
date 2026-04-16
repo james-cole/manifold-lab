@@ -22,6 +22,6 @@ authors:
   - "Giuseppe Pontillo"
 ---
 
-**Authors:** Alfredo Montella, Mario Tranfa, Alessandra Scaravilli, Frederik Barkhof, Arturo Brunetti, James Cole, Michela Gravina, Stefano Marrone, Daniele Riccio, Eleonora Riccio, Carlo Sansone, Letizia Spinelli, Maria Petracca, Antonio Pisani, Sirio Cocozza, Giuseppe Pontillo
+**Authors:** Alfredo Montella, Mario Tranfa, Alessandra Scaravilli, Frederik Barkhof, Arturo Brunetti, admin, Michela Gravina, Stefano Marrone, Daniele Riccio, Eleonora Riccio, Carlo Sansone, Letizia Spinelli, Maria Petracca, Antonio Pisani, Sirio Cocozza, Giuseppe Pontillo
 
 **DOI:** https://doi.org/10.1002/hbm.26599

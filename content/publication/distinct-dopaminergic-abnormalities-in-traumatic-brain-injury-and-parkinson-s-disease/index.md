@@ -14,6 +14,6 @@ authors:
   - "David Sharp"
 ---
 
-**Authors:** Peter Owen Jenkins, Andreas-Antonios Roussakis, Sara De Simoni, Niall Bourke, Jessica Fleminger, James Cole, Paola Piccini, David Sharp
+**Authors:** Peter Owen Jenkins, Andreas-Antonios Roussakis, Sara De Simoni, Niall Bourke, Jessica Fleminger, admin, Paola Piccini, David Sharp
 
 **DOI:** https://doi.org/10.1136/jnnp-2019-321759

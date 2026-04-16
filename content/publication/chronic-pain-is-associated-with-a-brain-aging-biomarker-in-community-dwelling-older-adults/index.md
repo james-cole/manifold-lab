@@ -13,6 +13,6 @@ authors:
   - admin
 ---
 
-**Authors:** Yenisel Cruz-Almeida, Roger B. Fillingim, Joseph L. Riley, Adam J. Woods, Eric Porges, Ronald Cohen, James Cole
+**Authors:** Yenisel Cruz-Almeida, Roger B. Fillingim, Joseph L. Riley, Adam J. Woods, Eric Porges, Ronald Cohen, admin
 
 **DOI:** https://doi.org/10.1097/j.pain.0000000000001491
