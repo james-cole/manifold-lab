@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: rwp
-  font_size: M
+  font: modern
+  font_size: L
 
 # SEO
 
