@@ -1,7 +1,8 @@
 # data/fonts/minimal.yaml
 name: minimal
 
-google_fonts: Lora:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;700
+# The v5 module prefers this specific syntax
+google_fonts: Lora:wght@400;700&family=Inter:wght@400;700
 
 heading_font: Lora
 body_font: Inter
