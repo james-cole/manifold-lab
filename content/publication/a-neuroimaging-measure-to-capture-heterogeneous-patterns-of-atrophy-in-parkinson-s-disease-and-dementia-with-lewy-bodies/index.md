@@ -7,8 +7,8 @@ tags:
 - Normative modelling
 - selected
 authors:
-  - "R Bhome"
-  - "S Verdi"
+  - rohan_bhome
+  - serena_verdi
   - "SA Martin"
   - "N Hannaway"
   - "I Dobreva"
@@ -24,7 +24,7 @@ authors:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ['Normative modelling']
+projects: ['normative_modelling']
 
 ---
 
