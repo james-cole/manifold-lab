@@ -106,3 +106,12 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+# author mapping
+map_authors: true
+
+authors:
+  "J.H. Cole": admin
+  "james-cole": admin
+  "James-Cole": admin
+  "James Cole": admin
