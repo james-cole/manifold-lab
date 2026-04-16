@@ -11,7 +11,7 @@ authors:
   - "Mohamed Salah Khlif"
   - "Amy Brodtmann"
   - "Michael R. Borich"
-  - "James H. Cole"
+  - admin
   - "Steven C. Cramer"
   - "Niko H. Fullmer"
   - "Jeanette R. Gumarang"

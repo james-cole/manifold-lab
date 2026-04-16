@@ -6,7 +6,7 @@ authors:
   - "Anna E. Fürtjes"
   - "Ryan Arathimos"
   - "Jonathan R. I. Coleman"
-  - "James H. Cole"
+  - admin
   - "Simon R. Cox"
   - "Ian J. Deary"
   - "Javier de la Fuente"

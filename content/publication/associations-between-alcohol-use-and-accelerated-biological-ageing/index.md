@@ -8,7 +8,7 @@ authors:
   - "Kadi Vaher"
   - "Laura de Nooij"
   - "Matthew A. Harris"
-  - "James H. Cole"
+  - admin
   - "Simon R. Cox"
   - "Riccardo E. Marioni"
   - "Daniel L. McCartney"

@@ -6,7 +6,7 @@ authors:
   - "Ann-Marie G. de Lange"
   - "Melis Anatürk"
   - "Tobias Kaufmann"
-  - "James H. Cole"
+  - admin
   - "Ludovica Griffanti"
   - "Enikő Zsoldos"
   - "Daria Jensen"

@@ -9,7 +9,7 @@ authors:
   - "Stuti Chakraborty"
   - "Michael R. Borich"
   - "Mayerly Castillo"
-  - "James H. Cole"
+  - admin
   - "Steven C. Cramer"
   - "Miranda R. Donnelly"
   - "Emily E. Fokas"

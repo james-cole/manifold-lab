@@ -8,7 +8,7 @@ authors:
   - "Joshua Harper"
   - "Aram Salehi"
   - "Andrew G. Webb"
-  - "James H. Cole"
+  - admin
   - "Ana Correa"
   - "Hieab H. H. Adams"
   - "David M. Cash"
