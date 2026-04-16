@@ -116,7 +116,7 @@ sections:
   - block: collection
     id: publication
     content:
-      title: Recent Publications
+      title: Recent publications
       page_type: publication
       count: 5
       filters:
@@ -129,7 +129,7 @@ sections:
     
   - block: markdown
     content:
-      title: Research & Publications
+      title: More publications
       subtitle: ''
       text: |
         Explore our full list of machine learning and neuroimaging research.
