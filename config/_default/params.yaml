@@ -5,9 +5,9 @@
 
 # Appearance
 appearance:
-  #theme: manifolducl
-  theme_day: minimal
-  theme_night: minimal
+  # theme: manifolducl
+  # theme_day: minimal
+  # theme_night: minimal
   font_pack: custom
 
 # SEO
