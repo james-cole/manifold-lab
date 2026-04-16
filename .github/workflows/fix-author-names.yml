@@ -1,32 +1,50 @@
-name: Fix Author Names
+name: Strip Admin Quotes
 
 on:
-  workflow_dispatch: # Allows you to run this manually from the "Actions" tab
+  workflow_dispatch:
 
 jobs:
-  replace-names:
+  remove-quotes:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Replace James H. Cole with admin
+      - name: Replace "admin" with admin
+        shell: python
         run: |
-          # This find command targets only index.md files in the publication folder
-          # It replaces "James H. Cole" with "admin"
-          find content/publication -name "index.md" -exec sed -i 's/James H. Cole/admin/g' {} +
-          
+          import os
+          import re
+
+          pub_dir = 'content/publication'
+          # This matches "admin" or 'admin' and replaces it with bare admin
+          # It handles the surrounding quotes specifically
+          pattern = r'["\']admin["\']'
+          replacement = 'admin'
+
+          for root, _, files in os.walk(pub_dir):
+              for file in files:
+                  if file == 'index.md':
+                      file_path = os.path.join(root, file)
+                      with open(file_path, 'r', encoding='utf-8') as f:
+                          content = f.read()
+                      
+                      new_content = re.sub(pattern, replacement, content)
+                      
+                      if content != new_content:
+                          with open(file_path, 'w', encoding='utf-8') as f:
+                              f.write(new_content)
+                          print(f"Stripped quotes from: {file_path}")
+
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Only commit if there are actually changes to avoid errors
           if [[ -n "$(git status --porcelain)" ]]; then
-            git add content/publication/**/index.md
-            git commit -m "Cleanup: Replaced 'James H. Cole' with 'admin' in publications"
+            git add content/publication/
+            git commit -m "Fix: Removed quotes from admin in author lists"
             git push
           else
-            echo "No changes detected."
+            echo "No quoted admin instances found."
           fi
-          
