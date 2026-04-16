@@ -46,9 +46,14 @@ jobs:
               "j. h. cole": "admin",
               "james cole": "admin",
               "james cole": "admin",
+              "James Cole": "admin",
+              "J.H. Cole": "admin",
+              "james-cole": "admin",
+              "JH Cole": "admin",
               "cole, james h.": "admin",
 
               "sophie a martin": "sophie-martin",
+              "sophie a. martin": "sophie-martin",
               "martin, sophie a": "sophie-martin",
 
               "serena verdi": "serena-verdi",
