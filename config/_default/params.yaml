@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: manifolducl
+  theme_night: manifolducl
   font: modern
   font_size: L
 
