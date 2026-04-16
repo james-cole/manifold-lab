@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   theme_day: minimal
-  font: minimal   # or font_pack: minimal
+  font_pack: minimal   # or font_pack: minimal
 
 # SEO
 marketing:
