@@ -5,10 +5,8 @@
 
 # Appearance
 appearance:
-  theme: ""
-  # theme_day: minimal
-  # theme_night: minimal
-  font_pack: custom
+  theme_day: minimal
+  font: minimal   # or font_pack: minimal
 
 # SEO
 marketing:
