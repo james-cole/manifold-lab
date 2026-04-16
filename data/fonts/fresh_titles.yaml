@@ -2,7 +2,7 @@
 name: FreshTitles
 
 # Google Font names
-google_fonts: Inter:400,700|Roboto:400,400i,700
+google_fonts: Inter:wght@400;700&family=Roboto:ital,wght@0,400;0,700;1,400
 
 # Font families
 heading_font: Inter
