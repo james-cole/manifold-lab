@@ -1,50 +1,39 @@
-name: Strip Admin Quotes
+name: Normalize Author Names
 
 on:
-  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'content/publication/**'
+  workflow_dispatch: # Allows you to run this manually from the Actions tab
 
 jobs:
-  remove-quotes:
+  normalize-authors:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Replace "admin" with admin
-        shell: python
+      - name: Replace Name Variations with Admin
         run: |
-          import os
-          import re
+          # 1. Target quoted variations first to avoid leaving stray quotes
+          find content/publication -name "*.md" -exec sed -i 's/"J.H. Cole"/admin/g' {} +
+          find content/publication -name "*.md" -exec sed -i 's/"James-Cole"/admin/g' {} +
+          find content/publication -name "*.md" -exec sed -i 's/"james-cole"/admin/g' {} +
+          find content/publication -name "*.md" -exec sed -i 's/"James Cole"/admin/g' {} +
 
-          pub_dir = 'content/publication'
-          # This matches "admin" or 'admin' and replaces it with bare admin
-          # It handles the surrounding quotes specifically
-          pattern = r'["\']admin["\']'
-          replacement = 'admin'
+          # 2. Target unquoted variations
+          find content/publication -name "*.md" -exec sed -i 's/J.H. Cole/admin/g' {} +
+          find content/publication -name "*.md" -exec sed -i 's/James-Cole/admin/g' {} +
+          find content/publication -name "*.md" -exec sed -i 's/james-cole/admin/g' {} +
+          find content/publication -name "*.md" -exec sed -i 's/James Cole/admin/g' {} +
 
-          for root, _, files in os.walk(pub_dir):
-              for file in files:
-                  if file == 'index.md':
-                      file_path = os.path.join(root, file)
-                      with open(file_path, 'r', encoding='utf-8') as f:
-                          content = f.read()
-                      
-                      new_content = re.sub(pattern, replacement, content)
-                      
-                      if content != new_content:
-                          with open(file_path, 'w', encoding='utf-8') as f:
-                              f.write(new_content)
-                          print(f"Stripped quotes from: {file_path}")
+          # 3. Final safety check: strip quotes from "admin" if they exist
+          find content/publication -name "*.md" -exec sed -i 's/"admin"/admin/g' {} +
+          find content/publication -name "*.md" -exec sed -i "s/'admin'/admin/g" {} +
 
       - name: Commit and Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git add content/publication/
-            git commit -m "Fix: Removed quotes from admin in author lists"
-            git push
-          else
-            echo "No quoted admin instances found."
-          fi
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-normalize author names to admin"
+          file_pattern: 'content/publication/**'
