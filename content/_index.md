@@ -173,19 +173,4 @@ sections:
       #     captcha: false
     design:
       columns: '2'
-
-  - block: cta
-    content:
-      title: Publications
-      text: Explore our full list of machine learning and neuroimaging research.
-      button:
-        label: View All Publications
-        url: 'publication/'
-        icon_pack: fas
-        icon: book-open
-      design:
-        background:
-          color: '#f7f7f7'
-        spacing:
-          padding: ['20px', '0', '20px', '0']
 ---
