@@ -1,21 +1,16 @@
 ---
-title: "General dimensions of human brain morphometry inferred from genome‐wide association data"
-date: 2023-01-01
-publication: "*Human Brain Mapping*"
-doi: "10.1002/hbm.26283"
+title: "General dimensions of human brain morphometry inferred from genome-wide association data"
+date: 2021-01-01
+doi: "10.1101/2021.10.22.465437"
 authors:
   - "Anna E. Fürtjes"
   - "Ryan Arathimos"
   - "Jonathan R. I. Coleman"
-  - admin
+  - "James H. Cole"
   - "Simon R. Cox"
   - "Ian J. Deary"
   - "Javier de la Fuente"
   - "James W. Madole"
-  - "Elliot M. Tucker‐Drob"
+  - "Elliot M. Tucker-Drob"
   - "Stuart J. Ritchie"
 ---
-
-**Authors:** Anna E. Fürtjes, Ryan Arathimos, Jonathan R. I. Coleman, admin, Simon R. Cox, Ian J. Deary, Javier de la Fuente, James W. Madole, Elliot M. Tucker‐Drob, Stuart J. Ritchie
-
-**DOI:** https://doi.org/10.1002/hbm.26283
