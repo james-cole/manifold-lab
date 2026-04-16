@@ -1,10 +1,8 @@
 # data/fonts/custom.yaml
 name: custom
 
-# Using the new Google Fonts v2 syntax
-google_fonts: Lora:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;700
+google_fonts: Lora:400,700|Inter:400,700
 
-# Font families
 heading_font: Lora
 body_font: Inter
 nav_font: Inter
