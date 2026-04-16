@@ -6,7 +6,7 @@ doi: "10.1371/journal.pone.0191791"
 authors:
   - "Davide De Francesco"
   - "Ferdinand W. Wit"
-  - "James H. Cole"
+  - "admin"
   - "Neeltje A. Kootstra"
   - "Alan Winston"
   - "Caroline A. Sabin"
@@ -24,6 +24,6 @@ authors:
   - "Peter Reiss"
 ---
 
-**Authors:** Davide De Francesco, Ferdinand W. Wit, James H. Cole, Neeltje A. Kootstra, Alan Winston, Caroline A. Sabin, Jonathan Underwood, Rosan A. van Zoest, Judith Schouten, Katherine W. Kooij, Maria Prins, Giovanni Guaraldi, Matthan W. A. Caan, David Burger, Claudio Franceschi, Claude Libert, Alexander Bürkle, Peter Reiss
+**Authors:** Davide De Francesco, Ferdinand W. Wit, admin, Neeltje A. Kootstra, Alan Winston, Caroline A. Sabin, Jonathan Underwood, Rosan A. van Zoest, Judith Schouten, Katherine W. Kooij, Maria Prins, Giovanni Guaraldi, Matthan W. A. Caan, David Burger, Claudio Franceschi, Claude Libert, Alexander Bürkle, Peter Reiss
 
 **DOI:** https://doi.org/10.1371/journal.pone.0191791

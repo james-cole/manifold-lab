@@ -6,7 +6,7 @@ doi: "10.1097/ypg.0000000000000203"
 authors:
   - "Becky Inkster"
   - "Andy Simmons"
-  - "James H. Cole"
+  - "admin"
   - "Erwin Schoof"
   - "Rune Linding"
   - "Tom Nichols"
@@ -21,6 +21,6 @@ authors:
   - "Kristin Nicodemus"
 ---
 
-**Authors:** Becky Inkster, Andy Simmons, James H. Cole, Erwin Schoof, Rune Linding, Tom Nichols, Pierandrea Muglia, Florian Holsboer, Philipp G. Sämann, Peter McGuffin, Cynthia H.Y. Fu, Kamilla Miskowiak, Paul M. Matthews, Gwyneth Zai, Kristin Nicodemus
+**Authors:** Becky Inkster, Andy Simmons, admin, Erwin Schoof, Rune Linding, Tom Nichols, Pierandrea Muglia, Florian Holsboer, Philipp G. Sämann, Peter McGuffin, Cynthia H.Y. Fu, Kamilla Miskowiak, Paul M. Matthews, Gwyneth Zai, Kristin Nicodemus
 
 **DOI:** https://doi.org/10.1097/ypg.0000000000000203

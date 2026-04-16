@@ -10,7 +10,7 @@ authors:
   - "Judith Schouten"
   - "Maria Prins"
   - "Gert J. Geurtsen"
-  - "James H. Cole"
+  - "admin"
   - "David J. Sharp"
   - "Edo Richard"
   - "Liesbeth Reneman"
@@ -19,6 +19,6 @@ authors:
   - "Charles B. Majoie"
 ---
 
-**Authors:** Tanja Su, Ferdinand W.N.M. Wit, Matthan W.A. Caan, Judith Schouten, Maria Prins, Gert J. Geurtsen, James H. Cole, David J. Sharp, Edo Richard, Liesbeth Reneman, Peter Portegies, Peter Reiss, Charles B. Majoie
+**Authors:** Tanja Su, Ferdinand W.N.M. Wit, Matthan W.A. Caan, Judith Schouten, Maria Prins, Gert J. Geurtsen, admin, David J. Sharp, Edo Richard, Liesbeth Reneman, Peter Portegies, Peter Reiss, Charles B. Majoie
 
 **DOI:** https://doi.org/10.1097/qad.0000000000001133

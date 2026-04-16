@@ -6,7 +6,7 @@ doi: "10.1097/qad.0000000000001910"
 authors:
   - "Srishti Chhabra"
   - "Jonathan Underwood"
-  - "James H. Cole"
+  - "admin"
   - "Matthan Caan"
   - "Adam Waldman"
   - "Peter Reiss"
@@ -15,6 +15,6 @@ authors:
   - "Alan Winston"
 ---
 
-**Authors:** Srishti Chhabra, Jonathan Underwood, James H. Cole, Matthan Caan, Adam Waldman, Peter Reiss, Caroline A. Sabin, David J. Sharp, Alan Winston
+**Authors:** Srishti Chhabra, Jonathan Underwood, admin, Matthan Caan, Adam Waldman, Peter Reiss, Caroline A. Sabin, David J. Sharp, Alan Winston
 
 **DOI:** https://doi.org/10.1097/qad.0000000000001910

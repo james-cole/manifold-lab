@@ -9,9 +9,9 @@ authors:
   - "Duygu Tosun"
   - "Jonathan M. Schott"
   - "Andre F. Marquand"
-  - "James H. Cole"
+  - "admin"
 ---
 
-**Authors:** Serena Verdi, Seyed Mostafa Kia, Keir Yong, Duygu Tosun, Jonathan M. Schott, Andre F. Marquand, James H. Cole
+**Authors:** Serena Verdi, Seyed Mostafa Kia, Keir Yong, Duygu Tosun, Jonathan M. Schott, Andre F. Marquand, admin
 
 **DOI:** https://doi.org/10.1101/2022.06.30.22277053

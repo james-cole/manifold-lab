@@ -8,7 +8,7 @@ authors:
   - "Fruhling Rijsdijk"
   - "Timothea Toulopoulou"
   - "Christopher Chaddock"
-  - "James H. Cole"
+  - "admin"
   - "Ulrich Ettinger"
   - "Ana Oses"
   - "Hugo Metcalfe"
@@ -16,6 +16,6 @@ authors:
   - "Philip McGuire"
 ---
 
-**Authors:** Marco M. Picchioni, Fruhling Rijsdijk, Timothea Toulopoulou, Christopher Chaddock, James H. Cole, Ulrich Ettinger, Ana Oses, Hugo Metcalfe, Robin M. Murray, Philip McGuire
+**Authors:** Marco M. Picchioni, Fruhling Rijsdijk, Timothea Toulopoulou, Christopher Chaddock, admin, Ulrich Ettinger, Ana Oses, Hugo Metcalfe, Robin M. Murray, Philip McGuire
 
 **DOI:** https://doi.org/10.1503/jpn.140277

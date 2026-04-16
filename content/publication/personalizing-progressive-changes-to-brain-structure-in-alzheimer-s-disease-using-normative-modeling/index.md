@@ -12,9 +12,9 @@ authors:
   - "Lars Lau Raket"
   - "Jonathan M. Schott"
   - "Andre F. Marquand"
-  - "James H. Cole"
+  - "admin"
 ---
 
-**Authors:** Serena Verdi, Saige Rutherford, Charlotte Fraza, Duygu Tosun, Andre Altmann, Lars Lau Raket, Jonathan M. Schott, Andre F. Marquand, James H. Cole
+**Authors:** Serena Verdi, Saige Rutherford, Charlotte Fraza, Duygu Tosun, Andre Altmann, Lars Lau Raket, Jonathan M. Schott, Andre F. Marquand, admin
 
 **DOI:** https://doi.org/10.1002/alz.14174

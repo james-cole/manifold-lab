@@ -8,7 +8,7 @@ authors:
   - "Stuti Chakraborty"
   - "Michael R. Borich"
   - "Mayerly Castillo"
-  - "James H. Cole"
+  - "admin"
   - "Steven C. Cramer"
   - "Miranda R. Donnelly"
   - "Emily E. Fokas"
@@ -28,6 +28,6 @@ authors:
   - "Sook-Lei Liew"
 ---
 
-**Authors:** Mahir H. Khan, Octavio Marin-Pardo, Stuti Chakraborty, Michael R. Borich, Mayerly Castillo, James H. Cole, Steven C. Cramer, Miranda R. Donnelly, Emily E. Fokas, Niko H. Fullmer, Jeanette R. Gumarang, Leticia Hayes, Hosung Kim, Amisha Kumar, Emily A. Marks, Emily R. Rosario, Heidi M. Schambra, Nicolas Schweighofer, Grace C. Song, Myriam Taga, Bethany P. Tavener, Carolee J. Winstein, Sook-Lei Liew
+**Authors:** Mahir H. Khan, Octavio Marin-Pardo, Stuti Chakraborty, Michael R. Borich, Mayerly Castillo, admin, Steven C. Cramer, Miranda R. Donnelly, Emily E. Fokas, Niko H. Fullmer, Jeanette R. Gumarang, Leticia Hayes, Hosung Kim, Amisha Kumar, Emily A. Marks, Emily R. Rosario, Heidi M. Schambra, Nicolas Schweighofer, Grace C. Song, Myriam Taga, Bethany P. Tavener, Carolee J. Winstein, Sook-Lei Liew
 
 **DOI:** https://doi.org/10.1101/2024.12.13.24319014

@@ -10,7 +10,7 @@ authors:
   - "Yini Zhang"
   - "Soha K. Patil"
   - "M. Jorge Cardoso"
-  - "James H. Cole"
+  - "admin"
   - "Matthew J. Kempton"
   - "Charles R. Marshall"
   - "Mitul A. Mehta"
@@ -28,6 +28,6 @@ authors:
   - "Dag Aarsland"
 ---
 
-**Authors:** Ashwin V. Venkataraman, Paul Wright, Amelia Jewell, Christopher Webb, Yini Zhang, Soha K. Patil, M. Jorge Cardoso, James H. Cole, Matthew J. Kempton, Charles R. Marshall, Mitul A. Mehta, Christoph Mueller, Timothy R. Nicholson, Thomas A. Pollak, Timothy Rittman, Zeynep Sahin, Ana B. Solana, Daniel R. Stahl, František Váša, Allan H Young, Steve Williams, Robert Stewart, Dag Aarsland
+**Authors:** Ashwin V. Venkataraman, Paul Wright, Amelia Jewell, Christopher Webb, Yini Zhang, Soha K. Patil, M. Jorge Cardoso, admin, Matthew J. Kempton, Charles R. Marshall, Mitul A. Mehta, Christoph Mueller, Timothy R. Nicholson, Thomas A. Pollak, Timothy Rittman, Zeynep Sahin, Ana B. Solana, Daniel R. Stahl, František Váša, Allan H Young, Steve Williams, Robert Stewart, Dag Aarsland
 
 **DOI:** https://doi.org/10.1101/2025.01.07.25319950

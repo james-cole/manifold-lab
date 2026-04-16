@@ -7,9 +7,9 @@ authors:
   - "Sophie A. Martin"
   - "Florence J. Townend"
   - "Frederik Barkhof"
-  - "James H. Cole"
+  - "admin"
 ---
 
-**Authors:** Sophie A. Martin, Florence J. Townend, Frederik Barkhof, James H. Cole
+**Authors:** Sophie A. Martin, Florence J. Townend, Frederik Barkhof, admin
 
 **DOI:** https://doi.org/10.1002/alz.12948

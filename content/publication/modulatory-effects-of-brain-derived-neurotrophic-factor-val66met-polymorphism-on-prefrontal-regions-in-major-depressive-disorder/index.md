@@ -6,7 +6,7 @@ doi: "10.1192/bjp.bp.113.143529"
 authors:
   - "Rebecca MacGregor Legge"
   - "Shahbaz Sendi"
-  - "James H. Cole"
+  - "admin"
   - "Sarah Cohen-Woods"
   - "Sergi G. Costafreda"
   - "Andrew Simmons"

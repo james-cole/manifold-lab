@@ -12,7 +12,7 @@ authors:
   - "Ian H. Gotlib"
   - "Matthew D. Sacchet"
   - "Danai Dima"
-  - "James H. Cole"
+  - "admin"
   - "Cynthia H. Y. Fu"
   - "Henrik Walter"
   - "Ilya M. Veer"
@@ -22,6 +22,6 @@ authors:
   - "Paul M. Thompson"
 ---
 
-**Authors:** Dajiang Zhu, Brandalyn C. Riedel, Neda Jahanshad, Nynke A. Groenewold, Dan J. Stein, Ian H. Gotlib, Matthew D. Sacchet, Danai Dima, James H. Cole, Cynthia H. Y. Fu, Henrik Walter, Ilya M. Veer, Thomas Frodl, Lianne Schmaal, Dick J. Veltman, Paul M. Thompson
+**Authors:** Dajiang Zhu, Brandalyn C. Riedel, Neda Jahanshad, Nynke A. Groenewold, Dan J. Stein, Ian H. Gotlib, Matthew D. Sacchet, Danai Dima, admin, Cynthia H. Y. Fu, Henrik Walter, Ilya M. Veer, Thomas Frodl, Lianne Schmaal, Dick J. Veltman, Paul M. Thompson
 
 **DOI:** https://doi.org/10.1007/978-3-319-66179-7_19

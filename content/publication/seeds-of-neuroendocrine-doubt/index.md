@@ -6,12 +6,12 @@ doi: "10.1038/nature18602"
 authors:
   - "Claire Feeney"
   - "Gregory P. Scott"
-  - "James H. Cole"
+  - "admin"
   - "Magdalena Sastre"
   - "Anthony P. Goldstone"
   - "Robert Leech"
 ---
 
-**Authors:** Claire Feeney, Gregory P. Scott, James H. Cole, Magdalena Sastre, Anthony P. Goldstone, Robert Leech
+**Authors:** Claire Feeney, Gregory P. Scott, admin, Magdalena Sastre, Anthony P. Goldstone, Robert Leech
 
 **DOI:** https://doi.org/10.1038/nature18602

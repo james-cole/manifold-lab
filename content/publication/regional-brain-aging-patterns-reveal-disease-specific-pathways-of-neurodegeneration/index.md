@@ -7,10 +7,10 @@ authors:
   - "Béla Weiss"
   - "Attila Keresztes"
   - "Petra Hermann"
-  - "James H. Cole"
+  - "admin"
   - "Zoltán Vidnyánszky"
 ---
 
-**Authors:** Pál Vakli, Béla Weiss, Attila Keresztes, Petra Hermann, James H. Cole, Zoltán Vidnyánszky
+**Authors:** Pál Vakli, Béla Weiss, Attila Keresztes, Petra Hermann, admin, Zoltán Vidnyánszky
 
 **DOI:** https://doi.org/10.1101/2025.11.12.25339989

@@ -10,9 +10,9 @@ authors:
   - "Sean Deoni"
   - "Andre Marquand"
   - "Muriel M.K. Bruchhage"
-  - "James H. Cole"
+  - "admin"
 ---
 
-**Authors:** Mariam Zabihi, Francesca Biondo, Jonathan O’Muircheartaigh, Thomas Wolfers, Sean Deoni, Andre Marquand, Muriel M.K. Bruchhage, James H. Cole
+**Authors:** Mariam Zabihi, Francesca Biondo, Jonathan O’Muircheartaigh, Thomas Wolfers, Sean Deoni, Andre Marquand, Muriel M.K. Bruchhage, admin
 
 **DOI:** https://doi.org/10.1101/2025.08.14.668769

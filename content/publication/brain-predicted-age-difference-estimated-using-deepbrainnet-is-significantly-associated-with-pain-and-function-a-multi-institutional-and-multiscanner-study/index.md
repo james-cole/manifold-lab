@@ -11,12 +11,12 @@ authors:
   - "Vishnu Bashyam"
   - "Christos Davatzikos"
   - "Julio A. Peraza"
-  - "James H. Cole"
+  - "admin"
   - "Zhiguang Huo"
   - "Roger B. Fillingim"
   - "Yenisel Cruz-Almeida"
 ---
 
-**Authors:** Pedro A. Valdes-Hernandez, Chavier Laffitte Nodarse, Alisa J. Johnson, Soamy Montesino-Goicolea, Vishnu Bashyam, Christos Davatzikos, Julio A. Peraza, James H. Cole, Zhiguang Huo, Roger B. Fillingim, Yenisel Cruz-Almeida
+**Authors:** Pedro A. Valdes-Hernandez, Chavier Laffitte Nodarse, Alisa J. Johnson, Soamy Montesino-Goicolea, Vishnu Bashyam, Christos Davatzikos, Julio A. Peraza, admin, Zhiguang Huo, Roger B. Fillingim, Yenisel Cruz-Almeida
 
 **DOI:** https://doi.org/10.1097/j.pain.0000000000002984

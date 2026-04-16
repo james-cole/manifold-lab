@@ -10,7 +10,7 @@ authors:
   - "Mohamed Salah Khlif"
   - "Amy Brodtmann"
   - "Michael R. Borich"
-  - "James H. Cole"
+  - "admin"
   - "Steven C. Cramer"
   - "Niko H. Fullmer"
   - "Jeanette R. Gumarang"
@@ -24,6 +24,6 @@ authors:
   - "Sook-Lei Liew"
 ---
 
-**Authors:** Mahir H. Khan, Stuti Chakraborty, Jennifer K. Ferris, Lara A. Boyd, Mohamed Salah Khlif, Amy Brodtmann, Michael R. Borich, James H. Cole, Steven C. Cramer, Niko H. Fullmer, Jeanette R. Gumarang, Hosung Kim, Amisha Kumar, Octavio Marin-Pardo, Susan M. Murphy, Emily R. Rosario, Heidi M. Schambra, Grace C. Song, Sook-Lei Liew
+**Authors:** Mahir H. Khan, Stuti Chakraborty, Jennifer K. Ferris, Lara A. Boyd, Mohamed Salah Khlif, Amy Brodtmann, Michael R. Borich, admin, Steven C. Cramer, Niko H. Fullmer, Jeanette R. Gumarang, Hosung Kim, Amisha Kumar, Octavio Marin-Pardo, Susan M. Murphy, Emily R. Rosario, Heidi M. Schambra, Grace C. Song, Sook-Lei Liew
 
 **DOI:** https://doi.org/10.1101/2025.10.22.25338564

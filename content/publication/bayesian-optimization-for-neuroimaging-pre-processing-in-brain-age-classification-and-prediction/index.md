@@ -7,9 +7,9 @@ authors:
   - "Jenessa Lancaster"
   - "Romy Lorenz"
   - "Rob Leech"
-  - "James H. Cole"
+  - "admin"
 ---
 
-**Authors:** Jenessa Lancaster, Romy Lorenz, Rob Leech, James H. Cole
+**Authors:** Jenessa Lancaster, Romy Lorenz, Rob Leech, admin
 
 **DOI:** https://doi.org/10.3389/fnagi.2018.00028

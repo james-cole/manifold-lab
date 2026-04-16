@@ -7,7 +7,7 @@ authors:
   - "Sergi G. Costafreda"
   - "Peter McCann"
   - "Pascal Saker"
-  - "James H. Cole"
+  - "admin"
   - "Sarah Cohen-Woods"
   - "Anne E. Farmer"
   - "Katherine J. Aitchison"
@@ -15,6 +15,6 @@ authors:
   - "Cynthia H.Y. Fu"
 ---
 
-**Authors:** Sergi G. Costafreda, Peter McCann, Pascal Saker, James H. Cole, Sarah Cohen-Woods, Anne E. Farmer, Katherine J. Aitchison, Peter McGuffin, Cynthia H.Y. Fu
+**Authors:** Sergi G. Costafreda, Peter McCann, Pascal Saker, admin, Sarah Cohen-Woods, Anne E. Farmer, Katherine J. Aitchison, Peter McGuffin, Cynthia H.Y. Fu
 
 **DOI:** https://doi.org/10.1016/j.jad.2013.02.028

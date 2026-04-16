@@ -7,10 +7,10 @@ authors:
   - "Javier Ramírez"
   - "Juan M. Górriz"
   - "Andrés Ortiz"
-  - "James H. Cole"
+  - "admin"
   - "Martin Dyrba"
 ---
 
-**Authors:** Javier Ramírez, Juan M. Górriz, Andrés Ortiz, James H. Cole, Martin Dyrba
+**Authors:** Javier Ramírez, Juan M. Górriz, Andrés Ortiz, admin, Martin Dyrba
 
 **DOI:** https://doi.org/10.3389/fninf.2020.573974

@@ -9,10 +9,10 @@ authors:
   - "Nils R. Winter"
   - "Udo Dannlowski"
   - "Christian Gaser"
-  - "James H. Cole"
+  - "admin"
   - "Tim Hahn"
 ---
 
-**Authors:** Lukas Fisch, Ramona Leenings, Nils R. Winter, Udo Dannlowski, Christian Gaser, James H. Cole, Tim Hahn
+**Authors:** Lukas Fisch, Ramona Leenings, Nils R. Winter, Udo Dannlowski, Christian Gaser, admin, Tim Hahn
 
 **DOI:** https://doi.org/10.3389/fpsyt.2021.710932

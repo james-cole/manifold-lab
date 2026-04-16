@@ -5,9 +5,9 @@ publication: "*NeuroImage: Clinical*"
 doi: "10.1016/j.nicl.2020.102229"
 authors:
   - "Ann-Marie G. de Lange"
-  - "James H. Cole"
+  - "admin"
 ---
 
-**Authors:** Ann-Marie G. de Lange, James H. Cole
+**Authors:** Ann-Marie G. de Lange, admin
 
 **DOI:** https://doi.org/10.1016/j.nicl.2020.102229

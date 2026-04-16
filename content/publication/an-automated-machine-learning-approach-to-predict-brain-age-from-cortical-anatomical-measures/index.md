@@ -7,7 +7,7 @@ authors:
   - "Jessica Dafflon"
   - "Walter H. L. Pinaya"
   - "Federico Turkheimer"
-  - "James H. Cole"
+  - "admin"
   - "Robert Leech"
   - "Mathew A. Harris"
   - "Simon R. Cox"
@@ -16,6 +16,6 @@ authors:
   - "Peter J. Hellyer"
 ---
 
-**Authors:** Jessica Dafflon, Walter H. L. Pinaya, Federico Turkheimer, James H. Cole, Robert Leech, Mathew A. Harris, Simon R. Cox, Heather C. Whalley, Andrew M. McIntosh, Peter J. Hellyer
+**Authors:** Jessica Dafflon, Walter H. L. Pinaya, Federico Turkheimer, admin, Robert Leech, Mathew A. Harris, Simon R. Cox, Heather C. Whalley, Andrew M. McIntosh, Peter J. Hellyer
 
 **DOI:** https://doi.org/10.1002/hbm.25028

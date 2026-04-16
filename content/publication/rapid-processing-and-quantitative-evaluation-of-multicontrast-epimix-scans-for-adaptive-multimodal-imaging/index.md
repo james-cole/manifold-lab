@@ -15,9 +15,9 @@ authors:
   - "Steven C. R. Williams"
   - "Andre F. Marquand"
   - "Robert Leech"
-  - "James H. Cole"
+  - "admin"
 ---
 
-**Authors:** František Váša, Harriet Hobday, Ryan A. Stanyard, Richard E. Daws, Vincent Giampietro, Owen O’Daly, David J. Lythgoe, Jakob Seidlitz, Stefan Skare, Steven C. R. Williams, Andre F. Marquand, Robert Leech, James H. Cole
+**Authors:** František Váša, Harriet Hobday, Ryan A. Stanyard, Richard E. Daws, Vincent Giampietro, Owen O’Daly, David J. Lythgoe, Jakob Seidlitz, Stefan Skare, Steven C. R. Williams, Andre F. Marquand, Robert Leech, admin
 
 **DOI:** https://doi.org/10.1101/2021.02.12.430956

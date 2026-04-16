@@ -6,13 +6,13 @@ doi: "10.3389/fnagi.2021.691691"
 authors:
   - "Janelle T. Foret"
   - "Maria Dekhtyar"
-  - "James H. Cole"
+  - "admin"
   - "Drew D. Gourley"
   - "Marie Caillaud"
   - "Hirofumi Tanaka"
   - "Andreana P. Haley"
 ---
 
-**Authors:** Janelle T. Foret, Maria Dekhtyar, James H. Cole, Drew D. Gourley, Marie Caillaud, Hirofumi Tanaka, Andreana P. Haley
+**Authors:** Janelle T. Foret, Maria Dekhtyar, admin, Drew D. Gourley, Marie Caillaud, Hirofumi Tanaka, Andreana P. Haley
 
 **DOI:** https://doi.org/10.3389/fnagi.2021.691691

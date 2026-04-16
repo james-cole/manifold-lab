@@ -6,7 +6,7 @@ doi: "10.1002/hbm.25316"
 authors:
   - "Melis Anatürk"
   - "Tobias Kaufmann"
-  - "James H. Cole"
+  - "admin"
   - "Sana Suri"
   - "Ludovica Griffanti"
   - "Enikő Zsoldos"
@@ -18,6 +18,6 @@ authors:
   - "Ann‐Marie G. de Lange"
 ---
 
-**Authors:** Melis Anatürk, Tobias Kaufmann, James H. Cole, Sana Suri, Ludovica Griffanti, Enikő Zsoldos, Nicola Filippini, Archana Singh‐Manoux, Mika Kivimäki, Lars T. Westlye, Klaus P. Ebmeier, Ann‐Marie G. de Lange
+**Authors:** Melis Anatürk, Tobias Kaufmann, admin, Sana Suri, Ludovica Griffanti, Enikő Zsoldos, Nicola Filippini, Archana Singh‐Manoux, Mika Kivimäki, Lars T. Westlye, Klaus P. Ebmeier, Ann‐Marie G. de Lange
 
 **DOI:** https://doi.org/10.1002/hbm.25316

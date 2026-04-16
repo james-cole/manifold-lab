@@ -7,9 +7,9 @@ authors:
   - "Marius de Groot"
   - "Matthew J. Kempton"
   - "Steven C. R. Williams"
-  - "James H. Cole"
+  - "admin"
 ---
 
-**Authors:** Jennifer G. Cox, Marius de Groot, Matthew J. Kempton, Steven C. R. Williams, James H. Cole
+**Authors:** Jennifer G. Cox, Marius de Groot, Matthew J. Kempton, Steven C. R. Williams, admin
 
 **DOI:** https://doi.org/10.1101/2023.03.08.23286980

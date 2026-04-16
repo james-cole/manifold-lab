@@ -16,10 +16,10 @@ authors:
   - "Naveen Gadapa"
   - "Gareth Barker"
   - "Sebastian Ourselin"
-  - "James H. Cole"
+  - "admin"
   - "Thomas C. Booth"
 ---
 
-**Authors:** Matthew Benger, David A. Wood, Sina Kafiabadi, Aisha Al Busaidi, Emily Guilhem, Jeremy Lynch, Matthew Townend, Antanas Montvila, Juveria Siddiqui, Naveen Gadapa, Gareth Barker, Sebastian Ourselin, James H. Cole, Thomas C. Booth
+**Authors:** Matthew Benger, David A. Wood, Sina Kafiabadi, Aisha Al Busaidi, Emily Guilhem, Jeremy Lynch, Matthew Townend, Antanas Montvila, Juveria Siddiqui, Naveen Gadapa, Gareth Barker, Sebastian Ourselin, admin, Thomas C. Booth
 
 **DOI:** https://doi.org/10.3389/fradi.2023.1251825

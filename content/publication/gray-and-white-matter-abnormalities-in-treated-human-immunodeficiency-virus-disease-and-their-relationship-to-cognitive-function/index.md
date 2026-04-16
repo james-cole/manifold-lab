@@ -5,7 +5,7 @@ publication: "*Clinical Infectious Diseases*"
 doi: "10.1093/cid/cix301"
 authors:
   - "Jonathan Underwood"
-  - "James H. Cole"
+  - "admin"
   - "Matthan Caan"
   - "Davide De Francesco"
   - "Robert Leech"
@@ -23,6 +23,6 @@ authors:
   - "David J. Sharp"
 ---
 
-**Authors:** Jonathan Underwood, James H. Cole, Matthan Caan, Davide De Francesco, Robert Leech, Rosan A. van Zoest, Tanja Su, Gert J. Geurtsen, Ben A. Schmand, Peter Portegies, Maria Prins, Ferdinand W. N. M. Wit, Caroline A. Sabin, Charles Majoie, Peter Reiss, Alan Winston, David J. Sharp
+**Authors:** Jonathan Underwood, admin, Matthan Caan, Davide De Francesco, Robert Leech, Rosan A. van Zoest, Tanja Su, Gert J. Geurtsen, Ben A. Schmand, Peter Portegies, Maria Prins, Ferdinand W. N. M. Wit, Caroline A. Sabin, Charles Majoie, Peter Reiss, Alan Winston, David J. Sharp
 
 **DOI:** https://doi.org/10.1093/cid/cix301

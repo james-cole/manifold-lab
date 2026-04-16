@@ -7,13 +7,13 @@ authors:
   - "Siri Ranlund"
   - "Maria Joao Rosa"
   - "Simone de Jong"
-  - "James H. Cole"
+  - "admin"
   - "Marinos Kyriakopoulos"
   - "Cynthia H.Y. Fu"
   - "Mitul A. Mehta"
   - "Danai Dima"
 ---
 
-**Authors:** Siri Ranlund, Maria Joao Rosa, Simone de Jong, James H. Cole, Marinos Kyriakopoulos, Cynthia H.Y. Fu, Mitul A. Mehta, Danai Dima
+**Authors:** Siri Ranlund, Maria Joao Rosa, Simone de Jong, admin, Marinos Kyriakopoulos, Cynthia H.Y. Fu, Mitul A. Mehta, Danai Dima
 
 **DOI:** https://doi.org/10.1016/j.nicl.2018.10.008

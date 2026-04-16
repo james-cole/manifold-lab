@@ -7,11 +7,11 @@ authors:
   - "Cynthia H.Y. Fu"
   - "Rebecca MacGregor Legge"
   - "Sarah Cohen-Woods"
-  - "James H. Cole"
+  - "admin"
   - "Katherine J. Aitchison"
   - "Peter McGuffin"
 ---
 
-**Authors:** Cynthia H.Y. Fu, Rebecca MacGregor Legge, Sarah Cohen-Woods, James H. Cole, Katherine J. Aitchison, Peter McGuffin
+**Authors:** Cynthia H.Y. Fu, Rebecca MacGregor Legge, Sarah Cohen-Woods, admin, Katherine J. Aitchison, Peter McGuffin
 
 **DOI:** https://doi.org/10.1192/bjp.207.4.363a

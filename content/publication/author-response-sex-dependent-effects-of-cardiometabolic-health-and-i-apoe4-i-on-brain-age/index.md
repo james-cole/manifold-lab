@@ -7,10 +7,10 @@ publication: "*Neurology*"
 doi: "10.1212/wnl.0000000000210221"
 authors:
   - "Sivaniya Subramaniapillai"
-  - "James H. Cole"
+  - "admin"
   - "Ann-Marie G. de Lange"
 ---
 
-**Authors:** Sivaniya Subramaniapillai, James H. Cole, Ann-Marie G. de Lange
+**Authors:** Sivaniya Subramaniapillai, admin, Ann-Marie G. de Lange
 
 **DOI:** https://doi.org/10.1212/wnl.0000000000210221

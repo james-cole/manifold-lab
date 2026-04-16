@@ -9,7 +9,7 @@ authors:
   - "Mechteld E. Giesen"
   - "Ellert R.S. Nijenhuis"
   - "Nel Draijer"
-  - "James H. Cole"
+  - "admin"
   - "Paola Dazzan"
   - "Carmine M. Pariante"
   - "Sarah K. Madsen"
@@ -20,6 +20,6 @@ authors:
   - "Antje A.T.S. Reinders"
 ---
 
-**Authors:** Sima Chalavi, Eline M. Vissia, Mechteld E. Giesen, Ellert R.S. Nijenhuis, Nel Draijer, James H. Cole, Paola Dazzan, Carmine M. Pariante, Sarah K. Madsen, Priya Rajagopalan, Paul M. Thompson, Arthur W. Toga, Dick J. Veltman, Antje A.T.S. Reinders
+**Authors:** Sima Chalavi, Eline M. Vissia, Mechteld E. Giesen, Ellert R.S. Nijenhuis, Nel Draijer, admin, Paola Dazzan, Carmine M. Pariante, Sarah K. Madsen, Priya Rajagopalan, Paul M. Thompson, Arthur W. Toga, Dick J. Veltman, Antje A.T.S. Reinders
 
 **DOI:** https://doi.org/10.1002/hbm.22730

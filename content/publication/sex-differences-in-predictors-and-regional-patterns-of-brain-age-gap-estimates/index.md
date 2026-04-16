@@ -12,10 +12,10 @@ authors:
   - "Heather C. Whalley"
   - "Liisa Galea"
   - "Sebastian G. Popescu"
-  - "James H. Cole"
+  - "admin"
   - "Sophia Frangou"
 ---
 
-**Authors:** Nicole Sanford, Ruiyang Ge, Mathilde Antoniades, Amirhossein Modabbernia, Shalaila S. Haas, Heather C. Whalley, Liisa Galea, Sebastian G. Popescu, James H. Cole, Sophia Frangou
+**Authors:** Nicole Sanford, Ruiyang Ge, Mathilde Antoniades, Amirhossein Modabbernia, Shalaila S. Haas, Heather C. Whalley, Liisa Galea, Sebastian G. Popescu, admin, Sophia Frangou
 
 **DOI:** https://doi.org/10.1002/hbm.25983

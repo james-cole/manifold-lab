@@ -6,7 +6,7 @@ doi: "10.1212/wnl.0000000000002485"
 authors:
   - "Jaime H. Vera"
   - "Qi Guo"
-  - "James H. Cole"
+  - "admin"
   - "Adriano Boasso"
   - "Louise Greathead"
   - "Peter Kelleher"

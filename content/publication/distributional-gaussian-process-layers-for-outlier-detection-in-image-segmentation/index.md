@@ -6,11 +6,11 @@ doi: "10.1007/978-3-030-78191-0_32"
 authors:
   - "Sebastian G. Popescu"
   - "David J. Sharp"
-  - "James H. Cole"
+  - "admin"
   - "Konstantinos Kamnitsas"
   - "Ben Glocker"
 ---
 
-**Authors:** Sebastian G. Popescu, David J. Sharp, James H. Cole, Konstantinos Kamnitsas, Ben Glocker
+**Authors:** Sebastian G. Popescu, David J. Sharp, admin, Konstantinos Kamnitsas, Ben Glocker
 
 **DOI:** https://doi.org/10.1007/978-3-030-78191-0_32

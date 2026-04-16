@@ -6,7 +6,7 @@ doi: "10.1002/mds.25984"
 authors:
   - "Elin M. Rees"
   - "Ruth Farmer"
-  - "James H. Cole"
+  - "admin"
   - "Salman Haider"
   - "Alexandra Durr"
   - "Bernhard Landwehrmeyer"
@@ -15,6 +15,6 @@ authors:
   - "Nicola Z. Hobbs"
 ---
 
-**Authors:** Elin M. Rees, Ruth Farmer, James H. Cole, Salman Haider, Alexandra Durr, Bernhard Landwehrmeyer, Rachael I. Scahill, Sarah J. Tabrizi, Nicola Z. Hobbs
+**Authors:** Elin M. Rees, Ruth Farmer, admin, Salman Haider, Alexandra Durr, Bernhard Landwehrmeyer, Rachael I. Scahill, Sarah J. Tabrizi, Nicola Z. Hobbs
 
 **DOI:** https://doi.org/10.1002/mds.25984

@@ -6,7 +6,7 @@ doi: "10.1016/j.nicl.2019.101950"
 authors:
   - "Amy E. Jolly"
   - "Vanessa Raymont"
-  - "James H. Cole"
+  - "admin"
   - "Alex Whittington"
   - "Gregory Scott"
   - "Sara De Simoni"
@@ -15,6 +15,6 @@ authors:
   - "David J. Sharp"
 ---
 
-**Authors:** Amy E. Jolly, Vanessa Raymont, James H. Cole, Alex Whittington, Gregory Scott, Sara De Simoni, Graham Searle, Roger N. Gunn, David J. Sharp
+**Authors:** Amy E. Jolly, Vanessa Raymont, admin, Alex Whittington, Gregory Scott, Sara De Simoni, Graham Searle, Roger N. Gunn, David J. Sharp
 
 **DOI:** https://doi.org/10.1016/j.nicl.2019.101950

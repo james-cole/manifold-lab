@@ -5,7 +5,7 @@ publication: "*Journal of Huntington's Disease*"
 doi: "10.3233/jhd-150173"
 authors:
   - "Sarah Gregory"
-  - "James H. Cole"
+  - "admin"
   - "Ruth E. Farmer"
   - "Elin M. Rees"
   - "Raymund A.C. Roos"
@@ -19,6 +19,6 @@ authors:
   - "Nicola Z. Hobbs"
 ---
 
-**Authors:** Sarah Gregory, James H. Cole, Ruth E. Farmer, Elin M. Rees, Raymund A.C. Roos, Reiner Sprengelmeyer, Alexandra Durr, Bernhard Landwehrmeyer, Hui Zhang, Rachael I. Scahill, Sarah J. Tabrizi, Chris Frost, Nicola Z. Hobbs
+**Authors:** Sarah Gregory, admin, Ruth E. Farmer, Elin M. Rees, Raymund A.C. Roos, Reiner Sprengelmeyer, Alexandra Durr, Bernhard Landwehrmeyer, Hui Zhang, Rachael I. Scahill, Sarah J. Tabrizi, Chris Frost, Nicola Z. Hobbs
 
 **DOI:** https://doi.org/10.3233/jhd-150173

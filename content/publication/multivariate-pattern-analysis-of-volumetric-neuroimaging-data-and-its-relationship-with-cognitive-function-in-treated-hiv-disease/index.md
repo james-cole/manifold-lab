@@ -5,12 +5,12 @@ publication: "*JAIDS Journal of Acquired Immune Deficiency Syndromes*"
 doi: "10.1097/qai.0000000000001687"
 authors:
   - "Jonathan Underwood"
-  - "James H. Cole"
+  - "admin"
   - "Robert Leech"
   - "David J. Sharp"
   - "Alan Winston"
 ---
 
-**Authors:** Jonathan Underwood, James H. Cole, Robert Leech, David J. Sharp, Alan Winston
+**Authors:** Jonathan Underwood, admin, Robert Leech, David J. Sharp, Alan Winston
 
 **DOI:** https://doi.org/10.1097/qai.0000000000001687

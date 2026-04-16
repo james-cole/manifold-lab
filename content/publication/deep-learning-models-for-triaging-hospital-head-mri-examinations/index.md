@@ -15,10 +15,10 @@ authors:
   - "Asif Mazumder"
   - "Gareth J. Barker"
   - "Sebastien Ourselin"
-  - "James H. Cole"
+  - "admin"
   - "Thomas C. Booth"
 ---
 
-**Authors:** David A. Wood, Sina Kafiabadi, Ayisha Al Busaidi, Emily Guilhem, Antanas Montvila, Jeremy Lynch, Matthew Townend, Siddharth Agarwal, Asif Mazumder, Gareth J. Barker, Sebastien Ourselin, James H. Cole, Thomas C. Booth
+**Authors:** David A. Wood, Sina Kafiabadi, Ayisha Al Busaidi, Emily Guilhem, Antanas Montvila, Jeremy Lynch, Matthew Townend, Siddharth Agarwal, Asif Mazumder, Gareth J. Barker, Sebastien Ourselin, admin, Thomas C. Booth
 
 **DOI:** https://doi.org/10.1016/j.media.2022.102391

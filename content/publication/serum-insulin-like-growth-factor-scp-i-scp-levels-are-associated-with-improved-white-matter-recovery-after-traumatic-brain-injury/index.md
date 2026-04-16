@@ -8,7 +8,7 @@ authors:
   - "David J. Sharp"
   - "Peter J. Hellyer"
   - "Amy E. Jolly"
-  - "James H. Cole"
+  - "admin"
   - "Gregory Scott"
   - "David Baxter"
   - "Sagar Jilka"
@@ -21,6 +21,6 @@ authors:
   - "Anthony P. Goldstone"
 ---
 
-**Authors:** Claire Feeney, David J. Sharp, Peter J. Hellyer, Amy E. Jolly, James H. Cole, Gregory Scott, David Baxter, Sagar Jilka, Ewan Ross, Timothy E. Ham, Peter O. Jenkins, Lucia M. Li, Nikos Gorgoraptis, Mark Midwinter, Anthony P. Goldstone
+**Authors:** Claire Feeney, David J. Sharp, Peter J. Hellyer, Amy E. Jolly, admin, Gregory Scott, David Baxter, Sagar Jilka, Ewan Ross, Timothy E. Ham, Peter O. Jenkins, Lucia M. Li, Nikos Gorgoraptis, Mark Midwinter, Anthony P. Goldstone
 
 **DOI:** https://doi.org/10.1002/ana.24971
