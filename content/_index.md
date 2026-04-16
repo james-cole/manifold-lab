@@ -174,14 +174,14 @@ sections:
     design:
       columns: '2'
 
-- block: cta
-    content:
-      title: Publications
-      text: Explore our full list of research.
-      button:
-        label: View All Publications
-        url: 'publication/'
-    design:
-      spacing:
-        padding: ['20px', '0', '20px', '0']
+  - block: cta
+      content:
+        title: Publications
+        text: Explore our full list of research.
+        button:
+          label: View All Publications
+          url: 'publication/'
+      design:
+        spacing:
+          padding: ['20px', '0', '20px', '0']
 ---
