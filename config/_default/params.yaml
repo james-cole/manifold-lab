@@ -8,7 +8,7 @@
 appearance:
   theme_day: manifolducl
   theme_night: manifolducl
-  font: modern
+  font: fresh_titles
   font_size: L
 
 # SEO
