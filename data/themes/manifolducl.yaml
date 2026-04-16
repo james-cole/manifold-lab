@@ -1,0 +1,13 @@
+# data/themes/manifolducl.yaml
+name: ManifoldUCL
+
+# Primary colors
+primary: '#0056b3'        # UCL Blue
+primary_light: '#e6f0ff'
+primary_dark: '#003d80'
+
+# Menu and Background
+menu_primary: '#ffffff'
+menu_text: '#111111'
+background: '#ffffff'
+home_section_odd: '#f8f9fa' # Subtle contrast between sections
