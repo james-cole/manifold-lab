@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  # theme: manifolducl
+  theme: ""
   # theme_day: minimal
   # theme_night: minimal
   font_pack: custom
