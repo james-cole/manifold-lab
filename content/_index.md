@@ -126,7 +126,7 @@ sections:
     design:
       view: citation
       columns: "2"
-
+  
   - block: cta
       content:
         title: Research & Publications
