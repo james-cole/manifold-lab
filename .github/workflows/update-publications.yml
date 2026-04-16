@@ -27,13 +27,12 @@ jobs:
             https://pub.orcid.org/v3.0/0000-0003-1908-5588/works \
             > works.json
 
-      # 2. Generate Hugo publication pages
+      # 2. Generate Hugo publication pages with DOI Duplicate Check
       - name: Generate publications
         run: |
           python3 - << 'EOF'
           import json, os, re, subprocess
 
-          # Mapping known variations to Hugo slugs
           AUTHOR_MAP = {
               "james h cole": "admin",
               "cole, james h": "admin",
@@ -52,17 +51,35 @@ jobs:
           with open("works.json") as f:
               works = json.load(f)
 
-          dois = set()
+          # Extract DOIs from ORCID
+          new_dois = set()
           for group in works.get("group", []):
               for ws in group.get("work-summary", []):
                   for ext in ws.get("external-ids", {}).get("external-id", []):
                       if ext.get("external-id-type") == "doi":
-                          dois.add(ext.get("external-id-value").lower())
+                          new_dois.add(ext.get("external-id-value").lower().strip())
 
           outdir = "content/publication"
           os.makedirs(outdir, exist_ok=True)
 
-          for doi in sorted(dois):
+          # --- DOI DUPLICATE CHECK ---
+          # Scan existing files for DOIs to avoid duplicates
+          existing_dois = set()
+          for root, _, files in os.walk(outdir):
+              for file in files:
+                  if file == "index.md":
+                      with open(os.path.join(root, file), 'r', encoding='utf-8') as f:
+                          file_content = f.read().lower()
+                          # Search for DOI pattern in frontmatter
+                          doi_match = re.search(r'doi:\s*["\']?([^"\']+)["\']?', file_content)
+                          if doi_match:
+                              existing_dois.add(doi_match.group(1).strip())
+
+          for doi in sorted(new_dois):
+              if doi in existing_dois:
+                  print(f"Skipping existing DOI: {doi}")
+                  continue
+
               res = subprocess.run(
                   ["curl", "-L", "-H", "Accept: application/vnd.citationstyles.csl+json", f"https://doi.org/{doi}"],
                   capture_output=True, text=True
@@ -82,30 +99,28 @@ jobs:
                   full = f"{a.get('given', '').strip()} {a.get('family', '').strip()}".strip()
                   authors.append(AUTHOR_MAP.get(full.lower(), full))
 
+              # Create clean slug for folder name
               slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
               pub_dir = os.path.join(outdir, slug)
               os.makedirs(pub_dir, exist_ok=True)
 
               outpath = os.path.join(pub_dir, "index.md")
-              if os.path.exists(outpath): continue 
-
-              with open(outpath, "w") as out:
+              with open(outpath, "w", encoding='utf-8') as out:
                   out.write("---\n")
                   out.write(f'title: "{title}"\n')
                   if year: out.write(f"date: {year}-01-01\n")
                   if journal: out.write(f'publication: "*{journal}*"\n')
                   out.write(f'doi: "{doi}"\nauthors:\n')
                   for a in authors:
-                      # Write bare 'admin' without quotes for compatibility
                       if a == "admin":
                           out.write(f"  - admin\n")
                       else:
                           out.write(f'  - "{a}"\n')
                   out.write("---\n")
+                  print(f"Generated new publication: {slug}")
           EOF
 
-      # 3. Global Normalization (The "Safety Net")
-      # This catches any names that might have slipped through the Python map
+      # 3. Global Normalization Safety Net
       - name: Normalize Author Names
         run: |
           find content/publication -name "*.md" -exec sed -i 's/"J.H. Cole"/admin/g' {} +
@@ -122,7 +137,7 @@ jobs:
           git config user.email "github-actions@github.com"
           git add content/publication
           if [[ -n "$(git status --porcelain)" ]]; then
-            git commit -m "Auto-update publications from ORCID and normalize authors"
+            git commit -m "Auto-update publications from ORCID (with DOI duplicate check)"
             git push
           fi
           
