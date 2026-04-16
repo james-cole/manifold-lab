@@ -1,6 +1,7 @@
 ---
 # Display name
 title: James H Cole
+authors: ["James Cole", "J. Cole", "James H. Cole", James H Cole", "JH Cole"]
 
 # Full Name (for SEO)
 first_name: James
