@@ -2,9 +2,9 @@
 name: Custom
 
 # Using the new Google Fonts v2 syntax
-google_fonts: Inter:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400
+google_fonts: Lora:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;700
 
 # Font families
-heading_font: Inter
-body_font: Lora
+heading_font: Lora
+body_font: Inter
 nav_font: Inter
