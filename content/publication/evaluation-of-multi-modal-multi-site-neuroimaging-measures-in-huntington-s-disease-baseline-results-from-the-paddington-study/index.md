@@ -5,7 +5,7 @@ publication: "*NeuroImage: Clinical*"
 doi: "10.1016/j.nicl.2012.12.001"
 authors:
   - "Nicola Z. Hobbs"
-  - "admin"
+  - admin
   - "Ruth E. Farmer"
   - "Elin M. Rees"
   - "Helen E. Crawford"

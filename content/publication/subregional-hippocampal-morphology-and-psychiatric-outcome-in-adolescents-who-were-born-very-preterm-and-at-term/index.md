@@ -4,7 +4,7 @@ date: 2015-01-01
 publication: "*PLOS ONE*"
 doi: "10.1371/journal.pone.0130094"
 authors:
-  - "admin"
+  - admin
   - "Maria Laura Filippetti"
   - "Matthew P. G. Allin"
   - "Muriel Walshe"

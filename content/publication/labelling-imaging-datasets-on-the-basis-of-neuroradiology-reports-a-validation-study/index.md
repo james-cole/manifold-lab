@@ -16,7 +16,7 @@ authors:
   - "Matthew Benger"
   - "Gareth Barker"
   - "Sebastian Ourselin"
-  - "admin"
+  - admin
   - "Thomas C. Booth"
 ---
 

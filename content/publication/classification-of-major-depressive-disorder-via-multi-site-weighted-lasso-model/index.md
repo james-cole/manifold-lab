@@ -12,7 +12,7 @@ authors:
   - "Ian H. Gotlib"
   - "Matthew D. Sacchet"
   - "Danai Dima"
-  - "admin"
+  - admin
   - "Cynthia H. Y. Fu"
   - "Henrik Walter"
   - "Ilya M. Veer"

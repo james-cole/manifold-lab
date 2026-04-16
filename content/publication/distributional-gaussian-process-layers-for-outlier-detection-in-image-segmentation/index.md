@@ -6,7 +6,7 @@ doi: "10.1007/978-3-030-78191-0_32"
 authors:
   - "Sebastian G. Popescu"
   - "David J. Sharp"
-  - "admin"
+  - admin
   - "Konstantinos Kamnitsas"
   - "Ben Glocker"
 ---

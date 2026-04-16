@@ -7,7 +7,7 @@ authors:
   - "Jessica Dafflon"
   - "Walter H. L. Pinaya"
   - "Federico Turkheimer"
-  - "admin"
+  - admin
   - "Robert Leech"
   - "Mathew A. Harris"
   - "Simon R. Cox"

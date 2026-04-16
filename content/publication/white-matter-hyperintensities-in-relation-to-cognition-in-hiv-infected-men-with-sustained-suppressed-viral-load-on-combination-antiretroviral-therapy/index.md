@@ -10,7 +10,7 @@ authors:
   - "Judith Schouten"
   - "Maria Prins"
   - "Gert J. Geurtsen"
-  - "admin"
+  - admin
   - "David J. Sharp"
   - "Edo Richard"
   - "Liesbeth Reneman"

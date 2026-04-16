@@ -9,7 +9,7 @@ authors:
   - "Ferdinand W.N.M. Wit"
   - "Judith Schouten"
   - "Gert J. Geurtsen"
-  - "admin"
+  - admin
   - "David J. Sharp"
   - "Frans M. Vos"
   - "Maria Prins"

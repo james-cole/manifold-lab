@@ -5,7 +5,7 @@ publication: "*Journal of Huntington's Disease*"
 doi: "10.3233/jhd-150173"
 authors:
   - "Sarah Gregory"
-  - "admin"
+  - admin
   - "Ruth E. Farmer"
   - "Elin M. Rees"
   - "Raymund A.C. Roos"

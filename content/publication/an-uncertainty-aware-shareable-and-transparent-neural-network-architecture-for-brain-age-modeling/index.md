@@ -34,7 +34,7 @@ authors:
   - "Tilo Kircher"
   - "Benjamin Risse"
   - "Christian Gaser"
-  - "admin"
+  - admin
   - "Udo Dannlowski"
   - "Klaus Berger"
 ---

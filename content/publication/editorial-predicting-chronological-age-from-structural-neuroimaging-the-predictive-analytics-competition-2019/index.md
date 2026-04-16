@@ -9,7 +9,7 @@ authors:
   - "Nils R. Winter"
   - "Udo Dannlowski"
   - "Christian Gaser"
-  - "admin"
+  - admin
   - "Tim Hahn"
 ---
 

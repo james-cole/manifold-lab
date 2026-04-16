@@ -6,7 +6,7 @@ doi: "10.1016/j.neuropsychologia.2014.09.023"
 authors:
   - "Elin M. Rees"
   - "Ruth Farmer"
-  - "admin"
+  - admin
   - "Susie M.D. Henley"
   - "Reiner Sprengelmeyer"
   - "Chris Frost"

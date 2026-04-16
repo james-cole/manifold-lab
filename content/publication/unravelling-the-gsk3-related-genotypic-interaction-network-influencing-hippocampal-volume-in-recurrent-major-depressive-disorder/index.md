@@ -6,7 +6,7 @@ doi: "10.1097/ypg.0000000000000203"
 authors:
   - "Becky Inkster"
   - "Andy Simmons"
-  - "admin"
+  - admin
   - "Erwin Schoof"
   - "Rune Linding"
   - "Tom Nichols"

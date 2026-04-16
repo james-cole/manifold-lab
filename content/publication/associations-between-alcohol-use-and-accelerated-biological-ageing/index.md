@@ -7,7 +7,7 @@ authors:
   - "Kadi Vaher"
   - "Laura De Nooij"
   - "Mathew A. Harris"
-  - "admin"
+  - admin
   - "Simon R. Cox"
   - "Riccardo E. Marioni"
   - "Daniel L. McCartney"

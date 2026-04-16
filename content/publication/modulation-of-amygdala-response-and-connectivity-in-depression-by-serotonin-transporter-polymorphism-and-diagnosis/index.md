@@ -7,7 +7,7 @@ authors:
   - "Sergi G. Costafreda"
   - "Peter McCann"
   - "Pascal Saker"
-  - "admin"
+  - admin
   - "Sarah Cohen-Woods"
   - "Anne E. Farmer"
   - "Katherine J. Aitchison"

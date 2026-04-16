@@ -12,7 +12,7 @@ authors:
   - "Viren D’Sa"
   - "Sean C.L. Deoni"
   - "Muriel M.K. Bruchhage"
-  - "admin"
+  - admin
 ---
 
 **Authors:** Francesca Biondo, Jonathan O’Muircheartaigh, Richard A.I. Bethlehem, Jakob Seidlitz, Aaron Alexander-Bloch, Jed T. Elison, Viren D’Sa, Sean C.L. Deoni, Muriel M.K. Bruchhage, admin

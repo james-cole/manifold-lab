@@ -5,7 +5,7 @@ publication: "*Human Brain Mapping*"
 doi: "10.1002/hbm.25131"
 authors:
   - "Musa Sami"
-  - "admin"
+  - admin
   - "Matthew J. Kempton"
   - "Luciano Annibale"
   - "Debasis Das"

@@ -18,7 +18,7 @@ authors:
   - "Asif Mazumder"
   - "Gareth Barker"
   - "Sebastian Ourselin"
-  - "admin"
+  - admin
   - "Thomas C. Booth"
 ---
 

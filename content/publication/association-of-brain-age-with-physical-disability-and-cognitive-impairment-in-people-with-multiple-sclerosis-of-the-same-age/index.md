@@ -6,7 +6,7 @@ doi: "10.1212/wnl.0000000000214527"
 authors:
   - "Lonneke Bos"
   - "Alle Meije Wink"
-  - "admin"
+  - admin
   - "Eva M.M. Strijbis"
   - "Bastiaan Moraal"
   - "Joep Killestein"

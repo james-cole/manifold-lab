@@ -89,7 +89,7 @@ authors:
   - "Lianne Schmaal"
   - "Theo G. M. van Erp"
   - "Jessica Turner"
-  - "admin"
+  - admin
   - "Rosa Ayesa-Arriola"
   - "Stefan Du Plessis"
   - "Yoo Bin Kwak"

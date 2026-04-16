@@ -5,7 +5,7 @@ publication: "*Epilepsy Research*"
 doi: "10.1016/j.eplepsyres.2017.03.007"
 authors:
   - "Heath R. Pardoe"
-  - "admin"
+  - admin
   - "Karen Blackmon"
   - "Thomas Thesen"
   - "Ruben Kuzniecky"

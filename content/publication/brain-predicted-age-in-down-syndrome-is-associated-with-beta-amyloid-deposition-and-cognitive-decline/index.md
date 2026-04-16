@@ -4,7 +4,7 @@ date: 2017-01-01
 publication: "*Neurobiology of Aging*"
 doi: "10.1016/j.neurobiolaging.2017.04.006"
 authors:
-  - "admin"
+  - admin
   - "Tiina Annus"
   - "Liam R. Wilson"
   - "Ridhaa Remtulla"

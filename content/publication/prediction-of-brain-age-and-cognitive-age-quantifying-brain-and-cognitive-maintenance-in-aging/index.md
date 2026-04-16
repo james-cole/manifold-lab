@@ -6,7 +6,7 @@ doi: "10.1002/hbm.25316"
 authors:
   - "Melis Anatürk"
   - "Tobias Kaufmann"
-  - "admin"
+  - admin
   - "Sana Suri"
   - "Ludovica Griffanti"
   - "Enikő Zsoldos"

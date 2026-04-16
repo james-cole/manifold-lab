@@ -9,7 +9,7 @@ authors:
   - "Phoebe Imms"
   - "Andrei Irimia"
   - "Frederik Barkhof"
-  - "admin"
+  - admin
 ---
 
 **Authors:** Sophie A. Martin, An Zhao, Jiongqi Qu, Phoebe Imms, Andrei Irimia, Frederik Barkhof, admin

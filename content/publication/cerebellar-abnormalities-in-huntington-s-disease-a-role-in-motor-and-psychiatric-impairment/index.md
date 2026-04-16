@@ -6,7 +6,7 @@ doi: "10.1002/mds.25984"
 authors:
   - "Elin M. Rees"
   - "Ruth Farmer"
-  - "admin"
+  - admin
   - "Salman Haider"
   - "Alexandra Durr"
   - "Bernhard Landwehrmeyer"

@@ -11,7 +11,7 @@ authors:
   - "Vishnu Bashyam"
   - "Christos Davatzikos"
   - "Julio A. Peraza"
-  - "admin"
+  - admin
   - "Zhiguang Huo"
   - "Roger B. Fillingim"
   - "Yenisel Cruz-Almeida"

@@ -6,7 +6,7 @@ doi: "10.1016/j.nicl.2019.101950"
 authors:
   - "Amy E. Jolly"
   - "Vanessa Raymont"
-  - "admin"
+  - admin
   - "Alex Whittington"
   - "Gregory Scott"
   - "Sara De Simoni"

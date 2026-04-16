@@ -12,7 +12,7 @@ authors:
   - "Heather C. Whalley"
   - "Liisa Galea"
   - "Sebastian G. Popescu"
-  - "admin"
+  - admin
   - "Sophia Frangou"
 ---
 

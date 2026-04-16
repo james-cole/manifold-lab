@@ -11,7 +11,7 @@ authors:
   - "Alle Meije Wink"
   - "Dani Beck"
   - "Lars T. Westlye"
-  - "admin"
+  - admin
   - "Frederik Barkhof"
   - "Henk J. M. M. Mutsaerts"
   - "Jan Petr"

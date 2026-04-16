@@ -4,7 +4,7 @@ date: 2015-01-01
 publication: "*Annals of Neurology*"
 doi: "10.1002/ana.24367"
 authors:
-  - "admin"
+  - admin
   - "Robert Leech"
   - "David J. Sharp"
 ---

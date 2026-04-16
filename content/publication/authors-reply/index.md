@@ -7,7 +7,7 @@ authors:
   - "Cynthia H.Y. Fu"
   - "Rebecca MacGregor Legge"
   - "Sarah Cohen-Woods"
-  - "admin"
+  - admin
   - "Katherine J. Aitchison"
   - "Peter McGuffin"
 ---

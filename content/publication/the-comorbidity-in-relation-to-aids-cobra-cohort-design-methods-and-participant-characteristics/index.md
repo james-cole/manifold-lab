@@ -6,7 +6,7 @@ doi: "10.1371/journal.pone.0191791"
 authors:
   - "Davide De Francesco"
   - "Ferdinand W. Wit"
-  - "admin"
+  - admin
   - "Neeltje A. Kootstra"
   - "Alan Winston"
   - "Caroline A. Sabin"

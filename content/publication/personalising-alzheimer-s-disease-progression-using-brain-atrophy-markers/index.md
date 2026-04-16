@@ -11,7 +11,7 @@ authors:
   - "Lars Lau Raket"
   - "Jonathan M. Schott"
   - "Andre F. Marquand"
-  - "admin"
+  - admin
 ---
 
 **Authors:** Serena Verdi, Saige Rutherford, Charlotte Fraza, Duygu Tosun, Andre Altmann, Lars Lau Raket, Jonathan M. Schott, Andre F. Marquand, admin

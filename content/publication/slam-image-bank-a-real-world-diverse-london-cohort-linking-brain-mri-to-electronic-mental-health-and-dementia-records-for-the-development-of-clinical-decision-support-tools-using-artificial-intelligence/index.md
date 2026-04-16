@@ -10,7 +10,7 @@ authors:
   - "Yini Zhang"
   - "Soha K. Patil"
   - "M. Jorge Cardoso"
-  - "admin"
+  - admin
   - "Matthew J. Kempton"
   - "Charles R. Marshall"
   - "Mitul A. Mehta"

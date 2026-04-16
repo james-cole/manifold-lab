@@ -4,7 +4,7 @@ date: 2017-01-01
 publication: "*NeuroImage*"
 doi: "10.1016/j.neuroimage.2017.07.059"
 authors:
-  - "admin"
+  - admin
   - "Rudra P.K. Poudel"
   - "Dimosthenis Tsagkrasoulis"
   - "Matthan W.A. Caan"

@@ -7,7 +7,7 @@ authors:
   - "Marius de Groot"
   - "Matthew J. Kempton"
   - "Steven C. R. Williams"
-  - "admin"
+  - admin
 ---
 
 **Authors:** Jennifer G. Cox, Marius de Groot, Matthew J. Kempton, Steven C. R. Williams, admin

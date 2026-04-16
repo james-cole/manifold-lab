@@ -7,7 +7,7 @@ authors:
   - "Sophie A. Martin"
   - "Florence J. Townend"
   - "Frederik Barkhof"
-  - "admin"
+  - admin
 ---
 
 **Authors:** Sophie A. Martin, Florence J. Townend, Frederik Barkhof, admin

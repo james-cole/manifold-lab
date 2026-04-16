@@ -7,7 +7,7 @@ authors:
   - "Jenessa Lancaster"
   - "Romy Lorenz"
   - "Rob Leech"
-  - "admin"
+  - admin
 ---
 
 **Authors:** Jenessa Lancaster, Romy Lorenz, Rob Leech, admin

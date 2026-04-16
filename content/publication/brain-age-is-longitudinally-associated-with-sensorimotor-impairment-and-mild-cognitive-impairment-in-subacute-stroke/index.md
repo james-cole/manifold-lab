@@ -8,7 +8,7 @@ authors:
   - "Stuti Chakraborty"
   - "Michael R. Borich"
   - "Mayerly Castillo"
-  - "admin"
+  - admin
   - "Steven C. Cramer"
   - "Miranda R. Donnelly"
   - "Emily E. Fokas"

@@ -4,7 +4,7 @@ date: 2018-01-01
 publication: "*BioEssays*"
 doi: "10.1002/bies.201700221"
 authors:
-  - "admin"
+  - admin
 ---
 
 **Authors:** admin

@@ -9,7 +9,7 @@ authors:
   - "Mechteld E. Giesen"
   - "Ellert R.S. Nijenhuis"
   - "Nel Draijer"
-  - "admin"
+  - admin
   - "Paola Dazzan"
   - "Carmine M. Pariante"
   - "Sarah K. Madsen"

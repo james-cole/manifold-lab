@@ -8,7 +8,7 @@ authors:
   - "Fruhling Rijsdijk"
   - "Timothea Toulopoulou"
   - "Christopher Chaddock"
-  - "admin"
+  - admin
   - "Ulrich Ettinger"
   - "Ana Oses"
   - "Hugo Metcalfe"

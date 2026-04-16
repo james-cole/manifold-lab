@@ -5,7 +5,7 @@ publication: "*NeuroImage: Clinical*"
 doi: "10.1016/j.nicl.2019.101664"
 authors:
   - "Adriana M. Azor"
-  - "admin"
+  - admin
   - "Anthony J. Holland"
   - "Maureen Dumba"
   - "Maneesh C. Patel"

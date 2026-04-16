@@ -5,7 +5,7 @@ doi: "10.1101/2022.04.27.489791"
 authors:
   - "Sook-Lei Liew"
   - "Nicolas Schweighofer"
-  - "admin"
+  - admin
   - "Artemis Zavaliangos-Petropulu"
   - "Bethany P. Lo"
   - "Laura K.M. Han"

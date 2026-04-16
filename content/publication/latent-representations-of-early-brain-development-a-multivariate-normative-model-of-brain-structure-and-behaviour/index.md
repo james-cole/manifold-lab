@@ -10,7 +10,7 @@ authors:
   - "Sean Deoni"
   - "Andre Marquand"
   - "Muriel M.K. Bruchhage"
-  - "admin"
+  - admin
 ---
 
 **Authors:** Mariam Zabihi, Francesca Biondo, Jonathan O’Muircheartaigh, Thomas Wolfers, Sean Deoni, Andre Marquand, Muriel M.K. Bruchhage, admin

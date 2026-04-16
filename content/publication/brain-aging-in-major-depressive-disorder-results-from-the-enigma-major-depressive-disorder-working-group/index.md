@@ -148,7 +148,7 @@ authors:
   - "Dick J. Veltman"
   - "Brenda W. J. H. Penninx"
   - "Andre F. Marquand"
-  - "admin"
+  - admin
   - "Lianne Schmaal"
 ---
 

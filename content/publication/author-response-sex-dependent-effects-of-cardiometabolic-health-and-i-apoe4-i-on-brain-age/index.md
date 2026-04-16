@@ -7,7 +7,7 @@ publication: "*Neurology*"
 doi: "10.1212/wnl.0000000000210221"
 authors:
   - "Sivaniya Subramaniapillai"
-  - "admin"
+  - admin
   - "Ann-Marie G. de Lange"
 ---
 

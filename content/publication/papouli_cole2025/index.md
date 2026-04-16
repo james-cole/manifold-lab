@@ -1,6 +1,6 @@
 ---
 title: 'Brain age prediction from MRI scans in neurodegenerative diseases'
-authors: ['anthi_papouli', 'admin']
+authors: ['anthi_papouli', admin]
 author_notes: ''
 date: '2025-08-01T00:00:00Z'
 doi: '10.1097/WCO.0000000000001383'

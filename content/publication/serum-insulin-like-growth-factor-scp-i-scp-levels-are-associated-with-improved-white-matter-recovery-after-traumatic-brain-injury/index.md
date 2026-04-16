@@ -8,7 +8,7 @@ authors:
   - "David J. Sharp"
   - "Peter J. Hellyer"
   - "Amy E. Jolly"
-  - "admin"
+  - admin
   - "Gregory Scott"
   - "David Baxter"
   - "Sagar Jilka"

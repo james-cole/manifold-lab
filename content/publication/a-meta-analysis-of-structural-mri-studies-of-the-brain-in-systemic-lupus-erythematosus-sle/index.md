@@ -6,7 +6,7 @@ doi: "10.1007/s10067-022-06482-8"
 authors:
   - "Jennifer G. Cox"
   - "Marius de Groot"
-  - "admin"
+  - admin
   - "Steven C. R. Williams"
   - "Matthew J. Kempton"
 ---

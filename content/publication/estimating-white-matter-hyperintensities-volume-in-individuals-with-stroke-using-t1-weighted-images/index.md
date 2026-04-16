@@ -10,7 +10,7 @@ authors:
   - "Mohamed Salah Khlif"
   - "Amy Brodtmann"
   - "Michael R. Borich"
-  - "admin"
+  - admin
   - "Steven C. Cramer"
   - "Niko H. Fullmer"
   - "Jeanette R. Gumarang"

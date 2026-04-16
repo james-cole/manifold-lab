@@ -8,7 +8,7 @@ authors:
   - "Melis Anatürk"
   - "Sana Suri"
   - "Tobias Kaufmann"
-  - "admin"
+  - admin
   - "Ludovica Griffanti"
   - "Enikő Zsoldos"
   - "Daria E.A. Jensen"

@@ -6,7 +6,7 @@ doi: "10.1212/wnl.0000000000207219"
 authors:
   - "Sook-Lei Liew"
   - "Nicolas Schweighofer"
-  - "admin"
+  - admin
   - "Artemis Zavaliangos-Petropulu"
   - "Bethany P. Tavenner"
   - "Laura K.M. Han"

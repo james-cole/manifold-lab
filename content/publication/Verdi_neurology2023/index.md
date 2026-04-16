@@ -1,6 +1,6 @@
 ---
 title: 'Revealing Individual Neuroanatomical Heterogeneity in Alzheimer Disease Using Neuroanatomical Normative Modeling'
-authors: ['serena_verdi', 'admin']
+authors: ['serena_verdi', admin]
 author_notes: ''
 date: '2023-05-01T00:00:00Z'
 doi: 'https://doi.org/10.1212/WNL.0000000000207298'

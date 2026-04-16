@@ -4,7 +4,7 @@ date: 2018-01-01
 publication: "*Wellcome Open Research*"
 doi: "10.12688/wellcomeopenres.14918.1"
 authors:
-  - "admin"
+  - admin
   - "Romy Lorenz"
   - "Fatemeh Geranmayeh"
   - "Tobias Wood"

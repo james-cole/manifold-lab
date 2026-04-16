@@ -4,7 +4,7 @@ date: 2020-01-01
 publication: "*Neurobiology of Aging*"
 doi: "10.1016/j.neurobiolaging.2020.03.014"
 authors:
-  - "admin"
+  - admin
 ---
 
 **Authors:** admin

@@ -4,7 +4,7 @@ date: 2017-01-01
 publication: "*Neurology*"
 doi: "10.1212/wnl.0000000000003790"
 authors:
-  - "admin"
+  - admin
   - "Jonathan Underwood"
   - "Matthan W.A. Caan"
   - "Davide De Francesco"

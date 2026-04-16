@@ -5,7 +5,7 @@ publication: "*NeuroImage: Clinical*"
 doi: "10.1016/j.nicl.2020.102229"
 authors:
   - "Ann-Marie G. de Lange"
-  - "admin"
+  - admin
 ---
 
 **Authors:** Ann-Marie G. de Lange, admin

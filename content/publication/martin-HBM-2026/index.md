@@ -1,6 +1,6 @@
 ---
 title: 'Investigating the Utility of Explainable Artificial Intelligence for Neuroimaging-Based Dementia Diagnosis and Prognosis'
-authors: ['sophie_martin', An Zhao, 'jiongqi_qu', Phoebe Imms, Andrei Irimia, Frederik Barkhof, 'admin']
+authors: ['sophie_martin', An Zhao, 'jiongqi_qu', Phoebe Imms, Andrei Irimia, Frederik Barkhof, admin]
 author_notes: ''
 date: '2026-02-02T00:00:00Z'
 doi: 'https://doi.org/10.1002/hbm.70456'

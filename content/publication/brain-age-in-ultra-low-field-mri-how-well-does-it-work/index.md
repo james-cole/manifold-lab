@@ -11,7 +11,7 @@ authors:
   - "David A. Wood"
   - "Juan Eugenio Iglesias"
   - "František Váša"
-  - "admin"
+  - admin
 tags:
   - selected
 ---

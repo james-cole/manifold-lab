@@ -4,7 +4,7 @@ date: 2020-01-01
 publication: "*Annals of Neurology*"
 doi: "10.1002/ana.25746"
 authors:
-  - "admin"
+  - admin
   - "Joel Raffel"
   - "Tim Friede"
   - "Arman Eshaghi"

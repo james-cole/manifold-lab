@@ -16,7 +16,7 @@ authors:
   - "Naveen Gadapa"
   - "Gareth Barker"
   - "Sebastian Ourselin"
-  - "admin"
+  - admin
   - "Thomas C. Booth"
 ---
 

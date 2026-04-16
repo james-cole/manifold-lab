@@ -7,7 +7,7 @@ authors:
   - "Béla Weiss"
   - "Attila Keresztes"
   - "Petra Hermann"
-  - "admin"
+  - admin
   - "Zoltán Vidnyánszky"
 ---
 

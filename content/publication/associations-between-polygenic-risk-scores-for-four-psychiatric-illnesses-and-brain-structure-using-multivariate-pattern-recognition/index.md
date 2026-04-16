@@ -7,7 +7,7 @@ authors:
   - "Siri Ranlund"
   - "Maria Joao Rosa"
   - "Simone de Jong"
-  - "admin"
+  - admin
   - "Marinos Kyriakopoulos"
   - "Cynthia H.Y. Fu"
   - "Mitul A. Mehta"

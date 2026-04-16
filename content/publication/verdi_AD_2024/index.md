@@ -1,6 +1,6 @@
 ---
 title: 'Personalizing progressive changes to brain structure in Alzheimers disease using normative modeling'
-authors: ['serena_verdi', 'admin']
+authors: ['serena_verdi', admin]
 author_notes: ''
 date: '2024-09-05T00:00:00Z'
 doi: '10.1002/alz.14174'

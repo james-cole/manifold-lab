@@ -6,7 +6,7 @@ doi: "10.3389/fnagi.2021.691691"
 authors:
   - "Janelle T. Foret"
   - "Maria Dekhtyar"
-  - "admin"
+  - admin
   - "Drew D. Gourley"
   - "Marie Caillaud"
   - "Hirofumi Tanaka"

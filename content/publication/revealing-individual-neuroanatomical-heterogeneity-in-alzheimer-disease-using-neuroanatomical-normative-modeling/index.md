@@ -10,5 +10,5 @@ authors:
   - "Duygu Tosun"
   - "Jonathan M. Schott"
   - "Andre F. Marquand"
-  - "admin"
+  - admin
 ---

@@ -9,7 +9,7 @@ authors:
   - "Duygu Tosun"
   - "Jonathan M. Schott"
   - "Andre F. Marquand"
-  - "admin"
+  - admin
 ---
 
 **Authors:** Serena Verdi, Seyed Mostafa Kia, Keir Yong, Duygu Tosun, Jonathan M. Schott, Andre F. Marquand, admin

@@ -5,7 +5,7 @@ publication: "*Clinical Infectious Diseases*"
 doi: "10.1093/cid/cix301"
 authors:
   - "Jonathan Underwood"
-  - "admin"
+  - admin
   - "Matthan Caan"
   - "Davide De Francesco"
   - "Robert Leech"

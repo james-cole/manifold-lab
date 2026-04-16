@@ -4,7 +4,7 @@ date: 2022-01-01
 doi: "10.1101/2022.01.19.476615"
 authors:
   - "Harriet Hobday"
-  - "admin"
+  - admin
   - "Ryan A. Stanyard"
   - "Richard E. Daws"
   - "Vincent Giampietro"

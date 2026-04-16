@@ -7,7 +7,7 @@ authors:
   - "Anna E. Fürtjes"
   - "Ryan Arathimos"
   - "Jonathan R. I. Coleman"
-  - "admin"
+  - admin
   - "Simon R. Cox"
   - "Ian J. Deary"
   - "Javier de la Fuente"

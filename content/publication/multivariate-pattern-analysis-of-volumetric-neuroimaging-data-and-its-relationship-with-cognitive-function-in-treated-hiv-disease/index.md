@@ -5,7 +5,7 @@ publication: "*JAIDS Journal of Acquired Immune Deficiency Syndromes*"
 doi: "10.1097/qai.0000000000001687"
 authors:
   - "Jonathan Underwood"
-  - "admin"
+  - admin
   - "Robert Leech"
   - "David J. Sharp"
   - "Alan Winston"

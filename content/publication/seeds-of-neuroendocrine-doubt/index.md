@@ -6,7 +6,7 @@ doi: "10.1038/nature18602"
 authors:
   - "Claire Feeney"
   - "Gregory P. Scott"
-  - "admin"
+  - admin
   - "Magdalena Sastre"
   - "Anthony P. Goldstone"
   - "Robert Leech"

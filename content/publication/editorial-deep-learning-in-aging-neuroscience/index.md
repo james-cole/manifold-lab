@@ -7,7 +7,7 @@ authors:
   - "Javier Ramírez"
   - "Juan M. Górriz"
   - "Andrés Ortiz"
-  - "admin"
+  - admin
   - "Martin Dyrba"
 ---
 

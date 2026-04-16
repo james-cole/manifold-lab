@@ -6,7 +6,7 @@ doi: "10.1097/qad.0000000000001910"
 authors:
   - "Srishti Chhabra"
   - "Jonathan Underwood"
-  - "admin"
+  - admin
   - "Matthan Caan"
   - "Adam Waldman"
   - "Peter Reiss"

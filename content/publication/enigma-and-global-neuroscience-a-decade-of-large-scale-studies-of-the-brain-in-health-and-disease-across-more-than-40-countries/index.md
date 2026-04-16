@@ -91,7 +91,7 @@ authors:
   - "Karen Caeyenberghs"
   - "Charlotte A. M. Cecil"
   - "Ronald A. Cohen"
-  - "admin"
+  - admin
   - "Patricia J. Conrod"
   - "Stephane A. De Brito"
   - "Sonja M. C. de Zwarte"

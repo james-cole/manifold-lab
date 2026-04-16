@@ -6,7 +6,7 @@ authors:
   - "Sebastian G. Popescu"
   - "Ben Glocker"
   - "David J. Sharp"
-  - "admin"
+  - admin
 ---
 
 **Authors:** Sebastian G. Popescu, Ben Glocker, David J. Sharp, admin

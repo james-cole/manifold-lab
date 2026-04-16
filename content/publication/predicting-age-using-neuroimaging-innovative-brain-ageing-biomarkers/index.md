@@ -4,7 +4,7 @@ date: 2017-01-01
 publication: "*Trends in Neurosciences*"
 doi: "10.1016/j.tins.2017.10.001"
 authors:
-  - "admin"
+  - admin
   - "Katja Franke"
 ---
 
