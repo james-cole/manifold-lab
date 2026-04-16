@@ -17,7 +17,7 @@ authors:
   - "S Rutherford"
   - "AF Marquand"
   - "RS Weil"
-  - "JH Cole"
+  - admin
  
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
