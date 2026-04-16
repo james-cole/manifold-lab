@@ -1,0 +1,32 @@
+name: Fix Author Names
+
+on:
+  workflow_dispatch: # Allows you to run this manually from the "Actions" tab
+
+jobs:
+  replace-names:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Replace James H. Cole with admin
+        run: |
+          # This find command targets only index.md files in the publication folder
+          # It replaces "James H. Cole" with "admin"
+          find content/publication -name "index.md" -exec sed -i 's/James H. Cole/admin/g' {} +
+          
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Only commit if there are actually changes to avoid errors
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add content/publication/**/index.md
+            git commit -m "Cleanup: Replaced 'James H. Cole' with 'admin' in publications"
+            git push
+          else
+            echo "No changes detected."
+          fi
+          
