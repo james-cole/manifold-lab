@@ -1,5 +1,5 @@
 # data/author_names.yaml
 
-"J.H. Cole": "admin"
-"james-cole": "admin"
-"James Cole": "admin"  # Adding this as a safety measure
+"J.H. Cole": admin
+"james-cole": admin
+"James Cole": admin  # Adding this as a safety measure
