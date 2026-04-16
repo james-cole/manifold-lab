@@ -18,6 +18,7 @@ jobs:
         run: |
           # 1. Target quoted variations first to avoid leaving stray quotes
           find content/publication -name "*.md" -exec sed -i 's/"J.H. Cole"/admin/g' {} +
+          find content/publication -name "*.md" -exec sed -i 's/"James H. Cole"/admin/g' {} +
           find content/publication -name "*.md" -exec sed -i 's/"James-Cole"/admin/g' {} +
           find content/publication -name "*.md" -exec sed -i 's/"james-cole"/admin/g' {} +
           find content/publication -name "*.md" -exec sed -i 's/"James Cole"/admin/g' {} +
