@@ -37,6 +37,7 @@ jobs:
               "james h cole": "admin",
               "cole, james h": "admin",
               "j. h. cole": "admin",
+              "james h. cole": "admin",
               "james cole": "admin",
               "j.h. cole": "admin",
               "james-cole": "admin",
@@ -124,6 +125,7 @@ jobs:
       - name: Normalize Author Names
         run: |
           find content/publication -name "*.md" -exec sed -i 's/"J.H. Cole"/admin/g' {} +
+          find content/publication -name "*.md" -exec sed -i 's/"James H. Cole"/admin/g' {} +
           find content/publication -name "*.md" -exec sed -i 's/J.H. Cole/admin/g' {} +
           find content/publication -name "*.md" -exec sed -i 's/James-Cole/admin/g' {} +
           find content/publication -name "*.md" -exec sed -i 's/james-cole/admin/g' {} +
