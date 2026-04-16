@@ -1,0 +1,10 @@
+# data/fonts/fresh_titles.yaml
+name: FreshTitles
+
+# Google Font names
+google_fonts: Inter:400,700|Roboto:400,400i,700
+
+# Font families
+heading_font: Inter
+body_font: Roboto
+nav_font: Inter
