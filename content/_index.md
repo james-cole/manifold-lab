@@ -178,11 +178,11 @@ sections:
     content:
       title: Publications
       text: Explore our full list of machine learning and neuroimaging research.
-        button:
-          label: View All Publications
-          url: 'publication/'
-          icon_pack: fas
-          icon: book-open
+      button:
+        label: View All Publications
+        url: 'publication/'
+        icon_pack: fas
+        icon: book-open
       design:
         background:
           color: '#f7f7f7'
