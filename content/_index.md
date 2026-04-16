@@ -127,19 +127,19 @@ sections:
       view: citation
       columns: "2"
     
-- block: cta
-  content:
-      title: Research & Publications
-      text: Explore the full list of MANIFOLD Lab publications and preprints.
-      button:
-        label: View All Publications
-        url: 'publication/'
-        icon_pack: fas
-        icon: book-open
-  design:
-      background:
-        color: '#0056b3'
-        text_color_light: true
+  - block: cta
+    content:
+        title: Research & Publications
+        text: Explore the full list of MANIFOLD Lab publications and preprints.
+        button:
+          label: View All Publications
+          url: 'publication/'
+          icon_pack: fas
+          icon: book-open
+    design:
+        background:
+          color: '#0056b3'
+          text_color_light: true
 
   - block: tag_cloud
     content: 
