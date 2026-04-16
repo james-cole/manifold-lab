@@ -126,20 +126,6 @@ sections:
     design:
       view: citation
       columns: "2"
-  
-  - block: cta
-      content:
-        title: Research & Publications
-        text: Explore our full list of publications, preprints, and conference papers.
-        button:
-          label: View All Publications
-          url: 'publication/'
-      design:
-        background:
-          # Optional: Add a light grey background to make it stand out
-          color: '#f7f7f7'
-        spacing:
-          padding: ['20px', '0', '20px', '0']
 
   - block: tag_cloud
     content: 
