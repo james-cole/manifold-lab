@@ -6,7 +6,7 @@ doi: "10.1016/j.ynirp.2025.100252"
 authors:
   - "Lonneke Bos"
   - "David R. van Nederpelt"
-  - "J.H. Cole"
+  - J.H. Cole
   - "E.M.M. Strijbis"
   - "B. Moraal"
   - "J.P.A. Kuijer"
