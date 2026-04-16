@@ -127,19 +127,16 @@ sections:
       view: citation
       columns: "2"
     
-  - block: cta
+  - block: markdown
     content:
-        title: Research & Publications
-        text: Explore the full list of MANIFOLD Lab publications and preprints.
-        button:
-          label: View All Publications
-          url: 'publication/'
-          icon_pack: fas
-          icon: book-open
+      title: Research & Publications
+      subtitle: ''
+      text: |
+        Explore our full list of machine learning and neuroimaging research.
+
+        [View All Publications →](publication/)
     design:
-        background:
-          color: '#0056b3'
-          text_color_light: true
+      columns: '1'
 
   - block: tag_cloud
     content: 
