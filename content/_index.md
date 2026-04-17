@@ -14,7 +14,9 @@ sections:
         filename: 'MANIFOLD_logo_full.jpg'
       text: |
 
-        <center>{{< figure library="true" src="MANIFOLD_logo_full.png" title="" alt="MANIFOLD logo" width=600 >}}</center>
+        <!-- <center>{{< figure library="true" src="MANIFOLD_logo_full.png" title="" alt="MANIFOLD logo" width=600 >}}</center> -->
+        <center>{{< figure library="true" src="MANIFOLD_logo_full_background_removed.png" title="" alt="MANIFOLD logo" width=600 >}}</center>
+    
 
         ## {{< icon name="question-circle" pack="far" >}} About the lab
         Welcome to the website of the Machine-learning Artificial Intelligence Neuro Imaging Focusing on Longevity & Dementia (MANIFOLD) Laboratory. We are based at University College London, part of the [UCL Hawkes Institute](https://www.ucl.ac.uk/hawkes-institute), formerly the Centre for Medical Image Computing (CMIC), and the [Dementia Research Centre (DRC)](https://www.ucl.ac.uk/drc/) at the Queen Square Institute of Neurology.
