@@ -1,12 +1,13 @@
-:root {
-  /* Body text */
-  --hb-font-body: "Inter";
+/* =========================================================
+   Typography overrides for Hugo Blox v5.9 (minimal theme)
+   ========================================================= */
 
-  /* Headings */
-  --hb-font-heading: "Source Serif 4";
+/* Body text: Inter */
+body {
+  font-family: "Inter", sans-serif;
 }
 
-/* Force serif font for headings */
+/* Headings: Source Serif 4 */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Source Serif 4", serif;
 }
