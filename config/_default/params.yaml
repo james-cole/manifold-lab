@@ -7,9 +7,9 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: inter
-  font_body: inter
-  font_heading: inter
+  font:
+    body: inter
+    heading: inter
 
 # SEO
 marketing:
