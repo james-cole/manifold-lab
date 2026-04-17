@@ -58,7 +58,7 @@ sections:
 
         For short-term internships (whether remote or in person), unfortunately we are unable to support these outside of a formal accredited scheme.
 
-         <i class="fas fa-globe"></i> Research visitors. We are open to hosting visiting research from academic institutions around the world. 
+         {{< icon name="globe" pack="fas" >}} Research visitors. We are open to hosting visiting research from academic institutions around the world. 
 
   - block: features
     content:
