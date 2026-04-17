@@ -81,7 +81,8 @@ article,
 }
 
 /* =========================================================
-   Dark mode – high readability, low glare
+   Dark mode – force consistent dark surfaces
+   Hugo Blox v5.9 (minimal theme)
    ========================================================= */
 
 @media (prefers-color-scheme: dark) {
@@ -89,17 +90,43 @@ article,
   /* Base page */
   body {
     background-color: #121212;
-    color: #dcdcdc;
+    color: #d6d6d6;
   }
 
-  /* Headings – slightly brighter, not pure white */
+  /* Force all major layout containers dark */
+  body,
+  .home-section,
+  .container,
+  .section-content,
+  .wg-hero,
+  .wg-people,
+  .wg-projects,
+  .wg-news,
+  .wg-pages,
+  .wg-portfolio {
+    background-color: #121212 !important;
+  }
+
+  /* Alternating sections */
+  .home-section:nth-child(even) {
+    background-color: #161616 !important;
+  }
+
+  /* Cards */
+  .card {
+    background-color: #1a1a1a !important;
+    border: 1px solid #2a2a2a;
+  }
+
+  /* Headings */
   h1, h2, h3, h4, h5, h6 {
     color: #f0f0f0;
   }
 
-  /* General text */
+  /* Body text */
   p,
   li,
+  span,
   .wg-hero p {
     color: #d0d0d0;
   }
@@ -115,23 +142,7 @@ article,
 
   /* Navigation */
   .navbar {
-    background-color: #121212;
+    background-color: #121212 !important;
     border-bottom: 1px solid #2a2a2a;
-  }
-
-  /* Cards (people, publications, etc.) */
-  .card {
-    background-color: #1a1a1a;
-    border: 1px solid #2a2a2a;
-  }
-
-  /* Homepage sections */
-  .home-section {
-    background-color: #121212;
-  }
-
-  /* Alternating sections – still darker than text */
-  .home-section:nth-child(even) {
-    background-color: #161616;
   }
 }
