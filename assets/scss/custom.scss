@@ -81,68 +81,20 @@ article,
 }
 
 /* =========================================================
-   Dark mode – force consistent dark surfaces
-   Hugo Blox v5.9 (minimal theme)
+   Dark mode – override Hugo Blox theme colour variables
+   (required for home-section-bg)
    ========================================================= */
 
 @media (prefers-color-scheme: dark) {
 
-  /* Base page */
-  body {
-    background-color: #121212;
-    color: #d6d6d6;
-  }
-
-  /* Force all major layout containers dark */
-  body,
-  .home-section,
-  .container,
-  .section-content,
-  .wg-hero,
-  .wg-people,
-  .wg-projects,
-  .wg-news,
-  .wg-pages,
-  .wg-portfolio {
-    background-color: #121212 !important;
-  }
-
-  /* Alternating sections */
-  .home-section:nth-child(even) {
-    background-color: #161616 !important;
-  }
-
-  /* Cards */
-  .card {
-    background-color: #1a1a1a !important;
-    border: 1px solid #2a2a2a;
-  }
-
-  /* Headings */
-  h1, h2, h3, h4, h5, h6 {
-    color: #f0f0f0;
-  }
-
-  /* Body text */
-  p,
-  li,
-  span,
-  .wg-hero p {
-    color: #d0d0d0;
-  }
-
-  /* Links */
-  a {
-    color: #8ab4f8;
-  }
-
-  a:hover {
-    color: #aecbfa;
-  }
-
-  /* Navigation */
-  .navbar {
-    background-color: #121212 !important;
-    border-bottom: 1px solid #2a2a2a;
+  :root {
+    --color-background: #121212;
+    --color-background-alt: #161616;
+    --color-border: #2a2a2a;
+    --color-text: #d6d6d6;
+    --color-text-light: #d0d0d0;
+    --color-heading: #f0f0f0;
+    --color-link: #8ab4f8;
+    --color-link-hover: #aecbfa;
   }
 }
