@@ -3,8 +3,8 @@ title: "Latent Representations of Early Brain Development: A Multivariate Normat
 date: 2025-01-01
 doi: "10.1101/2025.08.14.668769"
 authors:
-  - "Mariam Zabihi"
-  - francesca-biondo
+  - mariam_zabihi
+  - francesca_biondo
   - "Jonathan O’Muircheartaigh"
   - "Thomas Wolfers"
   - "Sean Deoni"
