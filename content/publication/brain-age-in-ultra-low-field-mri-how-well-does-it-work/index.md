@@ -5,7 +5,7 @@ doi: "10.1101/2025.10.19.25338298"
 authors:
   - francesca_biondo
   - "Carly Bennallick"
-  - "Sophie A. Martin"
+  - sophie_martin
   - "Lemuel Puglisi"
   - "Thomas C. Booth"
   - "David A. Wood"
