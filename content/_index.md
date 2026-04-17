@@ -52,11 +52,13 @@ sections:
     content:
       title: "Interested in joining the lab?"
       text: |
-        As of April 2026, there are no open vacancies in the lab. For potential PhD students, we recommend exploring UCL's Centres for Doctoral Training (CDTs) or Doctoral training programs (DTPs). More information can be found [here](https://www.ucl.ac.uk/study/prospective-students/graduate/funded-research-opportunities). Funded PhD opportunities would routinely be advertised on www.findaphd.com and we do not accept self-funded students.
+        As of April 2026, there are no vacancies in the lab. For potential PhD students, we recommend exploring UCL's Centres for Doctoral Training (CDTs) or Doctoral Training Programs (DTPs). More information [here](https://www.ucl.ac.uk/study/prospective-students/graduate/funded-research-opportunities). Funded PhD opportunities would typically be advertised on www.findaphd.com and we do not accept self-funded students.
 
         For Research Fellow roles and similar post-doctoral positions, we would advertise on the [UCL recruitment page](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs) and on www.jobs.ac.uk.
 
-        For short-term internships (whether remote or in person), unfortunately we are unable to support these outside of a formal accredited scheme. 
+        For short-term internships (whether remote or in person), unfortunately we are unable to support these outside of a formal accredited scheme.
+
+         <i class="fas fa-globe"></i> Research visitors. We are open to hosting visiting research from academic institutions around the world. 
 
   - block: features
     content:
