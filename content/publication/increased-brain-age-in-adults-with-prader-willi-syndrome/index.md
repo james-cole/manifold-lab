@@ -14,6 +14,6 @@ authors:
   - "Katherine E. Manning"
 ---
 
-**Authors:** Adriana M. Azor, admin, Anthony J. Holland, Maureen Dumba, Maneesh C. Patel, Angelique Sadlon, Anthony P. Goldstone, Katherine E. Manning
+**Authors:** Adriana M. Azor, James H. Cole, Anthony J. Holland, Maureen Dumba, Maneesh C. Patel, Angelique Sadlon, Anthony P. Goldstone, Katherine E. Manning
 
 **DOI:** https://doi.org/10.1016/j.nicl.2019.101664

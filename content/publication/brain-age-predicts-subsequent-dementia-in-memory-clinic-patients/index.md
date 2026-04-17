@@ -12,6 +12,6 @@ authors:
   - admin
 ---
 
-**Authors:** Francesca Biondo, Amelia Jewell, Megan Pritchard, Dag Aarsland, Claire J. Steves, Christoph Mueller, admin
+**Authors:** Francesca Biondo, Amelia Jewell, Megan Pritchard, Dag Aarsland, Claire J. Steves, Christoph Mueller, James H Cole
 
 **DOI:** https://doi.org/10.1101/2021.04.03.21254781

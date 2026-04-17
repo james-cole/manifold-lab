@@ -16,6 +16,6 @@ authors:
   - "Martina T. Mitterschiffthaler"
 ---
 
-**Authors:** admin, Arthur W. Toga, Cornelius Hojatkashani, Paul Thompson, Sergi G. Costafreda, Anthony J. Cleare, Steven C.R. Williams, Edward T. Bullmore, Jan L. Scott, Martina T. Mitterschiffthaler
+**Authors:** James H. Cole, Arthur W. Toga, Cornelius Hojatkashani, Paul Thompson, Sergi G. Costafreda, Anthony J. Cleare, Steven C.R. Williams, Edward T. Bullmore, Jan L. Scott, Martina T. Mitterschiffthaler
 
 **DOI:** https://doi.org/10.1016/j.jad.2010.03.004

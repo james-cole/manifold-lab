@@ -10,6 +10,6 @@ authors:
   - "Ian J. Deary"
 ---
 
-**Authors:** admin, Riccardo E. Marioni, Sarah E. Harris, Ian J. Deary
+**Authors:** James H Cole, Riccardo E. Marioni, Sarah E. Harris, Ian J. Deary
 
 **DOI:** https://doi.org/10.1038/s41380-018-0098-1

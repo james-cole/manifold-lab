@@ -6,6 +6,6 @@ authors:
   - admin
 ---
 
-**Authors:** admin
+**Authors:** James H. Cole
 
 **DOI:** https://doi.org/10.5281/zenodo.1346292
