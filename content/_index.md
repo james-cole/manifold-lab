@@ -92,6 +92,7 @@ sections:
     text: |
       As of April 2026, there are no open vacancies in the lab. For potential PhD studentships, we recommend exploring UCL's Centres for Doctoral Training (CDTs) or Doctoral training programs (DTPs). More information can be found here: https://www.ucl.ac.uk/study/prospective-students/graduate/funded-research-opportunities. Opportunities would routinely be advertised on www.findaphd.com. For Research Fellow roles and similar post-doctoral positions, we would advertise on the UCL recruitment page here: https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs and on www.jobs.ac.uk. For short-term internships (whether remote or in person), unfortunately we are unable to support these outside of a formal accredited scheme. 
 
+
   - block: portfolio
     id: project
     content:
