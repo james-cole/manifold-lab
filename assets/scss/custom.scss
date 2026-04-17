@@ -1,10 +1,84 @@
-/* Typography override: Inter everywhere
-   Hugo Blox v5.9 + minimal theme */
+/* =========================================================
+   MANIFOLD Lab website – subtle visual refresh
+   Hugo Blox v5.9 + minimal theme
+   All changes are cosmetic and reversible
+   ========================================================= */
+
+/* ---------------------------------------------------------
+   Typography: Inter everywhere
+   (Overrides minimal theme's default Helvetica)
+   --------------------------------------------------------- */
 
 body {
   font-family: "Inter", sans-serif;
+  color: #222; /* slightly softer than pure black */
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Inter", sans-serif;
+}
+
+/* Slight refinement to heading appearance */
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+}
+
+/* ---------------------------------------------------------
+   Layout: improve readability and breathing room
+   --------------------------------------------------------- */
+
+/* Increase vertical spacing between homepage sections */
+.home-section {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+/* Constrain line length for long-form readability */
+article,
+.section-content {
+  max-width: 72ch;
+}
+
+/* ---------------------------------------------------------
+   Homepage hero: subtle emphasis (no redesign)
+   --------------------------------------------------------- */
+
+.wg-hero h1 {
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.wg-hero p {
+  font-size: 1.15rem;
+  color: #444;
+}
+
+/* ---------------------------------------------------------
+   Cards (People / Publications): quieter, more journal-like
+   --------------------------------------------------------- */
+
+.card {
+  box-shadow: none;
+  border: 1px solid #eee;
+}
+
+/* ---------------------------------------------------------
+   Navigation: understated polish
+   --------------------------------------------------------- */
+
+.navbar {
+  border-bottom: 1px solid #eee;
+}
+
+.navbar a {
+  font-weight: 500;
+}
+
+/* ---------------------------------------------------------
+   Optional structure cue: alternating section backgrounds
+   Comment this block out if you prefer a flat page
+   --------------------------------------------------------- */
+
+.home-section:nth-child(even) {
+  background-color: #fafafa;
 }
