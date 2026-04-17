@@ -5,3 +5,8 @@
   /* Headings */
   --hb-font-heading: "Source Serif 4";
 }
+
+/* Force serif font for headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Source Serif 4", serif;
+}
