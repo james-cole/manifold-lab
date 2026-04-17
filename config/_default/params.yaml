@@ -8,6 +8,8 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: inter
+  font_body: inter
+  font_heading: inter
 
 # SEO
 marketing:
