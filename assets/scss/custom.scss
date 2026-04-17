@@ -81,25 +81,23 @@ article,
 }
 
 /* =========================================================
-   Dark mode
-   ---------------------------------------------------------
-   Uses system preference or Hugo Blox night theme
-   Comment out this whole block to disable dark mode
+   Dark mode – high readability, low glare
    ========================================================= */
 
 @media (prefers-color-scheme: dark) {
 
+  /* Base page */
   body {
     background-color: #121212;
-    color: #e6e6e6;
+    color: #dcdcdc;
   }
 
-  /* Headings */
+  /* Headings – slightly brighter, not pure white */
   h1, h2, h3, h4, h5, h6 {
     color: #f0f0f0;
   }
 
-  /* Muted secondary text */
+  /* General text */
   p,
   li,
   .wg-hero p {
@@ -115,21 +113,25 @@ article,
     color: #aecbfa;
   }
 
-  /* Cards */
-  .card {
-    background-color: #1a1a1a;
-    border: 1px solid #2a2a2a;
-  }
-
   /* Navigation */
   .navbar {
     background-color: #121212;
     border-bottom: 1px solid #2a2a2a;
   }
 
-  /* Alternating sections */
+  /* Cards (people, publications, etc.) */
+  .card {
+    background-color: #1a1a1a;
+    border: 1px solid #2a2a2a;
+  }
+
+  /* Homepage sections */
+  .home-section {
+    background-color: #121212;
+  }
+
+  /* Alternating sections – still darker than text */
   .home-section:nth-child(even) {
     background-color: #161616;
   }
 }
-
