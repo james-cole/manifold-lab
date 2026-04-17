@@ -1,119 +1,36 @@
 /* =========================================================
-   MANIFOLD Lab website – subtle light + dark mode refresh
-   Hugo Blox v5.9 + minimal theme
-   All changes are cosmetic and reversible
+   Safe light-mode customisation (Wowchemy-compatible)
    ========================================================= */
 
-/* ---------------------------------------------------------
-   Global typography: Inter everywhere
-   --------------------------------------------------------- */
-
+/* Typography */
 body {
   font-family: "Inter", sans-serif;
   color: #222;
-  background-color: #ffffff;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Inter", sans-serif;
-}
-
-/* Slight refinement to heading appearance */
-h1, h2, h3 {
   letter-spacing: -0.01em;
 }
 
-/* ---------------------------------------------------------
-   Layout: readability and breathing room
-   --------------------------------------------------------- */
-
+/* Layout & spacing */
 .home-section {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
 
-article,
+.article-content,
 .section-content {
   max-width: 72ch;
 }
 
-/* ---------------------------------------------------------
-   Homepage hero
-   --------------------------------------------------------- */
-
-.wg-hero h1 {
-  font-weight: 700;
-  margin-bottom: 1rem;
-}
-
-.wg-hero p {
-  font-size: 1.15rem;
-  color: #444;
-}
-
-/* ---------------------------------------------------------
-   Cards (People / Publications)
-   --------------------------------------------------------- */
-
+/* Cards */
 .card {
   box-shadow: none;
-  border: 1px solid #eee;
+  border: 1px solid #eaeaea;
 }
 
-/* ---------------------------------------------------------
-   Navigation
-   --------------------------------------------------------- */
-
+/* Navigation */
 .navbar {
   border-bottom: 1px solid #eee;
 }
-
-.navbar a {
-  font-weight: 500;
-}
-
-/* ---------------------------------------------------------
-   Alternating section backgrounds (light mode)
-   --------------------------------------------------------- */
-
-.home-section:nth-child(even) {
-  background-color: #fafafa;
-}
-
-/* =========================================================
-   Dark mode – override Hugo Blox theme colour variables
-   (required for home-section-bg)
-   ========================================================= */
-
-@media (prefers-color-scheme: dark) {
-
-  :root {
-    --color-background: #121212;
-    --color-background-alt: #161616;
-    --color-border: #2a2a2a;
-    --color-text: #d6d6d6;
-    --color-text-light: #d0d0d0;
-    --color-heading: #f0f0f0;
-    --color-link: #8ab4f8;
-    --color-link-hover: #aecbfa;
-  }
-}
-
-/* =========================================================
-   FIX: Dark mode must override alternating home sections
-   (Wowchemy minimal theme specificity issue)
-   ========================================================= */
-
-@media (prefers-color-scheme: dark) {
-
-  /* Override even-section background */
-  .dark .home-section:nth-child(2n) {
-    background-color: #161616 !important;
-  }
-
-  /* Ensure odd sections are also dark */
-  .dark .home-section {
-    background-color: #121212 !important;
-  }
-}
-
