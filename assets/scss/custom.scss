@@ -1,17 +1,17 @@
 /* =========================================================
-   MANIFOLD Lab website – subtle visual refresh
+   MANIFOLD Lab website – subtle light + dark mode refresh
    Hugo Blox v5.9 + minimal theme
    All changes are cosmetic and reversible
    ========================================================= */
 
 /* ---------------------------------------------------------
-   Typography: Inter everywhere
-   (Overrides minimal theme's default Helvetica)
+   Global typography: Inter everywhere
    --------------------------------------------------------- */
 
 body {
   font-family: "Inter", sans-serif;
-  color: #222; /* slightly softer than pure black */
+  color: #222;
+  background-color: #ffffff;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -24,23 +24,21 @@ h1, h2, h3 {
 }
 
 /* ---------------------------------------------------------
-   Layout: improve readability and breathing room
+   Layout: readability and breathing room
    --------------------------------------------------------- */
 
-/* Increase vertical spacing between homepage sections */
 .home-section {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
 
-/* Constrain line length for long-form readability */
 article,
 .section-content {
   max-width: 72ch;
 }
 
 /* ---------------------------------------------------------
-   Homepage hero: subtle emphasis (no redesign)
+   Homepage hero
    --------------------------------------------------------- */
 
 .wg-hero h1 {
@@ -54,7 +52,7 @@ article,
 }
 
 /* ---------------------------------------------------------
-   Cards (People / Publications): quieter, more journal-like
+   Cards (People / Publications)
    --------------------------------------------------------- */
 
 .card {
@@ -63,7 +61,7 @@ article,
 }
 
 /* ---------------------------------------------------------
-   Navigation: understated polish
+   Navigation
    --------------------------------------------------------- */
 
 .navbar {
@@ -75,10 +73,63 @@ article,
 }
 
 /* ---------------------------------------------------------
-   Optional structure cue: alternating section backgrounds
-   Comment this block out if you prefer a flat page
+   Alternating section backgrounds (light mode)
    --------------------------------------------------------- */
 
 .home-section:nth-child(even) {
   background-color: #fafafa;
 }
+
+/* =========================================================
+   Dark mode
+   ---------------------------------------------------------
+   Uses system preference or Hugo Blox night theme
+   Comment out this whole block to disable dark mode
+   ========================================================= */
+
+@media (prefers-color-scheme: dark) {
+
+  body {
+    background-color: #121212;
+    color: #e6e6e6;
+  }
+
+  /* Headings */
+  h1, h2, h3, h4, h5, h6 {
+    color: #f0f0f0;
+  }
+
+  /* Muted secondary text */
+  p,
+  li,
+  .wg-hero p {
+    color: #d0d0d0;
+  }
+
+  /* Links */
+  a {
+    color: #8ab4f8;
+  }
+
+  a:hover {
+    color: #aecbfa;
+  }
+
+  /* Cards */
+  .card {
+    background-color: #1a1a1a;
+    border: 1px solid #2a2a2a;
+  }
+
+  /* Navigation */
+  .navbar {
+    background-color: #121212;
+    border-bottom: 1px solid #2a2a2a;
+  }
+
+  /* Alternating sections */
+  .home-section:nth-child(even) {
+    background-color: #161616;
+  }
+}
+
