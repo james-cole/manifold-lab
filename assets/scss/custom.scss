@@ -98,3 +98,22 @@ article,
     --color-link-hover: #aecbfa;
   }
 }
+
+/* =========================================================
+   FIX: Dark mode must override alternating home sections
+   (Wowchemy minimal theme specificity issue)
+   ========================================================= */
+
+@media (prefers-color-scheme: dark) {
+
+  /* Override even-section background */
+  .dark .home-section:nth-child(2n) {
+    background-color: #161616 !important;
+  }
+
+  /* Ensure odd sections are also dark */
+  .dark .home-section {
+    background-color: #121212 !important;
+  }
+}
+
