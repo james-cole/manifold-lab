@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Cognitive Neuroscience
-    institution: University of Cambridge  (MRC Cognition and Brain Sciences Unit)
+  - course: PhD in Biomedical Engineering
+    institution: Symbiosis International University  (Symbiosis Centre for Medical Image Analysis), India
     year: 2018
-  - course: MSc in Cognitive Neuroscience and Neuropsychology
-    institution: Birkbeck College and University College London
-    year: 2010
+  - course: MTech in Biomedical Engineering
+    institution: Vellore Institute of Technology (VIT), India
+    year: 2013
 
 # Projects:
 # - name: 
@@ -50,15 +50,15 @@ social:
 #- icon: researchgate
 #  icon_pack: fab
 #  link: 
-#- icon: linkedin
-#  icon_pack: fab
-#  link: 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/apoorva-safai-a1494567/
 #- icon: orcid
 #  icon_pack: ai
 #  link: 
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: 
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=t4Si2xoAAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: 
