@@ -8,7 +8,7 @@ authors: ["admin"]
 ---
 
 Dementia Awareness Day for the London Chinese Community
-On the 28th of June, Dr Jess Jiang (UCL Dementia Research Centre) and Anthi Papouli (UCL Hawkes Institute and member of the MANIFOLD lab) organised a full-day event for the local Chinese community featuring different talks and activities, all with the main goal of providing information on dementia and brain health. 
+On the 28th June 2025, Dr Jess Jiang (UCL Dementia Research Centre) and Anthi Papouli (UCL Hawkes Institute and member of the MANIFOLD lab) organised a full-day event for the local Chinese community featuring different talks and activities, all with the main goal of providing information on dementia and brain health. 
 
 The day featured the following talks:
 - ‘Introduction to Dementia’ – Dr Jess Jiang
