@@ -57,4 +57,4 @@ user_groups:
 - Visitors
 ---
 
-Sivaniya visited UCL in in 2022 and 2024.
+Emilie is visiting UCL in in 2026.
