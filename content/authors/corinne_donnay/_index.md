@@ -20,18 +20,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: 
 
-# interests:
-# - Deep Learning
-- Neuroimaging, Neurodegenerative Diseases, Clinical Translation, Radiology 
+interests:
+- Neuroimaging
+- Neurodegenerative Diseases
+- Clinical Translation
+- Radiology 
 
-# education:
-  # courses:
-  # - course: PhD in Medical Imaging
-  #  institution: University College London
-  #  year: 2025
-  # - course: MRes in Medical Imaging
-  # institution: University College London
-  # year: 2021
+education:
+  courses:
   - course: PhD in Biomedical Sciences; Clinical Neuroscience
     institution: National Institutes of Health & Oxford University
     year: 2026
