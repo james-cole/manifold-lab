@@ -11,11 +11,11 @@ sections:
       title: | 
         # Welcome to the MANIFOLD Lab
       image:
-        filename: 'MANIFOLD_logo_full.jpg'
+        filename: 'manifold_logo_2026.jpg'
       text: |
 
-        <!-- <center>{{< figure library="true" src="MANIFOLD_logo_full.png" title="" alt="MANIFOLD logo" width=600 >}}</center> -->
-        <center>{{< figure library="true" src="MANIFOLD_logo_full_background_removed.png" title="" alt="MANIFOLD logo" width=600 >}}</center>
+        <!-- <center>{{< figure library="true" src="manifold_logo_2026.png" title="" alt="MANIFOLD logo" width=600 >}}</center> -->
+        <center>{{< figure library="true" src="manifold_logo_2026.png" title="" alt="MANIFOLD logo" width=600 >}}</center>
     
 
         ## {{< icon name="question-circle" pack="far" >}} About the lab
