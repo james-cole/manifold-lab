@@ -22,7 +22,7 @@ organizations:
 
 # interests:
 # - Deep Learning
-Neuroimaging, Neurodegenerative Diseases, Clinical Translation, Radiology 
+- Neuroimaging, Neurodegenerative Diseases, Clinical Translation, Radiology 
 
 # education:
   # courses:
