@@ -163,7 +163,7 @@ sections:
     content: 
       title: Contact
       text: |
-        <center>{{< figure library="true" src="MANIFOLD_logo_small_v3.png" title="" alt="MANIFOLD logo" width=200 >}}</center>
+        <center>{{< figure library="true" src="MANIFOLD lab small logo 2026.png" title="" alt="MANIFOLD logo" width=200 >}}</center>
       email: james.cole@ucl.ac.uk
       #phone: 888 888 88 88
       address:
