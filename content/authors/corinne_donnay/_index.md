@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Corinne Donnay
+title: Corinne A. Donnay
 
 # Full Name (for SEO)
 first_name: Corinne
@@ -22,6 +22,7 @@ organizations:
 
 # interests:
 # - Deep Learning
+Neuroimaging, Neurodegenerative Diseases, Clinical Translation, Radiology 
 
 # education:
   # courses:
@@ -31,6 +32,9 @@ organizations:
   # - course: MRes in Medical Imaging
   # institution: University College London
   # year: 2021
+  - course: PhD in Biomedical Sciences; Clinical Neuroscience
+    institution: National Institutes of Health & Oxford University
+    year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
