@@ -26,7 +26,7 @@ sections:
 
         <center>{{< figure library="true" text-align="center" src="lab_beliefs_poster.png" title="" alt="Lab beliefs" width=450 >}}</center>
 
-        <center>{{< figure library="true" src="Hawkes-DRC_logo.png" title="" alt="UCL Hawkes DRC logos" width=600 >}}</center>
+        <center>{{< figure library="true" src="Hawkes-DRC_logo_2026.png" title="" alt="UCL Hawkes DRC logos" width=600 >}}</center>
 
     design:
       columns: '1'
