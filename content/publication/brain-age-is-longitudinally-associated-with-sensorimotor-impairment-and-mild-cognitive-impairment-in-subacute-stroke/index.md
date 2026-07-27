@@ -1,10 +1,9 @@
 ---
-title: "Brain Age Is Longitudinally Associated With Sensorimotor Impairment and Mild Cognitive Impairment in Subacute Stroke"
-date: 2025-01-01
-publication: "*Journal of the American Heart Association*"
-doi: "10.1161/jaha.125.041603"
+title: "Brain age is longitudinally associated with sensorimotor impairment and mild cognitive impairment in subacute stroke"
+date: 2024-01-01
+doi: "10.1101/2024.12.18.24319276"
 authors:
-  - "Octavio Marin‐Pardo"
+  - "Octavio Marin-Pardo"
   - "Mahir H. Khan"
   - "Stuti Chakraborty"
   - "Michael R. Borich"
@@ -26,5 +25,5 @@ authors:
   - "Myriam Taga"
   - "Bethany P. Tavenner"
   - "Carolee Winstein"
-  - "Sook‐Lei Liew"
+  - "Sook-Lei Liew"
 ---
