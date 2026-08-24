@@ -1,18 +1,19 @@
 ---
-title: "Prediction of brain age and cognitive age: quantifying brain and cognitive maintenance in aging"
+title: "Prediction of brain age and cognitive age: Quantifying brain and cognitive maintenance in aging"
 date: 2020-01-01
-doi: "10.31234/osf.io/gwqnt"
+publication: "*Human Brain Mapping*"
+doi: "10.1002/hbm.25316"
 authors:
-  - "Melis Anaturk"
+  - "Melis Anatürk"
   - "Tobias Kaufmann"
-  - "James Howard Cole"
+  - admin
   - "Sana Suri"
   - "Ludovica Griffanti"
   - "Enikő Zsoldos"
   - "Nicola Filippini"
-  - "Archana Singh-Manoux"
+  - "Archana Singh‐Manoux"
   - "Mika Kivimäki"
   - "Lars T. Westlye"
   - "Klaus P. Ebmeier"
-  - "Ann-Marie G de Lange"
+  - "Ann‐Marie G. de Lange"
 ---
