@@ -63,6 +63,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 Kirsten Schröder is a Research Assistant at the UCL Dementia Research Centre (DRC) and UCL Hawkes Institute.
