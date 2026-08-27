@@ -7,4 +7,4 @@ authors: ["admin"]
 
 ---
 
-For our lab away day this year, we visit Kew Gardens, and met some very interesting trees.
+For our lab away day this year, we visited the ever-impressive Kew Gardens. It was extremely hot, but we met some very interesting trees.
