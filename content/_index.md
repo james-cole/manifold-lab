@@ -52,7 +52,7 @@ sections:
     content:
       title: "Interested in joining the lab?"
       text: |
-        As of {{ now.Format "January 2006" }}, there are no vacancies in the lab. Due to the volume of enquiries, we may not be unable to respond individually to speculative applications regarding PhD or internship opportunities.
+        As _of {{ now.Format "January 2006" }}_, there are no vacancies in the lab. Due to the volume of enquiries, we may not be unable to respond individually to speculative applications regarding PhD or internship opportunities.
 
     For potential PhD students, we recommend exploring UCL's Centres for Doctoral Training (CDTs) or Doctoral Training Programs (DTPs). More information [here](https://www.ucl.ac.uk/study/prospective-students/graduate/funded-research-opportunities). Funded PhD opportunities would typically be advertised on www.findaphd.com and we do not accept self-funded students. 
 
