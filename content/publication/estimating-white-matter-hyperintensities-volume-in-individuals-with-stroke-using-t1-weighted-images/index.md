@@ -1,8 +1,7 @@
 ---
 title: "Estimating white matter hyperintensities volume in individuals with stroke using T1-weighted images"
-date: 2026-01-01
-publication: "*NeuroImage: Reports*"
-doi: "10.1016/j.ynirp.2026.100344"
+date: 2025-01-01
+doi: "10.1101/2025.10.22.25338564"
 authors:
   - "Mahir H. Khan"
   - "Stuti Chakraborty"

@@ -1,8 +1,7 @@
 ---
 title: "Brain-age in ultra-low-field MRI: how well does it work?"
-date: 2026-01-01
-publication: "*Imaging Neuroscience*"
-doi: "10.1162/imag.a.1352"
+date: 2025-01-01
+doi: "10.1101/2025.10.19.25338298"
 authors:
   - "francesca-biondo"
   - "Carly Bennallick"
