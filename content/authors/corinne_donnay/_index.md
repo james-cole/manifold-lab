@@ -40,9 +40,9 @@ education:
 # - icon: building-columns
 #  icon_pack: fas
 #  link: https://profiles.ucl.ac.uk/XXX
-# - icon: envelope
-#  icon_pack: fas
-#  link: "mailto:XXX@ucl.ac.uk"
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:c.donnay@ucl.ac.uk"
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: 
