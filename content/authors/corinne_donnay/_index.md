@@ -36,13 +36,13 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
+social:
 # - icon: building-columns
 #  icon_pack: fas
 #  link: https://profiles.ucl.ac.uk/XXX
-#  - icon: envelope
-#    icon_pack: fas
-#    link: "mailto:c.donnay@ucl.ac.uk"
+ - icon: envelope
+   icon_pack: fas
+   link: "mailto:c.donnay@ucl.ac.uk"
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: 
