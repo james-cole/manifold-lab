@@ -25,9 +25,9 @@ interests:
 
 education:
   courses:
-  # - course: PhD in Biomedical Sciences; Clinical Neuroscience
-    institution: National Institutes of Health & Oxford University
-  #  year: 2026
+   - course: PhD
+     institution: King's College London
+     year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
