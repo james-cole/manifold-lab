@@ -1,17 +1,16 @@
 ---
 title: "Multimodal brain-age prediction and cardiovascular risk: The Whitehall II MRI sub-study"
 date: 2020-01-01
-publication: "*NeuroImage*"
-doi: "10.1016/j.neuroimage.2020.117292"
+doi: "10.1101/2020.01.28.923094"
 authors:
   - "Ann-Marie G. de Lange"
   - "Melis Anatürk"
-  - "Sana Suri"
   - "Tobias Kaufmann"
   - admin
   - "Ludovica Griffanti"
   - "Enikő Zsoldos"
-  - "Daria E.A. Jensen"
+  - "Daria Jensen"
+  - "Sana Suri"
   - "Nicola Filippini"
   - "Archana Singh-Manoux"
   - "Mika Kivimäki"

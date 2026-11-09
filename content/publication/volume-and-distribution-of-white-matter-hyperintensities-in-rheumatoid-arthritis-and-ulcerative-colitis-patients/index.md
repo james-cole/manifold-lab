@@ -1,8 +1,7 @@
 ---
-title: "Volume and distribution of white matter hyperintensities in rheumatoid arthritis and ulcerative colitis patients"
+title: "Volume and Distribution of White Matter Hyperintensities in Rheumatoid Arthritis and Ulcerative Colitis Patients"
 date: 2024-01-01
-publication: "*Scientific Reports*"
-doi: "10.1038/s41598-024-83559-1"
+doi: "10.1101/2024.05.30.24308189"
 authors:
   - "Jennifer G. Cox"
   - admin
