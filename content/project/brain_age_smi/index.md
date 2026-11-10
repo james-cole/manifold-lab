@@ -1,5 +1,5 @@
 ---
-title: Scottish Medical Imaging Archive
+title: Population-scale brain age prediction
 summary: Exploring the utility of brain age in a population-scale imaging dataset with linked health records. 
 
 authors: 
@@ -23,4 +23,4 @@ image:
 
 ---
 
-In collaboration with researchers from The University of Edinburgh and eDRIS (Public Health Scotland).
+In collaboration with researchers from The University of Edinburgh and eDRIS (Public Health Scotland), this project aims to explore the real-world utility of brain age prediction using CT and MRI scans.
